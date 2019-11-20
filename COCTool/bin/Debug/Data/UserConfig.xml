@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <UserConfig>
   <ControlSelect>
-    <nRace>0</nRace>
+    <nRace>1</nRace>
     <nCareer>2</nCareer>
   </ControlSelect>
 </UserConfig>
