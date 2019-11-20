@@ -12,6 +12,8 @@ using System.IO;
 //操作XML
 using System.Xml.Linq;
 
+using System.Text.RegularExpressions;
+
 namespace COCTool
 {
     public partial class Form1 : Form
@@ -35,6 +37,7 @@ namespace COCTool
         long g_nRace = -1, g_nCareer = -1;
         string g_sXmlDirPath = "Data/";
         string g_sXmlName = "UserConfig.xml";
+        CSearchCard g_SearchCard = new CSearchCard();
 
         //写xml
         private void WriteXml()
@@ -155,18 +158,92 @@ namespace COCTool
             WriteXml();
         }
 
-        //private void InitDlgs()
-        //{
-        //    this.IsMdiContainer = true;
-        //    Deck DlgDeck = new Deck();
-        //    DlgDeck.MdiParent = this;
-        //    DlgDeck.Parent = panel1;
-        //    DlgDeck.Show();
-        //}
-
         private void pictureBox_portrait_Click(object sender, EventArgs e)
         {
             
+        }
+
+        private void SearchCard(string sShortName)
+        {
+
+        }
+
+        private void textBox1_KeyUp(object sender, KeyEventArgs e)
+        {
+            if(e.KeyCode == Keys.Return)
+            {
+                SearchCard(textBox1.Text);
+            }
+        }
+    }
+
+    //角色类
+    public class CFigure
+    {
+        public LinkedList<CCard> CardList;
+        public void AddCard(string sName,long nCount)
+        {
+            CCard newCard = new CCard(sName, nCount);
+            CardList.AddLast(newCard);
+        }
+    }
+
+    //卡牌类
+    public class CCard
+    {
+        private string m_sName; //卡牌名称
+        private long m_nCount;  //卡牌数量
+        //构造函数
+        public CCard(string sName,long nCount)
+        {
+            m_sName = sName;
+            m_nCount = nCount;
+        }
+    }
+
+    public class CCardName
+    {
+        public string sShort;
+        public string sFull;
+        public CCardName(string sFull)
+        {
+            this.sFull = sFull;
+            GetShort();
+        }
+        private void GetShort()
+        {
+            sShort = "";
+            string[] mm = Regex.Split(this.sFull, " ");
+            for (long i = 0; i < mm.Length; i++)
+            {
+                if (mm[i].Length > 0)
+                {
+                    this.sShort += mm[i][0];
+                }
+            }
+        }
+    }
+
+    //搜索卡牌类
+    public class CSearchCard
+    {
+        public LinkedList<CCardName> ShortNameList;
+        public CSearchCard()
+        {
+            ShortNameList = new LinkedList<CCardName>();
+
+            //构造函数即加载缩略图目录的所有卡片简称
+            string sThumbnailsPath = "Data/card_thumbnails/";
+            //文件夹存在判断
+            if (!Directory.Exists(sThumbnailsPath)) return;
+            string[] sFiles = Directory.GetFiles(sThumbnailsPath, "*.png");
+            for(long i=0;i<sFiles.Length;i++)
+            {
+                string name = Path.GetFileNameWithoutExtension(sFiles[i]);
+                CCardName cardName = new CCardName(name);
+                ShortNameList.AddLast(cardName);
+            }
+            return;
         }
     }
 }
