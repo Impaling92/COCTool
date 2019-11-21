@@ -37,7 +37,12 @@ namespace COCTool
         long g_nRace = -1, g_nCareer = -1;
         string g_sXmlDirPath = "Data/";
         string g_sXmlName = "UserConfig.xml";
+        //当前展示的人物名称列表
+        List<string> g_FigureNameList = new List<string>();
+        //用于搜索卡牌缩略名的全局类
         CSearchCard g_SearchCard = new CSearchCard();
+        //存储所有人物的全局链表
+        List<CFigure> g_FigureList = new List<CFigure>();
 
         //写xml
         private void WriteXml()
@@ -95,6 +100,7 @@ namespace COCTool
             //文件夹存在判断
             if (!Directory.Exists(sPicPath)) return;
 
+            g_FigureNameList.Clear();
             string[] sFiles = Directory.GetFiles(sPicPath, "*.png");
             PictureBox[] PicCtrls = { pictureBox_portrait, pictureBox1, pictureBox2, pictureBox3, pictureBox4 };
             for (long i = 0; i < 5; i++)
@@ -102,6 +108,8 @@ namespace COCTool
                 if (i < sFiles.Length)
                 {
                     PicCtrls[i].Load(sFiles[i]);
+                    
+                    g_FigureNameList.Add(Path.GetFileNameWithoutExtension(sFiles[i]));
                 }
                 else
                 {
@@ -158,16 +166,35 @@ namespace COCTool
             WriteXml();
         }
 
+        //双击人物图
         private void pictureBox_portrait_Click(object sender, EventArgs e)
         {
-            
+            int nIndex = 0;
+            if(nIndex >= 0 && nIndex < g_FigureNameList.Count)
+            {
+                label_FigureName.Text = g_FigureNameList[nIndex];
+            }
         }
 
         private void SearchCard(string sShortName)
         {
+            //小写转大写
+            sShortName = sShortName.ToUpper();
 
+            listBox1.Items.Clear();
+            g_SearchCard.FoundList.Clear();
+
+            foreach (CCardName Name in g_SearchCard.ShortNameList)
+            {
+                if(sShortName == Name.sShort)
+                {
+                    g_SearchCard.FoundList.Add(Name);
+                    listBox1.Items.Add(Name.sFull);
+                }
+            }
         }
 
+        //输入完毕触发搜索
         private void textBox1_KeyUp(object sender, KeyEventArgs e)
         {
             if(e.KeyCode == Keys.Return)
@@ -175,16 +202,22 @@ namespace COCTool
                 SearchCard(textBox1.Text);
             }
         }
+
+        //双击初次搜索列表添加一个卡
+        private void listBox1_MouseClick(object sender, MouseEventArgs e)
+        {
+
+        }
     }
 
     //角色类
     public class CFigure
     {
-        public LinkedList<CCard> CardList;
+        public List<CCard> CardList;
         public void AddCard(string sName,long nCount)
         {
             CCard newCard = new CCard(sName, nCount);
-            CardList.AddLast(newCard);
+            CardList.Add(newCard);
         }
     }
 
@@ -227,10 +260,13 @@ namespace COCTool
     //搜索卡牌类
     public class CSearchCard
     {
-        public LinkedList<CCardName> ShortNameList;
+        public List<CCardName> ShortNameList;   //所有名称
+
+        public List<CCardName> FoundList;       //每次搜索到的列表
         public CSearchCard()
         {
-            ShortNameList = new LinkedList<CCardName>();
+            ShortNameList = new List<CCardName>();
+            FoundList = new List<CCardName>();
 
             //构造函数即加载缩略图目录的所有卡片简称
             string sThumbnailsPath = "Data/card_thumbnails/";
@@ -241,7 +277,7 @@ namespace COCTool
             {
                 string name = Path.GetFileNameWithoutExtension(sFiles[i]);
                 CCardName cardName = new CCardName(name);
-                ShortNameList.AddLast(cardName);
+                ShortNameList.Add(cardName);
             }
             return;
         }

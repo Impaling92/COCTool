@@ -47,9 +47,9 @@
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.numericUpDown1 = new System.Windows.Forms.NumericUpDown();
-            this.button1 = new System.Windows.Forms.Button();
             this.label3 = new System.Windows.Forms.Label();
             this.listBox2 = new System.Windows.Forms.ListBox();
+            this.label_FigureName = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox_portrait)).BeginInit();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
@@ -63,7 +63,7 @@
             // pictureBox_portrait
             // 
             this.pictureBox_portrait.BackColor = System.Drawing.SystemColors.ControlDark;
-            this.pictureBox_portrait.Location = new System.Drawing.Point(12, 99);
+            this.pictureBox_portrait.Location = new System.Drawing.Point(12, 86);
             this.pictureBox_portrait.Margin = new System.Windows.Forms.Padding(4);
             this.pictureBox_portrait.Name = "pictureBox_portrait";
             this.pictureBox_portrait.Size = new System.Drawing.Size(81, 103);
@@ -171,7 +171,7 @@
             // pictureBox1
             // 
             this.pictureBox1.BackColor = System.Drawing.SystemColors.ControlDark;
-            this.pictureBox1.Location = new System.Drawing.Point(131, 99);
+            this.pictureBox1.Location = new System.Drawing.Point(131, 86);
             this.pictureBox1.Margin = new System.Windows.Forms.Padding(4);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(81, 103);
@@ -182,7 +182,7 @@
             // pictureBox2
             // 
             this.pictureBox2.BackColor = System.Drawing.SystemColors.ControlDark;
-            this.pictureBox2.Location = new System.Drawing.Point(250, 99);
+            this.pictureBox2.Location = new System.Drawing.Point(250, 86);
             this.pictureBox2.Margin = new System.Windows.Forms.Padding(4);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(81, 103);
@@ -193,7 +193,7 @@
             // pictureBox3
             // 
             this.pictureBox3.BackColor = System.Drawing.SystemColors.ControlDark;
-            this.pictureBox3.Location = new System.Drawing.Point(369, 99);
+            this.pictureBox3.Location = new System.Drawing.Point(369, 86);
             this.pictureBox3.Margin = new System.Windows.Forms.Padding(4);
             this.pictureBox3.Name = "pictureBox3";
             this.pictureBox3.Size = new System.Drawing.Size(81, 103);
@@ -204,7 +204,7 @@
             // pictureBox4
             // 
             this.pictureBox4.BackColor = System.Drawing.SystemColors.ControlDark;
-            this.pictureBox4.Location = new System.Drawing.Point(488, 99);
+            this.pictureBox4.Location = new System.Drawing.Point(488, 86);
             this.pictureBox4.Margin = new System.Windows.Forms.Padding(4);
             this.pictureBox4.Name = "pictureBox4";
             this.pictureBox4.Size = new System.Drawing.Size(81, 103);
@@ -216,7 +216,7 @@
             // 
             this.textBox1.Location = new System.Drawing.Point(12, 249);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(115, 26);
+            this.textBox1.Size = new System.Drawing.Size(181, 26);
             this.textBox1.TabIndex = 15;
             this.textBox1.KeyUp += new System.Windows.Forms.KeyEventHandler(this.textBox1_KeyUp);
             // 
@@ -226,8 +226,9 @@
             this.listBox1.ItemHeight = 16;
             this.listBox1.Location = new System.Drawing.Point(12, 281);
             this.listBox1.Name = "listBox1";
-            this.listBox1.Size = new System.Drawing.Size(115, 116);
+            this.listBox1.Size = new System.Drawing.Size(181, 260);
             this.listBox1.TabIndex = 16;
+            this.listBox1.MouseClick += new System.Windows.Forms.MouseEventHandler(this.listBox1_MouseClick);
             // 
             // label1
             // 
@@ -241,7 +242,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(142, 231);
+            this.label2.Location = new System.Drawing.Point(196, 231);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(40, 16);
             this.label2.TabIndex = 19;
@@ -249,24 +250,15 @@
             // 
             // numericUpDown1
             // 
-            this.numericUpDown1.Location = new System.Drawing.Point(145, 249);
+            this.numericUpDown1.Location = new System.Drawing.Point(199, 249);
             this.numericUpDown1.Name = "numericUpDown1";
             this.numericUpDown1.Size = new System.Drawing.Size(120, 26);
             this.numericUpDown1.TabIndex = 20;
             // 
-            // button1
-            // 
-            this.button1.Location = new System.Drawing.Point(145, 310);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(120, 87);
-            this.button1.TabIndex = 21;
-            this.button1.Text = "添加";
-            this.button1.UseVisualStyleBackColor = true;
-            // 
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(313, 231);
+            this.label3.Location = new System.Drawing.Point(336, 231);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(72, 16);
             this.label3.TabIndex = 23;
@@ -276,19 +268,29 @@
             // 
             this.listBox2.FormattingEnabled = true;
             this.listBox2.ItemHeight = 16;
-            this.listBox2.Location = new System.Drawing.Point(313, 250);
+            this.listBox2.Location = new System.Drawing.Point(339, 249);
             this.listBox2.Name = "listBox2";
             this.listBox2.Size = new System.Drawing.Size(230, 292);
             this.listBox2.TabIndex = 22;
+            // 
+            // label_FigureName
+            // 
+            this.label_FigureName.AutoSize = true;
+            this.label_FigureName.BackColor = System.Drawing.SystemColors.Info;
+            this.label_FigureName.Location = new System.Drawing.Point(15, 197);
+            this.label_FigureName.Name = "label_FigureName";
+            this.label_FigureName.Size = new System.Drawing.Size(72, 16);
+            this.label_FigureName.TabIndex = 24;
+            this.label_FigureName.Text = "人物名称";
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(594, 555);
+            this.Controls.Add(this.label_FigureName);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.listBox2);
-            this.Controls.Add(this.button1);
             this.Controls.Add(this.numericUpDown1);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
@@ -343,9 +345,9 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.NumericUpDown numericUpDown1;
-        private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.ListBox listBox2;
+        private System.Windows.Forms.Label label_FigureName;
     }
 }
 
