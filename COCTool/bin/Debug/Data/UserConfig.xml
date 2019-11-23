@@ -1,7 +1,173 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<UserConfig>
-  <ControlSelect>
-    <nRace>0</nRace>
-    <nCareer>2</nCareer>
-  </ControlSelect>
-</UserConfig>
+<SaveData>
+  <UserConfig>
+    <ControlSelect>
+      <nRace>0</nRace>
+      <nCareer>0</nCareer>
+    </ControlSelect>
+  </UserConfig>
+  <FigureData>
+    <nFigureCount>4</nFigureCount>
+    <FigureName0>DwarfWizardF04C</FigureName0>
+    <CardCount0>24</CardCount0>
+    <DwarfWizardF04C>
+      <CardName0>Hard to Pin Down</CardName0>
+      <Count0>1</Count0>
+      <CardName1>Vulnerable</CardName1>
+      <Count1>1</Count1>
+      <CardName2>Flash Flood</CardName2>
+      <Count2>1</Count2>
+      <CardName3>Illusory Barrier</CardName3>
+      <Count3>2</Count3>
+      <CardName4>Winds of War</CardName4>
+      <Count4>1</Count4>
+      <CardName5>Blizzard Breath</CardName5>
+      <Count5>1</Count5>
+      <CardName6>Dimensional Traveller</CardName6>
+      <Count6>2</Count6>
+      <CardName7>Frost Jolt</CardName7>
+      <Count7>4</Count7>
+      <CardName8>Adaptable</CardName8>
+      <Count8>1</Count8>
+      <CardName9>Teleport Self</CardName9>
+      <Count9>1</Count9>
+      <CardName10>Freeze</CardName10>
+      <Count10>2</Count10>
+      <CardName11>Trip</CardName11>
+      <Count11>1</Count11>
+      <CardName12>Chilling Rime</CardName12>
+      <Count12>1</Count12>
+      <CardName13>Force Bolt</CardName13>
+      <Count13>1</Count13>
+      <CardName14>Ice Bolts</CardName14>
+      <Count14>2</Count14>
+      <CardName15>Arcane Shell</CardName15>
+      <Count15>1</Count15>
+      <CardName16>Cone of Cold</CardName16>
+      <Count16>2</Count16>
+      <CardName17>Toughness</CardName17>
+      <Count17>2</Count17>
+      <CardName18>Melt Armor</CardName18>
+      <Count18>1</Count18>
+      <CardName19>Combustible</CardName19>
+      <Count19>1</Count19>
+      <CardName20>Squeamish</CardName20>
+      <Count20>1</Count20>
+      <CardName21>Rusty Armor</CardName21>
+      <Count21>1</Count21>
+      <CardName22>Cold Snap</CardName22>
+      <Count22>2</Count22>
+      <CardName23>Escaping Run</CardName23>
+      <Count23>1</Count23>
+    </DwarfWizardF04C>
+    <FigureName1>HumanWizardF03C</FigureName1>
+    <CardCount1>22</CardCount1>
+    <HumanWizardF03C>
+      <CardName0>Hard to Pin Down</CardName0>
+      <Count0>1</Count0>
+      <CardName1>Flash of Agony</CardName1>
+      <Count1>1</Count1>
+      <CardName2>Acid Blast</CardName2>
+      <Count2>1</Count2>
+      <CardName3>Muscle Through</CardName3>
+      <Count3>1</Count3>
+      <CardName4>Dastardly Curse</CardName4>
+      <Count4>1</Count4>
+      <CardName5>Flash Flood</CardName5>
+      <Count5>3</Count5>
+      <CardName6>Acid Jet</CardName6>
+      <Count6>4</Count6>
+      <CardName7>Resistant Hide</CardName7>
+      <Count7>1</Count7>
+      <CardName8>Sizzling Bolt</CardName8>
+      <Count8>2</Count8>
+      <CardName9>Traveling Curse</CardName9>
+      <Count9>1</Count9>
+      <CardName10>Arcane Feedback</CardName10>
+      <Count10>1</Count10>
+      <CardName11>Force Field</CardName11>
+      <Count11>1</Count11>
+      <CardName12>Acid Pool</CardName12>
+      <Count12>4</Count12>
+      <CardName13>Penetrating Bolt</CardName13>
+      <Count13>2</Count13>
+      <CardName14>Perplexing Ray</CardName14>
+      <Count14>1</Count14>
+      <CardName15>Melt Armor</CardName15>
+      <Count15>3</Count15>
+      <CardName16>Dimensional Traveller</CardName16>
+      <Count16>1</Count16>
+      <CardName17>Force Cannon</CardName17>
+      <Count17>3</Count17>
+      <CardName18>Surging Blast</CardName18>
+      <Count18>1</Count18>
+      <CardName19>Jarring Block</CardName19>
+      <Count19>1</Count19>
+      <CardName20>Jump, Soldier!</CardName20>
+      <Count20>1</Count20>
+      <CardName21>Block, Soldier!</CardName21>
+      <Count21>1</Count21>
+    </HumanWizardF03C>
+    <FigureName2>ElfWizardF01C</FigureName2>
+    <CardCount2>27</CardCount2>
+    <ElfWizardF01C>
+      <CardName0>Elven Trickery</CardName0>
+      <Count0>1</Count0>
+      <CardName1>Powerful Spark</CardName1>
+      <Count1>3</Count1>
+      <CardName2>Wall of Fire</CardName2>
+      <Count2>2</Count2>
+      <CardName3>Vulnerable</CardName3>
+      <Count3>1</Count3>
+      <CardName4>Winds of War</CardName4>
+      <Count4>2</Count4>
+      <CardName5>Arcane Aura</CardName5>
+      <Count5>2</Count5>
+      <CardName6>Magma Spray</CardName6>
+      <Count6>1</Count6>
+      <CardName7>Reliable Hide Armor</CardName7>
+      <Count7>1</Count7>
+      <CardName8>Memory Loss</CardName8>
+      <Count8>1</Count8>
+      <CardName9>Potent Spark</CardName9>
+      <Count9>1</Count9>
+      <CardName10>Stone Spikes</CardName10>
+      <Count10>1</Count10>
+      <CardName11>Arcing Spark</CardName11>
+      <Count11>3</Count11>
+      <CardName12>Punishing Bolt</CardName12>
+      <Count12>1</Count12>
+      <CardName13>Spark Inductor</CardName13>
+      <Count13>1</Count13>
+      <CardName14>Flanking Move</CardName14>
+      <Count14>1</Count14>
+      <CardName15>Mighty Spark</CardName15>
+      <Count15>2</Count15>
+      <CardName16>Spark Generator</CardName16>
+      <Count16>1</Count16>
+      <CardName17>Wall of Illusion</CardName17>
+      <Count17>1</Count17>
+      <CardName18>Combustible</CardName18>
+      <Count18>1</Count18>
+      <CardName19>Squeamish</CardName19>
+      <Count19>1</Count19>
+      <CardName20>Force Cannon</CardName20>
+      <Count20>1</Count20>
+      <CardName21>Pushback Parry</CardName21>
+      <Count21>1</Count21>
+      <CardName22>Quick Run</CardName22>
+      <Count22>1</Count22>
+      <CardName23>Spark</CardName23>
+      <Count23>2</Count23>
+      <CardName24>Dissolve Armor</CardName24>
+      <Count24>1</Count24>
+      <CardName25>Escaping Run</CardName25>
+      <Count25>1</Count25>
+      <CardName26>Smoke Bomb</CardName26>
+      <Count26>1</Count26>
+    </ElfWizardF01C>
+    <FigureName3>DwarfWarriorF05C</FigureName3>
+    <CardCount3>0</CardCount3>
+    <DwarfWarriorF05C />
+  </FigureData>
+</SaveData>

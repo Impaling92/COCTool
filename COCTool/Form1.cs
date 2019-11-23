@@ -34,7 +34,7 @@ namespace COCTool
         }
 
         //全局变量
-        long g_nRace = -1, g_nCareer = -1;
+        long g_nRace = 0, g_nCareer = 0;
         string g_sXmlDirPath = "Data/";
         string g_sXmlName = "UserConfig.xml";
         //当前展示的人物名称列表
@@ -43,6 +43,8 @@ namespace COCTool
         CSearchCard g_SearchCard = new CSearchCard();
         //存储所有人物的全局链表
         List<CFigure> g_FigureList = new List<CFigure>();
+        //存储当前编辑的人物
+        CFigure g_CurrEditFigure = null;
 
         //写xml
         private void WriteXml()
@@ -50,12 +52,39 @@ namespace COCTool
             if (!Directory.Exists(g_sXmlDirPath)) return;
 
             XDocument doc = new XDocument();
-            XElement root = new XElement("UserConfig");
+            XElement root = new XElement("SaveData");
+            //保存用户配置
+            XElement UserConfig = new XElement("UserConfig");
             XElement ControlSelect = new XElement("ControlSelect");
             ControlSelect.SetElementValue("nRace", g_nRace);
             ControlSelect.SetElementValue("nCareer", g_nCareer);
-            root.Add(ControlSelect);
-            root.Save(g_sXmlDirPath + g_sXmlName);
+            UserConfig.Add(ControlSelect);
+            root.Add(UserConfig);
+            
+            //保存角色数据
+            XElement FigureData = new XElement("FigureData");
+            int nFigureCount = g_FigureList.Count;
+            FigureData.SetElementValue("nFigureCount", nFigureCount);
+            for (int i = 0; i < nFigureCount; i++)
+            {
+                CFigure tempiFigure = g_FigureList[i];
+                FigureData.SetElementValue(string.Format("FigureName{0}", i), tempiFigure.sName);
+                XElement tempElement = new XElement(tempiFigure.sName);
+                long nCardCount = tempiFigure.CardList.Count;
+                FigureData.SetElementValue(string.Format("CardCount{0}", i), nCardCount);
+                for (int j = 0; j < nCardCount; j++) 
+                {
+                    tempElement.SetElementValue(string.Format("CardName{0}", j), tempiFigure.CardList[j].m_sName);
+                    tempElement.SetElementValue(string.Format("Count{0}", j), tempiFigure.CardList[j].m_nCount);
+                }
+                FigureData.Add(tempElement);
+            }    
+            root.Add(FigureData);
+
+            doc.Add(root);
+            doc.Save(g_sXmlDirPath + g_sXmlName);
+            //保存角色类
+
         }
 
         //读xml
@@ -65,7 +94,8 @@ namespace COCTool
 
             XDocument doc = XDocument.Load(g_sXmlDirPath + g_sXmlName);
             XElement root = doc.Root;
-            XElement ControlSelect = root.Element("ControlSelect");
+            XElement UserConfig = root.Element("UserConfig");
+            XElement ControlSelect = UserConfig.Element("ControlSelect");
 
             XElement Param = ControlSelect.Element("nRace");
             g_nRace = long.Parse(Param.Value);
@@ -76,6 +106,28 @@ namespace COCTool
             g_nCareer = long.Parse(Param.Value);
             g_nCareer = g_nCareer < 0 ? 0 : g_nCareer;
             g_nCareer = g_nCareer > 2 ? 2 : g_nCareer;
+
+            //读取角色数据
+            g_FigureList.Clear();
+            XElement FigureData = root.Element("FigureData");
+            if(FigureData != null)
+            {
+                int nFigureCount = int.Parse(FigureData.Element("nFigureCount").Value);
+                for (int i = 0; i < nFigureCount; i++)
+                {
+                    string sFigureName = FigureData.Element(string.Format("FigureName{0}", i)).Value;
+                    CFigure tempFigure = new CFigure(sFigureName);
+                    long nCardCount = int.Parse(FigureData.Element(string.Format("CardCount{0}", i)).Value);
+                    XElement tempElement = FigureData.Element(sFigureName);
+                    for (int j = 0; j < nCardCount; j++)
+                    {
+                        string sCardName = tempElement.Element(string.Format("CardName{0}", j)).Value;
+                        long nCount = long.Parse(tempElement.Element(string.Format("Count{0}", j)).Value);
+                        tempFigure.AddCard(sCardName, nCount);
+                    }
+                    g_FigureList.Add(tempFigure);
+                }
+            }
         }
 
         //初始化种族和职业选择
@@ -172,8 +224,33 @@ namespace COCTool
             int nIndex = 0;
             if(nIndex >= 0 && nIndex < g_FigureNameList.Count)
             {
-                label_FigureName.Text = g_FigureNameList[nIndex];
+                LoadFigure(g_FigureNameList[nIndex]);
             }
+        }
+
+        //加载角色
+        private void LoadFigure(string sFigureName)
+        {
+            //先搜索角色列表，打开该角色
+            CFigure tempFig = g_FigureList.Find(x => x.sName == sFigureName);
+            if (tempFig == null)
+            {
+                CFigure newFigure = new CFigure(sFigureName);
+                g_FigureList.Add(newFigure);
+                g_CurrEditFigure = newFigure;
+            }
+            else
+            {
+                g_CurrEditFigure = tempFig;
+            }
+
+            //刷新控件显示
+            listBox2.DataSource = null;
+            listBox2.DisplayMember = "m_sShowText";
+            listBox2.DataSource = g_CurrEditFigure.CardList;
+
+            //显示人物名
+            label_FigureName.Text = sFigureName;
         }
 
         private void SearchCard(string sShortName)
@@ -181,17 +258,27 @@ namespace COCTool
             //小写转大写
             sShortName = sShortName.ToUpper();
 
-            listBox1.Items.Clear();
+            //listBox1.Items.Clear();
             g_SearchCard.FoundList.Clear();
-
             foreach (CCardName Name in g_SearchCard.ShortNameList)
             {
                 if(sShortName == Name.sShort)
                 {
                     g_SearchCard.FoundList.Add(Name);
-                    listBox1.Items.Add(Name.sFull);
+                    //listBox1.Items.Add(Name.sFull);
                 }
             }
+            //刷新控件显示
+            //listBox1.DataSource = null;
+            //listBox1.DisplayMember = "sFull";
+            //listBox1.DataSource = g_SearchCard.FoundList;
+            listBox1.BeginUpdate();
+            listBox1.Items.Clear();
+            foreach (CCardName card in g_SearchCard.FoundList)
+            {
+                listBox1.Items.Add(card.sFull);
+            }
+            listBox1.EndUpdate();
         }
 
         //输入完毕触发搜索
@@ -204,40 +291,122 @@ namespace COCTool
         }
 
         //双击初次搜索列表添加一个卡
-        private void listBox1_MouseClick(object sender, MouseEventArgs e)
+        private void listBox1_MouseDoubleClick(object sender, MouseEventArgs e)
         {
+            if (g_CurrEditFigure == null || listBox1.SelectedItem == null) return;
 
+            string sFull = listBox1.SelectedItem.ToString();
+            long nCount = Convert.ToInt32(numericUpDown1.Value);
+
+            g_CurrEditFigure.AddCard(sFull, nCount);
+
+            //刷新控件显示
+            listBox2.DataSource = null;
+            listBox2.DisplayMember = "m_sShowText";
+            listBox2.DataSource = g_CurrEditFigure.CardList;
+            listBox2.SelectedIndex = listBox2.Items.Count - 1;
+        }
+
+        //加载卡牌图片列表
+        private void LoadCardImgList()
+        {
+            if (g_CurrEditFigure == null) return;
+
+            ImageList CardImgList = new ImageList();
+            foreach (CCard card in g_CurrEditFigure.CardList)
+            {
+                Image image = Image.FromFile("Data/card_thumbnails/" + card.m_sName + ".png");
+                CardImgList.Images.Add(image);
+            }
+            CardImgList.ImageSize = new Size(41, 24);
+
+            listView1.View = View.SmallIcon;
+            listView1.SmallImageList = CardImgList;
+
+            listView1.BeginUpdate();
+            listView1.Clear();
+            int nIndex = 0; 
+            foreach (CCard card in g_CurrEditFigure.CardList)
+            {
+                ListViewItem lvi = new ListViewItem();
+                lvi.ImageIndex = nIndex;
+                nIndex++;
+                lvi.Text = string.Format(" × {0}", card.m_nCount);
+
+                lvi.SubItems.Add("123");
+
+                listView1.Items.Add(lvi);
+            }
+            listView1.EndUpdate();
+        }
+
+        private void button_ShowImg_Click(object sender, EventArgs e)
+        {
+            LoadCardImgList();
         }
     }
 
     //角色类
     public class CFigure
     {
-        public List<CCard> CardList;
+        //角色名称
+        public string sName;
+
+        //此角色拥有的所有卡牌
+        public List<CCard> CardList = new List<CCard>();
+
+        //构造函数
+        public CFigure(string sName)
+        {
+            this.sName = sName;
+        }
+
         public void AddCard(string sName,long nCount)
         {
-            CCard newCard = new CCard(sName, nCount);
-            CardList.Add(newCard);
+            //先检查有没有重复的，若有，先删除
+            int oldIndex = CardList.FindIndex(x => x.m_sName == sName);
+            if (oldIndex != -1)
+            {
+                if(nCount == 0)
+                {
+                    CardList.RemoveAt(oldIndex);
+                }
+                else
+                {
+                    CCard newCard = new CCard(sName, nCount);
+                    CardList[oldIndex] = newCard;
+                }
+            }
+            else
+            {
+                if(nCount > 0)
+                {
+                    CCard newCard = new CCard(sName, nCount);
+                    CardList.Add(newCard);
+                }
+            }
         }
     }
 
     //卡牌类
     public class CCard
     {
-        private string m_sName; //卡牌名称
-        private long m_nCount;  //卡牌数量
+        public string m_sName { get; set; } //卡牌名称
+        public long m_nCount { get; set; }  //卡牌数量
+        public string m_sShowText { get; set; }  //展示文本
         //构造函数
         public CCard(string sName,long nCount)
         {
             m_sName = sName;
             m_nCount = nCount;
+            m_sShowText = string.Format("{0} × ", m_nCount) + m_sName;
         }
     }
 
     public class CCardName
     {
-        public string sShort;
-        public string sFull;
+        public string sShort { get; set; }
+        public string sFull { get; set; }
         public CCardName(string sFull)
         {
             this.sFull = sFull;
@@ -245,7 +414,7 @@ namespace COCTool
         }
         private void GetShort()
         {
-            sShort = "";
+            this.sShort = "";
             string[] mm = Regex.Split(this.sFull, " ");
             for (long i = 0; i < mm.Length; i++)
             {
@@ -254,6 +423,7 @@ namespace COCTool
                     this.sShort += mm[i][0];
                 }
             }
+            this.sShort = this.sShort.ToUpper();
         }
     }
 
