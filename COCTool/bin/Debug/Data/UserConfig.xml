@@ -3,11 +3,11 @@
   <UserConfig>
     <ControlSelect>
       <nRace>0</nRace>
-      <nCareer>0</nCareer>
+      <nCareer>2</nCareer>
     </ControlSelect>
   </UserConfig>
   <FigureData>
-    <nFigureCount>4</nFigureCount>
+    <nFigureCount>16</nFigureCount>
     <FigureName0>DwarfWizardF04C</FigureName0>
     <CardCount0>24</CardCount0>
     <DwarfWizardF04C>
@@ -169,5 +169,390 @@
     <FigureName3>DwarfWarriorF05C</FigureName3>
     <CardCount3>0</CardCount3>
     <DwarfWarriorF05C />
+    <FigureName4>DwarfWizardF05C</FigureName4>
+    <CardCount4>25</CardCount4>
+    <DwarfWizardF05C>
+      <CardName0>Mighty Charge</CardName0>
+      <Count0>1</Count0>
+      <CardName1>Telekinesis</CardName1>
+      <Count1>3</Count1>
+      <CardName2>Winds of War</CardName2>
+      <Count2>2</Count2>
+      <CardName3>Big Zap</CardName3>
+      <Count3>1</Count3>
+      <CardName4>Potent Spark</CardName4>
+      <Count4>1</Count4>
+      <CardName5>Whirlwind Enemies</CardName5>
+      <Count5>1</Count5>
+      <CardName6>Frost Jolt</CardName6>
+      <Count6>3</Count6>
+      <CardName7>Path of Knives</CardName7>
+      <Count7>1</Count7>
+      <CardName8>Parry</CardName8>
+      <Count8>1</Count8>
+      <CardName9>Teleport Self</CardName9>
+      <Count9>1</Count9>
+      <CardName10>Freeze</CardName10>
+      <Count10>2</Count10>
+      <CardName11>Reliable Mail</CardName11>
+      <Count11>2</Count11>
+      <CardName12>Muscle Through</CardName12>
+      <Count12>1</Count12>
+      <CardName13>Immovable</CardName13>
+      <Count13>1</Count13>
+      <CardName14>Gusts of War</CardName14>
+      <Count14>1</Count14>
+      <CardName15>Mighty Spark</CardName15>
+      <Count15>2</Count15>
+      <CardName16>Spark Generator</CardName16>
+      <Count16>1</Count16>
+      <CardName17>Cone of Cold</CardName17>
+      <Count17>2</Count17>
+      <CardName18>Hot Spot</CardName18>
+      <Count18>1</Count18>
+      <CardName19>Melt Armor</CardName19>
+      <Count19>1</Count19>
+      <CardName20>Toughness</CardName20>
+      <Count20>1</Count20>
+      <CardName21>Squeamish</CardName21>
+      <Count21>2</Count21>
+      <CardName22>Rockfall</CardName22>
+      <Count22>1</Count22>
+      <CardName23>Dissolve Armor</CardName23>
+      <Count23>1</Count23>
+      <CardName24>Cold Snap</CardName24>
+      <Count24>2</Count24>
+    </DwarfWizardF05C>
+    <FigureName5>DwarfWizardM01C</FigureName5>
+    <CardCount5>22</CardCount5>
+    <DwarfWizardM01C>
+      <CardName0>Boiling Armor</CardName0>
+      <Count0>1</Count0>
+      <CardName1>Flash of Agony</CardName1>
+      <Count1>2</Count1>
+      <CardName2>Flash Flood</CardName2>
+      <Count2>1</Count2>
+      <CardName3>Wall of Fire</CardName3>
+      <Count3>4</Count3>
+      <CardName4>Hardy Mail</CardName4>
+      <Count4>1</Count4>
+      <CardName5>Hot Flames</CardName5>
+      <Count5>1</Count5>
+      <CardName6>Winds of War</CardName6>
+      <Count6>1</Count6>
+      <CardName7>Sizzling Bolt</CardName7>
+      <Count7>1</Count7>
+      <CardName8>Mighty Spark</CardName8>
+      <Count8>2</Count8>
+      <CardName9>Instant Burn</CardName9>
+      <Count9>1</Count9>
+      <CardName10>Magma Spray</CardName10>
+      <Count10>3</Count10>
+      <CardName11>Volcano</CardName11>
+      <Count11>3</Count11>
+      <CardName12>Hot Spot</CardName12>
+      <Count12>3</Count12>
+      <CardName13>Toughness</CardName13>
+      <Count13>1</Count13>
+      <CardName14>Fireball</CardName14>
+      <Count14>1</Count14>
+      <CardName15>Combustible</CardName15>
+      <Count15>2</Count15>
+      <CardName16>Squeamish</CardName16>
+      <Count16>1</Count16>
+      <CardName17>Hover</CardName17>
+      <Count17>1</Count17>
+      <CardName18>Jarring Block</CardName18>
+      <Count18>2</Count18>
+      <CardName19>Flight Aura</CardName19>
+      <Count19>2</Count19>
+      <CardName20>Firestarter</CardName20>
+      <Count20>1</Count20>
+      <CardName21>Sprint</CardName21>
+      <Count21>1</Count21>
+    </DwarfWizardM01C>
+    <FigureName6>DwarfWizardM07C</FigureName6>
+    <CardCount6>23</CardCount6>
+    <DwarfWizardM07C>
+      <CardName0>Arcing Spark</CardName0>
+      <Count0>2</Count0>
+      <CardName1>Powerful Spark</CardName1>
+      <Count1>2</Count1>
+      <CardName2>Wall of Fire</CardName2>
+      <Count2>1</Count2>
+      <CardName3>Thick Hide Armor</CardName3>
+      <Count3>1</Count3>
+      <CardName4>Winds of War</CardName4>
+      <Count4>2</Count4>
+      <CardName5>Arcane Aura</CardName5>
+      <Count5>1</Count5>
+      <CardName6>Gusts of War</CardName6>
+      <Count6>2</Count6>
+      <CardName7>Mighty Spark</CardName7>
+      <Count7>2</Count7>
+      <CardName8>Spark Generator</CardName8>
+      <Count8>3</Count8>
+      <CardName9>Magma Spray</CardName9>
+      <Count9>1</Count9>
+      <CardName10>Team Shift</CardName10>
+      <Count10>1</Count10>
+      <CardName11>Sorcerous Bolt</CardName11>
+      <Count11>1</Count11>
+      <CardName12>Hot Spot</CardName12>
+      <Count12>3</Count12>
+      <CardName13>Dash</CardName13>
+      <Count13>1</Count13>
+      <CardName14>Resistant Hide</CardName14>
+      <Count14>1</Count14>
+      <CardName15>Memory Loss</CardName15>
+      <Count15>1</Count15>
+      <CardName16>Mail</CardName16>
+      <Count16>1</Count16>
+      <CardName17>Combustible</CardName17>
+      <Count17>1</Count17>
+      <CardName18>Squeamish</CardName18>
+      <Count18>1</Count18>
+      <CardName19>Shifty Stab</CardName19>
+      <Count19>1</Count19>
+      <CardName20>Pushback Parry</CardName20>
+      <Count20>1</Count20>
+      <CardName21>Dissolve Armor</CardName21>
+      <Count21>5</Count21>
+      <CardName22>Parry</CardName22>
+      <Count22>1</Count22>
+    </DwarfWizardM07C>
+    <FigureName7>DwarfWarriorM01C</FigureName7>
+    <CardCount7>24</CardCount7>
+    <DwarfWarriorM01C>
+      <CardName0>Trained Bludgeon</CardName0>
+      <Count0>1</Count0>
+      <CardName1>Hit the Deck</CardName1>
+      <Count1>1</Count1>
+      <CardName2>Muscle Through</CardName2>
+      <Count2>1</Count2>
+      <CardName3>Unreliable Block</CardName3>
+      <Count3>1</Count3>
+      <CardName4>Thick Hide Armor</CardName4>
+      <Count4>1</Count4>
+      <CardName5>Pressing Bash</CardName5>
+      <Count5>2</Count5>
+      <CardName6>Sundering Strike</CardName6>
+      <Count6>1</Count6>
+      <CardName7>Shield Block</CardName7>
+      <Count7>1</Count7>
+      <CardName8>Immovable</CardName8>
+      <Count8>2</Count8>
+      <CardName9>Scuttle, Team!</CardName9>
+      <Count9>1</Count9>
+      <CardName10>Thickened Mail</CardName10>
+      <Count10>1</Count10>
+      <CardName11>Bludgeon</CardName11>
+      <Count11>5</Count11>
+      <CardName12>Reliable Hide Armor</CardName12>
+      <Count12>1</Count12>
+      <CardName13>Surging Shield Block</CardName13>
+      <Count13>1</Count13>
+      <CardName14>Pulverizing Bludgeon</CardName14>
+      <Count14>2</Count14>
+      <CardName15>Dynamic Armor</CardName15>
+      <Count15>1</Count15>
+      <CardName16>Strong Bludgeon</CardName16>
+      <Count16>1</Count16>
+      <CardName17>Flight Aura</CardName17>
+      <Count17>1</Count17>
+      <CardName18>Crusher</CardName18>
+      <Count18>2</Count18>
+      <CardName19>Block</CardName19>
+      <Count19>1</Count19>
+      <CardName20>Dash, Team!</CardName20>
+      <Count20>1</Count20>
+      <CardName21>Sprint</CardName21>
+      <Count21>1</Count21>
+      <CardName22>Potent Stab</CardName22>
+      <Count22>3</Count22>
+      <CardName23>Dancing Cut</CardName23>
+      <Count23>3</Count23>
+    </DwarfWarriorM01C>
+    <FigureName8>HumanPriestF01C</FigureName8>
+    <CardCount8>28</CardCount8>
+    <HumanPriestF01C>
+      <CardName0>Leadership</CardName0>
+      <Count0>2</Count0>
+      <CardName1>Soothing Darkness</CardName1>
+      <Count1>1</Count1>
+      <CardName2>Powerful Bash</CardName2>
+      <Count2>2</Count2>
+      <CardName3>Unholy Wellspring</CardName3>
+      <Count3>1</Count3>
+      <CardName4>Thick Hide Armor</CardName4>
+      <Count4>1</Count4>
+      <CardName5>Purging Burst</CardName5>
+      <Count5>1</Count5>
+      <CardName6>Altruism</CardName6>
+      <Count6>2</Count6>
+      <CardName7>Wounded Block</CardName7>
+      <Count7>1</Count7>
+      <CardName8>Impenetrable Nimbus</CardName8>
+      <Count8>1</Count8>
+      <CardName9>Purge</CardName9>
+      <Count9>1</Count9>
+      <CardName10>Dangerous Maneuver</CardName10>
+      <Count10>1</Count10>
+      <CardName11>Parry</CardName11>
+      <Count11>1</Count11>
+      <CardName12>Scamper</CardName12>
+      <Count12>1</Count12>
+      <CardName13>Reliable Mail</CardName13>
+      <Count13>1</Count13>
+      <CardName14>Demonic Miasma</CardName14>
+      <Count14>1</Count14>
+      <CardName15>Limited Heal</CardName15>
+      <Count15>2</Count15>
+      <CardName16>Team Heal</CardName16>
+      <Count16>2</Count16>
+      <CardName17>Enervating Touch</CardName17>
+      <Count17>1</Count17>
+      <CardName18>Sundering Strike</CardName18>
+      <Count18>1</Count18>
+      <CardName19>Able Bash</CardName19>
+      <Count19>2</Count19>
+      <CardName20>Savage Curse</CardName20>
+      <Count20>1</Count20>
+      <CardName21>Cleansing Burst</CardName21>
+      <Count21>2</Count21>
+      <CardName22>Demonic Power</CardName22>
+      <Count22>1</Count22>
+      <CardName23>Healing Rays</CardName23>
+      <Count23>1</Count23>
+      <CardName24>Help the Weak</CardName24>
+      <Count24>2</Count24>
+      <CardName25>Bad Luck</CardName25>
+      <Count25>1</Count25>
+      <CardName26>Block</CardName26>
+      <Count26>1</Count26>
+      <CardName27>Dancing Cut</CardName27>
+      <Count27>1</Count27>
+    </HumanPriestF01C>
+    <FigureName9>HumanPriestF06C</FigureName9>
+    <CardCount9>0</CardCount9>
+    <HumanPriestF06C />
+    <FigureName10>HumanPriestM02C</FigureName10>
+    <CardCount10>0</CardCount10>
+    <HumanPriestM02C />
+    <FigureName11>HumanPriestM04C</FigureName11>
+    <CardCount11>26</CardCount11>
+    <HumanPriestM04C>
+      <CardName0>Inspiration</CardName0>
+      <Count0>1</Count0>
+      <CardName1>Vulnerable</CardName1>
+      <Count1>1</Count1>
+      <CardName2>Lunging Strike</CardName2>
+      <Count2>1</Count2>
+      <CardName3>Attack, Soldier!</CardName3>
+      <Count3>1</Count3>
+      <CardName4>Purging Burst</CardName4>
+      <Count4>2</Count4>
+      <CardName5>Polearm Slash</CardName5>
+      <Count5>1</Count5>
+      <CardName6>Impenetrable Nimbus</CardName6>
+      <Count6>4</Count6>
+      <CardName7>Fiery Stab</CardName7>
+      <Count7>1</Count7>
+      <CardName8>Unholy Frenzy</CardName8>
+      <Count8>1</Count8>
+      <CardName9>Defender's Block</CardName9>
+      <Count9>1</Count9>
+      <CardName10>Martyr Blessing</CardName10>
+      <Count10>2</Count10>
+      <CardName11>Purge</CardName11>
+      <Count11>2</Count11>
+      <CardName12>Avenging Touch</CardName12>
+      <Count12>1</Count12>
+      <CardName13>Healing Blessing</CardName13>
+      <Count13>1</Count13>
+      <CardName14>Strong Bash</CardName14>
+      <Count14>1</Count14>
+      <CardName15>Auto Block</CardName15>
+      <Count15>1</Count15>
+      <CardName16>Holy Presence</CardName16>
+      <Count16>1</Count16>
+      <CardName17>Enervating Touch</CardName17>
+      <Count17>1</Count17>
+      <CardName18>Sundering Strike</CardName18>
+      <Count18>1</Count18>
+      <CardName19>Crafted Mail</CardName19>
+      <Count19>2</Count19>
+      <CardName20>Lifesaving Block</CardName20>
+      <Count20>2</Count20>
+      <CardName21>Demonic Power</CardName21>
+      <Count21>1</Count21>
+      <CardName22>Violent Spin</CardName22>
+      <Count22>2</Count22>
+      <CardName23>Invigorating Touch</CardName23>
+      <Count23>2</Count23>
+      <CardName24>Mind Munch</CardName24>
+      <Count24>1</Count24>
+      <CardName25>Jump, Soldier!</CardName25>
+      <Count25>1</Count25>
+    </HumanPriestM04C>
+    <FigureName12>HumanPriestM05C</FigureName12>
+    <CardCount12>0</CardCount12>
+    <HumanPriestM05C />
+    <FigureName13>DwarfPriestF04C</FigureName13>
+    <CardCount13>0</CardCount13>
+    <DwarfPriestF04C />
+    <FigureName14>DwarfPriestM07C</FigureName14>
+    <CardCount14>0</CardCount14>
+    <DwarfPriestM07C />
+    <FigureName15>ElfWarriorF05C</FigureName15>
+    <CardCount15>23</CardCount15>
+    <ElfWarriorF05C>
+      <CardName0>Scouting Run</CardName0>
+      <Count0>1</Count0>
+      <CardName1>Hardy Mail</CardName1>
+      <Count1>1</Count1>
+      <CardName2>Thick Hide Armor</CardName2>
+      <Count2>1</Count2>
+      <CardName3>Elven Maneuvers</CardName3>
+      <Count3>1</Count3>
+      <CardName4>Nimble Strike</CardName4>
+      <Count4>1</Count4>
+      <CardName5>Powerful Bludgeon</CardName5>
+      <Count5>1</Count5>
+      <CardName6>Defender's Block</CardName6>
+      <Count6>2</Count6>
+      <CardName7>Feinting Strike</CardName7>
+      <Count7>4</Count7>
+      <CardName8>Dynamic Armor</CardName8>
+      <Count8>2</Count8>
+      <CardName9>Shuffle, Team!</CardName9>
+      <Count9>1</Count9>
+      <CardName10>Strong Bludgeon</CardName10>
+      <Count10>2</Count10>
+      <CardName11>Puncturing Stab</CardName11>
+      <Count11>1</Count11>
+      <CardName12>Penetrating Cut</CardName12>
+      <Count12>1</Count12>
+      <CardName13>Weak Chop</CardName13>
+      <Count13>1</Count13>
+      <CardName14>Reliable Mail</CardName14>
+      <Count14>1</Count14>
+      <CardName15>Bloodied Block</CardName15>
+      <Count15>1</Count15>
+      <CardName16>Sundering Strike</CardName16>
+      <Count16>1</Count16>
+      <CardName17>Healing Dash</CardName17>
+      <Count17>1</Count17>
+      <CardName18>Crafted Mail</CardName18>
+      <Count18>1</Count18>
+      <CardName19>Powerful Hack</CardName19>
+      <Count19>3</Count19>
+      <CardName20>Vicious Thrust</CardName20>
+      <Count20>2</Count20>
+      <CardName21>Shifty Stab</CardName21>
+      <Count21>2</Count21>
+      <CardName22>Impaler</CardName22>
+      <Count22>2</Count22>
+    </ElfWarriorF05C>
   </FigureData>
 </SaveData>

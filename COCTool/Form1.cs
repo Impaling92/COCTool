@@ -181,6 +181,9 @@ namespace COCTool
                 if (BtnCareer[i].Checked) g_nCareer = i;
             }
             LoadPortrait(g_nRace, g_nCareer);
+
+            //选中一个空的人物
+            LoadFigureOperation(null);
         }
 
         private void radioButton_Dwarf_CheckedChanged(object sender, EventArgs e)
@@ -188,30 +191,30 @@ namespace COCTool
             CheckSelect();
         }
 
-        private void radioButton_Human_CheckedChanged(object sender, EventArgs e)
-        {
-            CheckSelect();
-        }
+        //private void radioButton_Human_CheckedChanged(object sender, EventArgs e)
+        //{
+        //    CheckSelect();
+        //}
 
-        private void radioButton_Elf_CheckedChanged(object sender, EventArgs e)
-        {
-            CheckSelect();
-        }
+        //private void radioButton_Elf_CheckedChanged(object sender, EventArgs e)
+        //{
+        //    CheckSelect();
+        //}
 
-        private void radioButton_Warrior_CheckedChanged(object sender, EventArgs e)
-        {
-            CheckSelect();
-        }
+        //private void radioButton_Warrior_CheckedChanged(object sender, EventArgs e)
+        //{
+        //    CheckSelect();
+        //}
 
-        private void radioButton_Priest_CheckedChanged(object sender, EventArgs e)
-        {
-            CheckSelect();
-        }
+        //private void radioButton_Priest_CheckedChanged(object sender, EventArgs e)
+        //{
+        //    CheckSelect();
+        //}
 
-        private void radioButton_Wizard_CheckedChanged(object sender, EventArgs e)
-        {
-            CheckSelect();
-        }
+        //private void radioButton_Wizard_CheckedChanged(object sender, EventArgs e)
+        //{
+        //    CheckSelect();
+        //}
 
         private void Form1_FormClosed(object sender, FormClosedEventArgs e)
         {
@@ -221,10 +224,27 @@ namespace COCTool
         //双击人物图
         private void pictureBox_portrait_Click(object sender, EventArgs e)
         {
-            int nIndex = 0;
-            if(nIndex >= 0 && nIndex < g_FigureNameList.Count)
+            LoadFigureOperation(sender);
+        }
+
+        private void LoadFigureOperation(object sender)
+        {
+            PictureBox[] picboxs = { pictureBox_portrait, pictureBox1, pictureBox2, pictureBox3, pictureBox4 };
+            for (int i = 0; i < 5; i++)
             {
-                LoadFigure(g_FigureNameList[nIndex]);
+                if (sender == picboxs[i])
+                {
+                    if (i >= 0 && i < g_FigureNameList.Count)
+                    {
+                        LoadFigure(g_FigureNameList[i]);
+                        //将图片修改颜色
+                        picboxs[i].BackColor = Color.FromArgb(128, 255, 128);
+                    }
+                }
+                else
+                {
+                    picboxs[i].BackColor = Color.FromArgb(160, 160, 160);
+                }
             }
         }
 
@@ -251,6 +271,9 @@ namespace COCTool
 
             //显示人物名
             label_FigureName.Text = sFigureName;
+
+            //加载任务的卡牌图片
+            LoadCardImgList();
         }
 
         private void SearchCard(string sShortName)

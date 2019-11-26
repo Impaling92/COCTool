@@ -79,31 +79,31 @@
             this.radioButton_Human.AutoSize = true;
             this.radioButton_Human.Location = new System.Drawing.Point(101, 29);
             this.radioButton_Human.Name = "radioButton_Human";
-            this.radioButton_Human.Size = new System.Drawing.Size(70, 24);
+            this.radioButton_Human.Size = new System.Drawing.Size(58, 20);
             this.radioButton_Human.TabIndex = 7;
             this.radioButton_Human.TabStop = true;
             this.radioButton_Human.Text = "人类";
             this.radioButton_Human.UseVisualStyleBackColor = true;
-            this.radioButton_Human.CheckedChanged += new System.EventHandler(this.radioButton_Human_CheckedChanged);
+            this.radioButton_Human.CheckedChanged += new System.EventHandler(this.radioButton_Dwarf_CheckedChanged);
             // 
             // radioButton_Elf
             // 
             this.radioButton_Elf.AutoSize = true;
             this.radioButton_Elf.Location = new System.Drawing.Point(187, 29);
             this.radioButton_Elf.Name = "radioButton_Elf";
-            this.radioButton_Elf.Size = new System.Drawing.Size(70, 24);
+            this.radioButton_Elf.Size = new System.Drawing.Size(58, 20);
             this.radioButton_Elf.TabIndex = 8;
             this.radioButton_Elf.TabStop = true;
             this.radioButton_Elf.Text = "精灵";
             this.radioButton_Elf.UseVisualStyleBackColor = true;
-            this.radioButton_Elf.CheckedChanged += new System.EventHandler(this.radioButton_Elf_CheckedChanged);
+            this.radioButton_Elf.CheckedChanged += new System.EventHandler(this.radioButton_Dwarf_CheckedChanged);
             // 
             // radioButton_Dwarf
             // 
             this.radioButton_Dwarf.AutoSize = true;
             this.radioButton_Dwarf.Location = new System.Drawing.Point(15, 29);
             this.radioButton_Dwarf.Name = "radioButton_Dwarf";
-            this.radioButton_Dwarf.Size = new System.Drawing.Size(70, 24);
+            this.radioButton_Dwarf.Size = new System.Drawing.Size(58, 20);
             this.radioButton_Dwarf.TabIndex = 6;
             this.radioButton_Dwarf.TabStop = true;
             this.radioButton_Dwarf.Text = "矮人";
@@ -139,36 +139,36 @@
             this.radioButton_Warrior.AutoSize = true;
             this.radioButton_Warrior.Location = new System.Drawing.Point(15, 29);
             this.radioButton_Warrior.Name = "radioButton_Warrior";
-            this.radioButton_Warrior.Size = new System.Drawing.Size(70, 24);
+            this.radioButton_Warrior.Size = new System.Drawing.Size(58, 20);
             this.radioButton_Warrior.TabIndex = 6;
             this.radioButton_Warrior.TabStop = true;
             this.radioButton_Warrior.Text = "战士";
             this.radioButton_Warrior.UseVisualStyleBackColor = true;
-            this.radioButton_Warrior.CheckedChanged += new System.EventHandler(this.radioButton_Warrior_CheckedChanged);
+            this.radioButton_Warrior.CheckedChanged += new System.EventHandler(this.radioButton_Dwarf_CheckedChanged);
             // 
             // radioButton_Priest
             // 
             this.radioButton_Priest.AutoSize = true;
             this.radioButton_Priest.Location = new System.Drawing.Point(101, 29);
             this.radioButton_Priest.Name = "radioButton_Priest";
-            this.radioButton_Priest.Size = new System.Drawing.Size(70, 24);
+            this.radioButton_Priest.Size = new System.Drawing.Size(58, 20);
             this.radioButton_Priest.TabIndex = 7;
             this.radioButton_Priest.TabStop = true;
             this.radioButton_Priest.Text = "牧师";
             this.radioButton_Priest.UseVisualStyleBackColor = true;
-            this.radioButton_Priest.CheckedChanged += new System.EventHandler(this.radioButton_Priest_CheckedChanged);
+            this.radioButton_Priest.CheckedChanged += new System.EventHandler(this.radioButton_Dwarf_CheckedChanged);
             // 
             // radioButton_Wizard
             // 
             this.radioButton_Wizard.AutoSize = true;
             this.radioButton_Wizard.Location = new System.Drawing.Point(187, 29);
             this.radioButton_Wizard.Name = "radioButton_Wizard";
-            this.radioButton_Wizard.Size = new System.Drawing.Size(70, 24);
+            this.radioButton_Wizard.Size = new System.Drawing.Size(58, 20);
             this.radioButton_Wizard.TabIndex = 8;
             this.radioButton_Wizard.TabStop = true;
             this.radioButton_Wizard.Text = "法师";
             this.radioButton_Wizard.UseVisualStyleBackColor = true;
-            this.radioButton_Wizard.CheckedChanged += new System.EventHandler(this.radioButton_Wizard_CheckedChanged);
+            this.radioButton_Wizard.CheckedChanged += new System.EventHandler(this.radioButton_Dwarf_CheckedChanged);
             // 
             // pictureBox1
             // 
@@ -180,6 +180,7 @@
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 11;
             this.pictureBox1.TabStop = false;
+            this.pictureBox1.Click += new System.EventHandler(this.pictureBox_portrait_Click);
             // 
             // pictureBox2
             // 
@@ -191,6 +192,7 @@
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox2.TabIndex = 12;
             this.pictureBox2.TabStop = false;
+            this.pictureBox2.Click += new System.EventHandler(this.pictureBox_portrait_Click);
             // 
             // pictureBox3
             // 
@@ -202,6 +204,7 @@
             this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox3.TabIndex = 13;
             this.pictureBox3.TabStop = false;
+            this.pictureBox3.Click += new System.EventHandler(this.pictureBox_portrait_Click);
             // 
             // pictureBox4
             // 
@@ -213,19 +216,20 @@
             this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox4.TabIndex = 14;
             this.pictureBox4.TabStop = false;
+            this.pictureBox4.Click += new System.EventHandler(this.pictureBox_portrait_Click);
             // 
             // textBox1
             // 
             this.textBox1.Location = new System.Drawing.Point(12, 249);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(181, 30);
+            this.textBox1.Size = new System.Drawing.Size(181, 26);
             this.textBox1.TabIndex = 15;
             this.textBox1.KeyUp += new System.Windows.Forms.KeyEventHandler(this.textBox1_KeyUp);
             // 
             // listBox1
             // 
             this.listBox1.FormattingEnabled = true;
-            this.listBox1.ItemHeight = 20;
+            this.listBox1.ItemHeight = 16;
             this.listBox1.Location = new System.Drawing.Point(12, 281);
             this.listBox1.Name = "listBox1";
             this.listBox1.Size = new System.Drawing.Size(181, 244);
@@ -237,7 +241,7 @@
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(12, 228);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(109, 20);
+            this.label1.Size = new System.Drawing.Size(88, 16);
             this.label1.TabIndex = 17;
             this.label1.Text = "卡牌名缩写";
             // 
@@ -246,7 +250,7 @@
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(196, 228);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(49, 20);
+            this.label2.Size = new System.Drawing.Size(40, 16);
             this.label2.TabIndex = 19;
             this.label2.Text = "数量";
             // 
@@ -254,7 +258,7 @@
             // 
             this.numericUpDown1.Location = new System.Drawing.Point(199, 249);
             this.numericUpDown1.Name = "numericUpDown1";
-            this.numericUpDown1.Size = new System.Drawing.Size(70, 30);
+            this.numericUpDown1.Size = new System.Drawing.Size(70, 26);
             this.numericUpDown1.TabIndex = 20;
             this.numericUpDown1.Value = new decimal(new int[] {
             1,
@@ -267,17 +271,17 @@
             this.label3.AutoSize = true;
             this.label3.Location = new System.Drawing.Point(336, 228);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(89, 20);
+            this.label3.Size = new System.Drawing.Size(72, 16);
             this.label3.TabIndex = 23;
             this.label3.Text = "卡牌列表";
             // 
             // listBox2
             // 
             this.listBox2.FormattingEnabled = true;
-            this.listBox2.ItemHeight = 20;
+            this.listBox2.ItemHeight = 16;
             this.listBox2.Location = new System.Drawing.Point(275, 249);
             this.listBox2.Name = "listBox2";
-            this.listBox2.Size = new System.Drawing.Size(230, 284);
+            this.listBox2.Size = new System.Drawing.Size(230, 276);
             this.listBox2.TabIndex = 22;
             // 
             // label_FigureName
@@ -286,7 +290,7 @@
             this.label_FigureName.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
             this.label_FigureName.Location = new System.Drawing.Point(15, 197);
             this.label_FigureName.Name = "label_FigureName";
-            this.label_FigureName.Size = new System.Drawing.Size(89, 20);
+            this.label_FigureName.Size = new System.Drawing.Size(72, 16);
             this.label_FigureName.TabIndex = 24;
             this.label_FigureName.Text = "人物名称";
             // 
@@ -296,7 +300,7 @@
             this.listView1.GridLines = true;
             this.listView1.Location = new System.Drawing.Point(520, 249);
             this.listView1.Name = "listView1";
-            this.listView1.Size = new System.Drawing.Size(574, 284);
+            this.listView1.Size = new System.Drawing.Size(515, 250);
             this.listView1.TabIndex = 25;
             this.listView1.TileSize = new System.Drawing.Size(62, 37);
             this.listView1.UseCompatibleStateImageBehavior = false;
@@ -313,7 +317,7 @@
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 20F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1106, 555);
             this.Controls.Add(this.button_ShowImg);
