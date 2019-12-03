@@ -24,5 +24,29 @@ print(soup.title)
 #print(soup.head.contents)
 # for k in soup.find_all('blockquote'):
 #     print(k)
-k = soup.find_all('blockquote')
-print(k[1])
+for k in soup.find_all('blockquote'):
+    text_list = k.text.split('\n')
+    # print(k.text)
+    # print(k.text)
+    img_url = str(k.contents[1])
+    print(img_url)
+    nstr = img_url.find('http://live.cardhunter.com/assets/large_portraits/')
+    nend = img_url.find('.png')
+    print(nstr)
+    print(nend)
+
+class CCard:
+    def __init__(self,name,count):
+        self.name = name
+        self.count = count
+
+class CFigure:
+    cardlist = []
+    name = ''
+    def __init__(self,figure_name):
+        self.name = figure_name
+    def addCard(self,name,count):
+        card = CCard(name,count)
+        self.cardlist.append(card)
+
+
