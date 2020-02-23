@@ -1,0 +1,725 @@
+<?xml version="1.0" ?>
+<FigureBuild URL="http://forums.cardhunter.com/threads/coc-pcs.9397/">
+	<Figure name="DwarfWarriorM01C">
+		<Card Name="Trained Bludgeon" Count="1"/>
+		<Card Name="Hit The Deck" Count="1"/>
+		<Card Name="Muscle Through" Count="1"/>
+		<Card Name="Unreliable Block" Count="1"/>
+		<Card Name="Thick Hide Armor" Count="1"/>
+		<Card Name="Pressing Bash" Count="2"/>
+		<Card Name="Sundering Strike" Count="1"/>
+		<Card Name="Shield Block" Count="1"/>
+		<Card Name="Immovable" Count="2"/>
+		<Card Name="Scuttle, Team!" Count="1"/>
+		<Card Name="Thickened Mail" Count="1"/>
+		<Card Name="Bludgeon" Count="5"/>
+		<Card Name="Reliable Hide Armor" Count="1"/>
+		<Card Name="Surging Shield Block" Count="1"/>
+		<Card Name="Pulverizing Bludgeon" Count="2"/>
+		<Card Name="Dynamic Armor" Count="1"/>
+		<Card Name="Strong Bludgeon" Count="1"/>
+		<Card Name="Flight Aura" Count="1"/>
+		<Card Name="Crusher" Count="2"/>
+		<Card Name="Block" Count="1"/>
+		<Card Name="Dash, Team!" Count="1"/>
+		<Card Name="Sprint" Count="1"/>
+		<Card Name="Potent Stab" Count="3"/>
+		<Card Name="Dancing Cut" Count="3"/>
+	</Figure>
+	<Figure name="ElfWizardF01C">
+		<Card Name="Elven Trickery" Count="1"/>
+		<Card Name="Powerful Spark" Count="3"/>
+		<Card Name="Wall Of Fire" Count="2"/>
+		<Card Name="Vulnerable" Count="1"/>
+		<Card Name="Winds Of War" Count="2"/>
+		<Card Name="Arcane Aura" Count="2"/>
+		<Card Name="Magma Spray" Count="1"/>
+		<Card Name="Reliable Hide Armor" Count="1"/>
+		<Card Name="Memory Loss" Count="1"/>
+		<Card Name="Potent Spark" Count="1"/>
+		<Card Name="Stone Spikes" Count="1"/>
+		<Card Name="Arcing Spark" Count="3"/>
+		<Card Name="Punishing Bolt" Count="1"/>
+		<Card Name="Spark Inductor" Count="1"/>
+		<Card Name="Flanking Move" Count="1"/>
+		<Card Name="Mighty Spark" Count="2"/>
+		<Card Name="Spark Generator" Count="1"/>
+		<Card Name="Wall Of Illusion" Count="1"/>
+		<Card Name="Combustible" Count="1"/>
+		<Card Name="Squeamish" Count="1"/>
+		<Card Name="Force Cannon" Count="1"/>
+		<Card Name="Pushback Parry" Count="1"/>
+		<Card Name="Quick Run" Count="1"/>
+		<Card Name="Spark" Count="2"/>
+		<Card Name="Dissolve Armor" Count="1"/>
+		<Card Name="Escaping Run" Count="1"/>
+		<Card Name="Smoke Bomb" Count="1"/>
+	</Figure>
+	<Figure name="HumanPriestF01C">
+		<Card Name="Leadership" Count="2"/>
+		<Card Name="Soothing Darkness" Count="1"/>
+		<Card Name="Powerful Bash" Count="2"/>
+		<Card Name="Unholy Wellspring" Count="1"/>
+		<Card Name="Thick Hide Armor" Count="1"/>
+		<Card Name="Purging Burst" Count="1"/>
+		<Card Name="Altruism" Count="2"/>
+		<Card Name="Wounded Block" Count="1"/>
+		<Card Name="Impenetrable Nimbus" Count="1"/>
+		<Card Name="Purge" Count="1"/>
+		<Card Name="Dangerous Maneuver" Count="1"/>
+		<Card Name="Parry" Count="1"/>
+		<Card Name="Scamper" Count="1"/>
+		<Card Name="Reliable Mail" Count="1"/>
+		<Card Name="Demonic Miasma" Count="1"/>
+		<Card Name="Limited Heal" Count="2"/>
+		<Card Name="Team Heal" Count="2"/>
+		<Card Name="Enervating Touch" Count="1"/>
+		<Card Name="Sundering Strike" Count="1"/>
+		<Card Name="Able Bash" Count="2"/>
+		<Card Name="Savage Curse" Count="1"/>
+		<Card Name="Cleansing Burst" Count="2"/>
+		<Card Name="Demonic Power" Count="1"/>
+		<Card Name="Healing Rays" Count="1"/>
+		<Card Name="Help The Weak" Count="2"/>
+		<Card Name="Bad Luck" Count="1"/>
+		<Card Name="Block" Count="1"/>
+		<Card Name="Dancing Cut" Count="1"/>
+	</Figure>
+	<Figure name="ElfWarriorF05C">
+		<Card Name="Scouting Run" Count="1"/>
+		<Card Name="Hardy Mail" Count="1"/>
+		<Card Name="Thick Hide Armor" Count="1"/>
+		<Card Name="Elven Maneuvers" Count="1"/>
+		<Card Name="Nimble Strike" Count="1"/>
+		<Card Name="Powerful Bludgeon" Count="1"/>
+		<Card Name="Defender's Block" Count="2"/>
+		<Card Name="Feinting Strike" Count="4"/>
+		<Card Name="Dynamic Armor" Count="2"/>
+		<Card Name="Shuffle Team" Count="1"/>
+		<Card Name="Strong Bludgeon" Count="2"/>
+		<Card Name="Puncturing Stab" Count="1"/>
+		<Card Name="Penetrating Cut" Count="1"/>
+		<Card Name="Weak Chop" Count="1"/>
+		<Card Name="Reliable Mail" Count="1"/>
+		<Card Name="Bloodied Block" Count="1"/>
+		<Card Name="Sundering Strike" Count="1"/>
+		<Card Name="Healing Dash" Count="1"/>
+		<Card Name="Crafted Mail" Count="1"/>
+		<Card Name="Shuffle, Team!" Count="1"/>
+		<Card Name="Powerful Hack" Count="3"/>
+		<Card Name="Vicious Thrust" Count="2"/>
+		<Card Name="Shifty Stab" Count="2"/>
+		<Card Name="Elven Manuevers" Count="1"/>
+		<Card Name="Impaler" Count="2"/>
+	</Figure>
+	<Figure name="HumanPriestM04C">
+		<Card Name="Inspiration" Count="1"/>
+		<Card Name="Vulnerable" Count="1"/>
+		<Card Name="Lunging Strike" Count="1"/>
+		<Card Name="Attack Soldier" Count="1"/>
+		<Card Name="Purging Burst" Count="2"/>
+		<Card Name="Polearm Slash" Count="1"/>
+		<Card Name="Impenetrable Nimbus" Count="4"/>
+		<Card Name="Fiery Stab" Count="1"/>
+		<Card Name="Unholy Frenzy" Count="1"/>
+		<Card Name="Defender's Block" Count="1"/>
+		<Card Name="Martyr Blessing" Count="2"/>
+		<Card Name="Purge" Count="2"/>
+		<Card Name="Avenging Touch" Count="1"/>
+		<Card Name="Healing Blessing" Count="1"/>
+		<Card Name="Strong Bash" Count="1"/>
+		<Card Name="Auto Block" Count="1"/>
+		<Card Name="Holy Presence" Count="1"/>
+		<Card Name="Enervating Touch" Count="1"/>
+		<Card Name="Sundering Strike" Count="1"/>
+		<Card Name="Crafted Mail" Count="2"/>
+		<Card Name="Lifesaving Block" Count="2"/>
+		<Card Name="Demonic Power" Count="1"/>
+		<Card Name="Violent Spin" Count="2"/>
+		<Card Name="Invigorating Touch" Count="2"/>
+		<Card Name="Mind Munch" Count="1"/>
+		<Card Name="Jump Soldier" Count="1"/>
+	</Figure>
+	<Figure name="DwarfWizardM07C">
+		<Card Name="Arcing Spark" Count="2"/>
+		<Card Name="Powerful Spark" Count="2"/>
+		<Card Name="Wall Of Fire" Count="1"/>
+		<Card Name="Thick Hide Armor" Count="1"/>
+		<Card Name="Winds Of War" Count="2"/>
+		<Card Name="Arcane Aura" Count="1"/>
+		<Card Name="Gusts Of War" Count="2"/>
+		<Card Name="Mighty Spark" Count="2"/>
+		<Card Name="Spark Generator" Count="3"/>
+		<Card Name="Magma Spray" Count="1"/>
+		<Card Name="Team Shift" Count="1"/>
+		<Card Name="Sorcerous Bolt" Count="1"/>
+		<Card Name="Hot Spot" Count="3"/>
+		<Card Name="Dash" Count="1"/>
+		<Card Name="Reliable Hide" Count="1"/>
+		<Card Name="Memory Loss" Count="1"/>
+		<Card Name="Mail" Count="1"/>
+		<Card Name="Combustible" Count="1"/>
+		<Card Name="Squeamish" Count="1"/>
+		<Card Name="Shifty Stab" Count="1"/>
+		<Card Name="Pushback Parry" Count="1"/>
+		<Card Name="Dissolve Armor" Count="5"/>
+		<Card Name="Parry" Count="1"/>
+	</Figure>
+	<Figure name="DwarfWizardF04C">
+		<Card Name="Hard To Pin Down" Count="1"/>
+		<Card Name="Vulnerable" Count="1"/>
+		<Card Name="Flash Flood" Count="1"/>
+		<Card Name="Illusory Barrier" Count="2"/>
+		<Card Name="Winds Of War" Count="1"/>
+		<Card Name="Blizzard Breath" Count="1"/>
+		<Card Name="Dimensional Traveller" Count="2"/>
+		<Card Name="Frost Jolt" Count="4"/>
+		<Card Name="Adaptable" Count="1"/>
+		<Card Name="Teleport Self" Count="1"/>
+		<Card Name="Freeze" Count="2"/>
+		<Card Name="Trip" Count="1"/>
+		<Card Name="Chilling Rime" Count="1"/>
+		<Card Name="Force Bolt" Count="1"/>
+		<Card Name="Ice Bolts" Count="1"/>
+		<Card Name="Arcane Shell" Count="1"/>
+		<Card Name="Cone Of Cold" Count="2"/>
+		<Card Name="Toughness" Count="2"/>
+		<Card Name="Melt Armor" Count="1"/>
+		<Card Name="Combustible" Count="1"/>
+		<Card Name="Squeamish" Count="1"/>
+		<Card Name="Surging Blast" Count="1"/>
+		<Card Name="Ice Bolts" Count="2"/>
+		<Card Name="Rusty Armor" Count="1"/>
+		<Card Name="Cold Snap" Count="2"/>
+		<Card Name="Escaping Run" Count="1"/>
+	</Figure>
+	<Figure name="DwarfWizardF05C">
+		<Card Name="Mighty Charge" Count="1"/>
+		<Card Name="Telekinesis" Count="3"/>
+		<Card Name="Winds Of War" Count="2"/>
+		<Card Name="Big Zap" Count="1"/>
+		<Card Name="Potent Spark" Count="1"/>
+		<Card Name="Whirlwind Enemies" Count="1"/>
+		<Card Name="Frost Jolt" Count="3"/>
+		<Card Name="Path Of Knives" Count="1"/>
+		<Card Name="Parry" Count="1"/>
+		<Card Name="Teleport Self" Count="1"/>
+		<Card Name="Freeze" Count="2"/>
+		<Card Name="Reliable Mail" Count="2"/>
+		<Card Name="Muscle Through" Count="1"/>
+		<Card Name="Immovable" Count="1"/>
+		<Card Name="Gusts Of War" Count="1"/>
+		<Card Name="Mighty Spark" Count="2"/>
+		<Card Name="Spark Generator" Count="1"/>
+		<Card Name="Cone Of Cold" Count="2"/>
+		<Card Name="Hot Spot" Count="1"/>
+		<Card Name="Melt Armor" Count="1"/>
+		<Card Name="Toughness" Count="1"/>
+		<Card Name="Squeamish" Count="2"/>
+		<Card Name="Rockfall" Count="1"/>
+		<Card Name="Dissolve Armor" Count="1"/>
+		<Card Name="Cold Snap" Count="2"/>
+	</Figure>
+	<Figure name="DwarfWizardM01C">
+		<Card Name="Boiling Armor" Count="1"/>
+		<Card Name="Flash Of Agony" Count="2"/>
+		<Card Name="Flash Flood" Count="1"/>
+		<Card Name="Wall Of Fire" Count="4"/>
+		<Card Name="Hardy Mail" Count="1"/>
+		<Card Name="Hot Flames" Count="1"/>
+		<Card Name="Winds Of War" Count="1"/>
+		<Card Name="Sizzling Bolt" Count="1"/>
+		<Card Name="Mighty Spark" Count="2"/>
+		<Card Name="Instant Burn" Count="1"/>
+		<Card Name="Magma Spray" Count="3"/>
+		<Card Name="Volcano" Count="3"/>
+		<Card Name="Hot Spot" Count="3"/>
+		<Card Name="Toughness" Count="1"/>
+		<Card Name="Fireball" Count="1"/>
+		<Card Name="Combustible" Count="2"/>
+		<Card Name="Squeamish" Count="1"/>
+		<Card Name="Hover" Count="1"/>
+		<Card Name="Jarring Block" Count="2"/>
+		<Card Name="Flight Aura" Count="2"/>
+		<Card Name="Firestarter" Count="1"/>
+		<Card Name="Sprint" Count="1"/>
+	</Figure>
+	<Figure name="ElfWarriorF04C">
+		<Card Name="Reliable Mail" Count="2"/>
+		<Card Name="Penetrating Lunge" Count="2"/>
+		<Card Name="Muscle Through" Count="1"/>
+		<Card Name="Auto Block" Count="3"/>
+		<Card Name="Quickness Aura" Count="1"/>
+		<Card Name="Thick Hide Armor" Count="1"/>
+		<Card Name="Sundering Strike" Count="1"/>
+		<Card Name="Elvish Insight" Count="2"/>
+		<Card Name="Simple Bash" Count="2"/>
+		<Card Name="Bash" Count="1"/>
+		<Card Name="Traveling Curse" Count="1"/>
+		<Card Name="Toughened Hide Strips" Count="1"/>
+		<Card Name="Fiery Stab" Count="1"/>
+		<Card Name="Devastating Blow" Count="6"/>
+		<Card Name="Nimble Strike" Count="1"/>
+		<Card Name="Vicious Thrust" Count="3"/>
+		<Card Name="Shifty Stab" Count="2"/>
+		<Card Name="Skip" Count="1"/>
+		<Card Name="Crusher" Count="1"/>
+		<Card Name="Flight Aura" Count="1"/>
+		<Card Name="Impaler" Count="1"/>
+		<Card Name="Team Walk" Count="1"/>
+	</Figure>
+	<Figure name="HumanPriestF06C">
+		<Card Name="Sprint, Team!" Count="1"/>
+		<Card Name="Inspiration" Count="2"/>
+		<Card Name="Vulnerable" Count="2"/>
+		<Card Name="Flimsy Block" Count="1"/>
+		<Card Name="Impenetrable Nimbus" Count="1"/>
+		<Card Name="Talented Healer" Count="1"/>
+		<Card Name="Triple Heals" Count="1"/>
+		<Card Name="Strong Hack" Count="1"/>
+		<Card Name="Martyr Blessing" Count="2"/>
+		<Card Name="Clumsy Chop" Count="1"/>
+		<Card Name="Absorbing Block" Count="2"/>
+		<Card Name="Potent Stab" Count="1"/>
+		<Card Name="Trip" Count="1"/>
+		<Card Name="Holy Presence" Count="1"/>
+		<Card Name="Bloodied Block" Count="1"/>
+		<Card Name="Pressing Bash" Count="2"/>
+		<Card Name="Consecrate Ground" Count="1"/>
+		<Card Name="Heal" Count="1"/>
+		<Card Name="Rocket Charge" Count="1"/>
+		<Card Name="Cleansing Presence" Count="1"/>
+		<Card Name="Flanking Move" Count="1"/>
+		<Card Name="Demonic Revenge" Count="1"/>
+		<Card Name="Crafted Mail" Count="1"/>
+		<Card Name="Cleansing Burst" Count="2"/>
+		<Card Name="Boosted Heal" Count="1"/>
+		<Card Name="Warp Run" Count="1"/>
+		<Card Name="Unholy Energy" Count="3"/>
+		<Card Name="Dancing Cut" Count="1"/>
+	</Figure>
+	<Figure name="HumanWizardM05C">
+		<Card Name="Walk, Team!" Count="1"/>
+		<Card Name="Acid Spray" Count="1"/>
+		<Card Name="Illusory Barrier" Count="1"/>
+		<Card Name="Slowed" Count="1"/>
+		<Card Name="Short Perplexing Ray" Count="4"/>
+		<Card Name="Big Zap" Count="2"/>
+		<Card Name="Penetrating Bolt" Count="1"/>
+		<Card Name="Sorcerous Blast" Count="2"/>
+		<Card Name="Mimetic Armor" Count="1"/>
+		<Card Name="Desperate Block" Count="1"/>
+		<Card Name="Dimensional Traveller" Count="1"/>
+		<Card Name="Nimble Strike" Count="1"/>
+		<Card Name="Jarring Block" Count="1"/>
+		<Card Name="Parry" Count="1"/>
+		<Card Name="Boiling Armor" Count="1"/>
+		<Card Name="Reliable Mail" Count="2"/>
+		<Card Name="Surging Bolt" Count="2"/>
+		<Card Name="Shuffle" Count="1"/>
+		<Card Name="Resistant Hide" Count="1"/>
+		<Card Name="Forgetfulness" Count="1"/>
+		<Card Name="Arcane Feedback" Count="1"/>
+		<Card Name="Reflexive Teleport" Count="1"/>
+		<Card Name="Penetrating Zap" Count="1"/>
+		<Card Name="Sprint Team" Count="1"/>
+		<Card Name="Force Cannon" Count="2"/>
+		<Card Name="Surging Blast" Count="2"/>
+		<Card Name="Obliterating Spark" Count="1"/>
+	</Figure>
+	<Figure name="HumanWizardF03C">
+		<Card Name="Hard To Pin Down" Count="1"/>
+		<Card Name="Flash Of Agony" Count="1"/>
+		<Card Name="Acid Blast" Count="1"/>
+		<Card Name="Muscle Through" Count="1"/>
+		<Card Name="Dastardly Curse" Count="1"/>
+		<Card Name="Flash Flood" Count="3"/>
+		<Card Name="Acid Jet" Count="4"/>
+		<Card Name="Resistant Hide" Count="1"/>
+		<Card Name="Sizzling Bolt" Count="2"/>
+		<Card Name="Traveling Curse" Count="1"/>
+		<Card Name="Arcane Feedback" Count="1"/>
+		<Card Name="Force Field" Count="1"/>
+		<Card Name="Acid Pool" Count="4"/>
+		<Card Name="Penetrating Bolt" Count="2"/>
+		<Card Name="Perplexing Ray" Count="1"/>
+		<Card Name="Melt Armor" Count="3"/>
+		<Card Name="Dimensional Traveller" Count="1"/>
+		<Card Name="Force Cannon" Count="3"/>
+		<Card Name="Surging Blast" Count="1"/>
+		<Card Name="Jarring Block" Count="1"/>
+		<Card Name="Jump Soldier" Count="1"/>
+		<Card Name="Block, Soldier!" Count="1"/>
+	</Figure>
+	<Figure name="DwarfPriestF04C">
+		<Card Name="Hardy Mail" Count="1"/>
+		<Card Name="Lunging Strike" Count="1"/>
+		<Card Name="Cowardly" Count="1"/>
+		<Card Name="Altruism" Count="3"/>
+		<Card Name="Surestrike Blessing" Count="1"/>
+		<Card Name="Wings Of Faith" Count="2"/>
+		<Card Name="Defender's Block" Count="1"/>
+		<Card Name="Weak Block" Count="1"/>
+		<Card Name="Flight Aura" Count="2"/>
+		<Card Name="Healing Blessing" Count="1"/>
+		<Card Name="Purging Strike" Count="2"/>
+		<Card Name="Cleansing Ray" Count="1"/>
+		<Card Name="Parry" Count="1"/>
+		<Card Name="Limited Heal" Count="1"/>
+		<Card Name="Sundering Strike" Count="2"/>
+		<Card Name="Consecrate Ground" Count="4"/>
+		<Card Name="Heal" Count="1"/>
+		<Card Name="Able Bash" Count="3"/>
+		<Card Name="Cleansing Presence" Count="1"/>
+		<Card Name="Rocket Charge" Count="1"/>
+		<Card Name="Cleansing Burst" Count="1"/>
+		<Card Name="Boosted Heal" Count="1"/>
+		<Card Name="Healing Rays" Count="1"/>
+		<Card Name="Laser Block" Count="1"/>
+		<Card Name="Sprint" Count="1"/>
+	</Figure>
+	<Figure name="HumanWarriorM06C">
+		<Card Name="Hard To Pin Down" Count="1"/>
+		<Card Name="Disorienting Block" Count="2"/>
+		<Card Name="Jump Back" Count="2"/>
+		<Card Name="Forward Thinking" Count="1"/>
+		<Card Name="Sundering Strike" Count="2"/>
+		<Card Name="Spin Around" Count="1"/>
+		<Card Name="Run, Team!" Count="1"/>
+		<Card Name="Simple Strike" Count="1"/>
+		<Card Name="Shuffle, Team!" Count="1"/>
+		<Card Name="Thickened Mail" Count="1"/>
+		<Card Name="Powerful Bludgeon" Count="2"/>
+		<Card Name="Powerful Hack" Count="2"/>
+		<Card Name="Dynamic Armor" Count="1"/>
+		<Card Name="Strong Bludgeon" Count="2"/>
+		<Card Name="Quick Step" Count="1"/>
+		<Card Name="Jarring Block" Count="1"/>
+		<Card Name="Lunging Thrust" Count="2"/>
+		<Card Name="Flight Aura" Count="2"/>
+		<Card Name="Crusher" Count="1"/>
+		<Card Name="Pushback Parry" Count="2"/>
+		<Card Name="Controlled Overswing" Count="2"/>
+		<Card Name="Sprint" Count="1"/>
+		<Card Name="Barge" Count="3"/>
+		<Card Name="Attack, Soldier!" Count="1"/>
+	</Figure>
+	<Figure name="DwarfWarriorF05C">
+		<Card Name="Slicer" Count="1"/>
+		<Card Name="Laser Cutdown" Count="1"/>
+		<Card Name="Simple Bash" Count="1"/>
+		<Card Name="Superstitious" Count="1"/>
+		<Card Name="Arrogant Armor" Count="1"/>
+		<Card Name="Laser Strike" Count="1"/>
+		<Card Name="Backbiting Strike" Count="1"/>
+		<Card Name="Strong Bludgeon" Count="1"/>
+		<Card Name="Clumsy Chop" Count="1"/>
+		<Card Name="Tricky Stab" Count="2"/>
+		<Card Name="Unnerving Strike" Count="1"/>
+		<Card Name="Weakened Armor" Count="1"/>
+		<Card Name="Parry" Count="2"/>
+		<Card Name="Reliable Mail" Count="1"/>
+		<Card Name="Mighty Hack" Count="2"/>
+		<Card Name="Shuffle" Count="1"/>
+		<Card Name="Lunging Hack" Count="4"/>
+		<Card Name="Force Field" Count="2"/>
+		<Card Name="Reliable Hide" Count="1"/>
+		<Card Name="Lifesaving Block" Count="1"/>
+		<Card Name="Warp Run" Count="1"/>
+		<Card Name="Mimetic Crown" Count="1"/>
+		<Card Name="Vicious Thrust" Count="1"/>
+		<Card Name="Block" Count="2"/>
+		<Card Name="Laser Thrust" Count="1"/>
+		<Card Name="Impaler" Count="1"/>
+		<Card Name="Laser Block" Count="2"/>
+	</Figure>
+	<Figure name="ElfWizardM06C">
+		<Card Name="Scouting Run" Count="1"/>
+		<Card Name="Powerful Spark" Count="1"/>
+		<Card Name="Wall Of Fire" Count="1"/>
+		<Card Name="Flash Flood" Count="1"/>
+		<Card Name="Pathfinding" Count="1"/>
+		<Card Name="Superstitious" Count="1"/>
+		<Card Name="Dual Laser Beacon" Count="2"/>
+		<Card Name="Potent Spark" Count="2"/>
+		<Card Name="Parry" Count="1"/>
+		<Card Name="Teleport Self" Count="1"/>
+		<Card Name="Arcing Spark" Count="1"/>
+		<Card Name="Punishing Bolt" Count="2"/>
+		<Card Name="Spark Inductor" Count="1"/>
+		<Card Name="Healing Dash" Count="1"/>
+		<Card Name="Lava Pool" Count="1"/>
+		<Card Name="Arcane Feedback" Count="1"/>
+		<Card Name="Spark Generator" Count="1"/>
+		<Card Name="Force Field" Count="1"/>
+		<Card Name="Force Blast" Count="1"/>
+		<Card Name="Hot Spot" Count="2"/>
+		<Card Name="Melt Armor" Count="1"/>
+		<Card Name="Force Cone" Count="2"/>
+		<Card Name="Laser Beacon" Count="2"/>
+		<Card Name="Surging Blast" Count="2"/>
+		<Card Name="Force Cannon" Count="1"/>
+		<Card Name="Telepod Jaunt" Count="1"/>
+		<Card Name="Dissolve Armor" Count="1"/>
+		<Card Name="Pillar Of Stone" Count="2"/>
+	</Figure>
+	<Figure name="DwarfPriestM07C">
+		<Card Name="Hard To Pin Down" Count="1"/>
+		<Card Name="Push The Button" Count="2"/>
+		<Card Name="Powerful Bash" Count="2"/>
+		<Card Name="Hardy Mail" Count="2"/>
+		<Card Name="Thick Hide Armor" Count="1"/>
+		<Card Name="Purging Burst" Count="1"/>
+		<Card Name="Radioactive Spray" Count="3"/>
+		<Card Name="Healing Beacon" Count="1"/>
+		<Card Name="Laser Strike" Count="1"/>
+		<Card Name="Purge" Count="1"/>
+		<Card Name="Purging Strike" Count="1"/>
+		<Card Name="Jarring Block" Count="2"/>
+		<Card Name="Jump Back" Count="2"/>
+		<Card Name="Gene Therapy" Count="1"/>
+		<Card Name="Holy Presence" Count="1"/>
+		<Card Name="Destructive Purge" Count="2"/>
+		<Card Name="Sundering Strike" Count="1"/>
+		<Card Name="Enervating Touch" Count="1"/>
+		<Card Name="Radioactive Goo" Count="2"/>
+		<Card Name="Healing Dash" Count="1"/>
+		<Card Name="Flanking Move" Count="1"/>
+		<Card Name="Toughness" Count="1"/>
+		<Card Name="Cleansing Burst" Count="1"/>
+		<Card Name="Genetic Engineering" Count="1"/>
+		<Card Name="Invigorating Touch" Count="3"/>
+	</Figure>
+	<Figure name="ElfWarriorF03C">
+		<Card Name="Scouting Run" Count="1"/>
+		<Card Name="Strong Bash" Count="1"/>
+		<Card Name="Trained Bludgeon" Count="1"/>
+		<Card Name="Weak Strike" Count="1"/>
+		<Card Name="Thick Hide Armor" Count="4"/>
+		<Card Name="Sundering Strike" Count="1"/>
+		<Card Name="Lunging Hack" Count="2"/>
+		<Card Name="Healing Dash" Count="1"/>
+		<Card Name="Elven Maneuvers" Count="2"/>
+		<Card Name="Mighty Bludgeon" Count="2"/>
+		<Card Name="Able Bludgeon" Count="1"/>
+		<Card Name="Devastating Blow" Count="2"/>
+		<Card Name="Powerful Bludgeon" Count="1"/>
+		<Card Name="Surging Shield Block" Count="1"/>
+		<Card Name="Pulverizing Bludgeon" Count="2"/>
+		<Card Name="Vicious Thrust" Count="3"/>
+		<Card Name="Pushback Parry" Count="2"/>
+		<Card Name="Lunging Thrust" Count="2"/>
+		<Card Name="Crusher" Count="1"/>
+		<Card Name="Devestating Blow" Count="1"/>
+		<Card Name="Weakened Armor" Count="1"/>
+		<Card Name="Parry" Count="1"/>
+		<Card Name="Shimmering Aura" Count="1"/>
+		<Card Name="Barge" Count="1"/>
+	</Figure>
+	<Figure name="ElfPriestM03C">
+		<Card Name="Hard To Pin Down" Count="1"/>
+		<Card Name="Armor Of Faith" Count="1"/>
+		<Card Name="Elven Trickery" Count="2"/>
+		<Card Name="Reaching Swing" Count="1"/>
+		<Card Name="Unholy Wellspring" Count="1"/>
+		<Card Name="Purging Burst" Count="1"/>
+		<Card Name="Altruism" Count="2"/>
+		<Card Name="Elven Maneuvers" Count="1"/>
+		<Card Name="Impenetrable Nimbus" Count="3"/>
+		<Card Name="Reliable Hide Armor" Count="1"/>
+		<Card Name="Nimble Strike" Count="2"/>
+		<Card Name="Martyr Blessing" Count="1"/>
+		<Card Name="Altruism " Count="1"/>
+		<Card Name="Accelerated Thought" Count="1"/>
+		<Card Name="Stone Feet" Count="1"/>
+		<Card Name="Controlled Overswing" Count="2"/>
+		<Card Name="Avenging Touch" Count="2"/>
+		<Card Name="Healing Blessing" Count="1"/>
+		<Card Name="Barge" Count="1"/>
+		<Card Name="Healing Dash" Count="1"/>
+		<Card Name="Barbed Platemail" Count="1"/>
+		<Card Name="Flanking Move" Count="1"/>
+		<Card Name="Entangling Roots" Count="1"/>
+		<Card Name="Healing Pulse" Count="1"/>
+		<Card Name="Boosted Heal" Count="2"/>
+		<Card Name="Pushback Parry" Count="3"/>
+	</Figure>
+	<Figure name="ElfWizardM05C">
+		<Card Name="Scouting Run" Count="1"/>
+		<Card Name="Fire Spray" Count="1"/>
+		<Card Name="Elven Trickery" Count="1"/>
+		<Card Name="Shuffle" Count="1"/>
+		<Card Name="Wall Of Fire" Count="1"/>
+		<Card Name="Hardy Mail" Count="1"/>
+		<Card Name="Winds Of War" Count="4"/>
+		<Card Name="Immovable" Count="1"/>
+		<Card Name="Sizzling Bolt" Count="1"/>
+		<Card Name="Instant Burn" Count="3"/>
+		<Card Name="Cone Of Cold" Count="1"/>
+		<Card Name="Magma Spray" Count="6"/>
+		<Card Name="Perplexing Ray" Count="1"/>
+		<Card Name="Glob Of Flame" Count="1"/>
+		<Card Name="Hot Spot" Count="1"/>
+		<Card Name="Melt Armor" Count="1"/>
+		<Card Name="Reliable Hide Armor" Count="1"/>
+		<Card Name="Fireball" Count="2"/>
+		<Card Name="Combustible" Count="1"/>
+		<Card Name="Jarring Block" Count="1"/>
+		<Card Name="Quick Run" Count="2"/>
+		<Card Name="Firestarter" Count="3"/>
+	</Figure>
+	<Figure name="ElfPriestM04C">
+		<Card Name="Impaling Stab" Count="1"/>
+		<Card Name="Hardy Mail" Count="1"/>
+		<Card Name="Unholy Wellspring" Count="1"/>
+		<Card Name="Lunging Strike" Count="2"/>
+		<Card Name="Talented Healer" Count="3"/>
+		<Card Name="Bless" Count="1"/>
+		<Card Name="Devastating Blow" Count="1"/>
+		<Card Name="Demonic Feedback" Count="1"/>
+		<Card Name="Martyr Blessing" Count="1"/>
+		<Card Name="Draining Touch" Count="1"/>
+		<Card Name="Absorbing Block" Count="1"/>
+		<Card Name="Spear Of Darkness" Count="3"/>
+		<Card Name="Consuming Spear" Count="1"/>
+		<Card Name="Unreliable Block" Count="1"/>
+		<Card Name="Elvish Insight" Count="1"/>
+		<Card Name="Shield Block" Count="1"/>
+		<Card Name="Enervating Touch" Count="3"/>
+		<Card Name="Immovable" Count="1"/>
+		<Card Name="Healing Pulse" Count="1"/>
+		<Card Name="Slippery" Count="1"/>
+		<Card Name="Help The Weak" Count="1"/>
+		<Card Name="Invigorating Touch" Count="2"/>
+		<Card Name="Skip" Count="1"/>
+		<Card Name="Quick Run" Count="1"/>
+		<Card Name="Loner" Count="2"/>
+		<Card Name="Martyr's Blessing" Count="1"/>
+		<Card Name="Cushioning Armor" Count="1"/>
+	</Figure>
+	<Figure name="HumanPriestM05C">
+		<Card Name="Reliable Mail" Count="1"/>
+		<Card Name="Inspiration" Count="2"/>
+		<Card Name="Walk, Team!" Count="1"/>
+		<Card Name="Vulnerable" Count="1"/>
+		<Card Name="Stab" Count="2"/>
+		<Card Name="Reaching Swing" Count="3"/>
+		<Card Name="Enervating Touch" Count="1"/>
+		<Card Name="Altruism" Count="2"/>
+		<Card Name="Reflect Missile" Count="1"/>
+		<Card Name="Impenetrable Nimbus" Count="2"/>
+		<Card Name="Righteous Frenzy" Count="2"/>
+		<Card Name="Team Shift" Count="1"/>
+		<Card Name="Fiery Stab" Count="2"/>
+		<Card Name="Mass Frenzy" Count="4"/>
+		<Card Name="Martyr Blessing" Count="2"/>
+		<Card Name="Healing Rays" Count="1"/>
+		<Card Name="Minor Heal" Count="1"/>
+		<Card Name="Healing Blessing" Count="1"/>
+		<Card Name="Dash, Team!" Count="1"/>
+		<Card Name="Absorbing Block" Count="2"/>
+		<Card Name="Horned Plates" Count="1"/>
+		<Card Name="Scamper" Count="1"/>
+		<Card Name="Attack, Soldier!" Count="1"/>
+	</Figure>
+	<Figure name="HumanWarriorF04C">
+		<Card Name="Impaling Stab" Count="6"/>
+		<Card Name="Reliable Mail" Count="1"/>
+		<Card Name="Hard To Pin Down" Count="1"/>
+		<Card Name="Lunging Hack" Count="1"/>
+		<Card Name="Healing Dash" Count="1"/>
+		<Card Name="Flanking Move" Count="1"/>
+		<Card Name="Run, Team!" Count="1"/>
+		<Card Name="Reliable Hide Armor" Count="2"/>
+		<Card Name="Mail" Count="3"/>
+		<Card Name="Backbiting Strike" Count="1"/>
+		<Card Name="Shifty Stab" Count="2"/>
+		<Card Name="Puncturing Stab" Count="3"/>
+		<Card Name="Pushback Parry" Count="2"/>
+		<Card Name="Dash, Team!" Count="1"/>
+		<Card Name="Penetrating Stab" Count="1"/>
+		<Card Name="Impaler" Count="2"/>
+		<Card Name="Blind Rage" Count="1"/>
+		<Card Name="Perforating Strike" Count="2"/>
+		<Card Name="Shimmering Aura" Count="1"/>
+		<Card Name="Potent Stab" Count="1"/>
+		<Card Name="Dancing Cut" Count="2"/>
+	</Figure>
+	<Figure name="DwarfWarriorM02C">
+		<Card Name="Impaling Stab" Count="1"/>
+		<Card Name="Dropped Guard" Count="1"/>
+		<Card Name="Investigate" Count="3"/>
+		<Card Name="Flaring Torch" Count="4"/>
+		<Card Name="Hit The Deck" Count="1"/>
+		<Card Name="Lucky Charm" Count="1"/>
+		<Card Name="Wind Dancer" Count="3"/>
+		<Card Name="Polearm Slash" Count="2"/>
+		<Card Name="Warding Lance" Count="2"/>
+		<Card Name="Advanced Battlefield Training" Count="1"/>
+		<Card Name="Arrogant Armor" Count="1"/>
+		<Card Name="Vengeance" Count="2"/>
+		<Card Name="Bludgeon" Count="2"/>
+		<Card Name="Toughness" Count="1"/>
+		<Card Name="Reliable Hide Armor" Count="1"/>
+		<Card Name="Purging Strike" Count="4"/>
+		<Card Name="Inquisitor's Badge" Count="2"/>
+		<Card Name="All Out Attack" Count="1"/>
+		<Card Name="Parry" Count="1"/>
+		<Card Name="Inquisitor's Strike" Count="2"/>
+	</Figure>
+	<Figure name="ElfWizardF02C">
+		<Card Name="Investigate" Count="1"/>
+		<Card Name="Acid Spray" Count="3"/>
+		<Card Name="Acid Blast" Count="2"/>
+		<Card Name="Wall Of Fire" Count="1"/>
+		<Card Name="Acid Leak" Count="1"/>
+		<Card Name="Toughened Hide Strips" Count="1"/>
+		<Card Name="Memory Loss" Count="1"/>
+		<Card Name="Parry" Count="1"/>
+		<Card Name="Teleport Self" Count="1"/>
+		<Card Name="Boo!" Count="2"/>
+		<Card Name="Flaring Torch" Count="1"/>
+		<Card Name="Inquisition Bolt" Count="2"/>
+		<Card Name="Punishing Bolt" Count="2"/>
+		<Card Name="Fey Silversmith" Count="3"/>
+		<Card Name="Silver Bolt" Count="3"/>
+		<Card Name="Spark Inductor" Count="1"/>
+		<Card Name="Healing Dash" Count="1"/>
+		<Card Name="Gusts Of War" Count="1"/>
+		<Card Name="Creature Of The Night" Count="1"/>
+		<Card Name="Melt Armor" Count="1"/>
+		<Card Name="Combustible" Count="1"/>
+		<Card Name="Medium's Garb" Count="1"/>
+		<Card Name="Inquisitor's Badge" Count="1"/>
+		<Card Name="Dissolve Armor" Count="2"/>
+		<Card Name="Inquisitor's Strike" Count="1"/>
+	</Figure>
+	<Figure name="HumanPriestM02C">
+		<Card Name="Trained Bludgeon" Count="1"/>
+		<Card Name="Armor Of Faith" Count="1"/>
+		<Card Name="Powerful Bash" Count="1"/>
+		<Card Name="Soothing Darkness" Count="1"/>
+		<Card Name="Purging Burst" Count="2"/>
+		<Card Name="Lucky Charm" Count="2"/>
+		<Card Name="Superstitious" Count="1"/>
+		<Card Name="Cloth Armor" Count="1"/>
+		<Card Name="Icy Block" Count="1"/>
+		<Card Name="Purge" Count="3"/>
+		<Card Name="Avenging Touch" Count="1"/>
+		<Card Name="Destructive Purge" Count="1"/>
+		<Card Name="Wild Run" Count="1"/>
+		<Card Name="Holy Presence" Count="1"/>
+		<Card Name="Consecrate Ground" Count="1"/>
+		<Card Name="Vengeance" Count="2"/>
+		<Card Name="Touch Of Death" Count="1"/>
+		<Card Name="Creature Of The Night" Count="1"/>
+		<Card Name="Healing Pulse" Count="1"/>
+		<Card Name="Daylight" Count="3"/>
+		<Card Name="Boosted Heal" Count="1"/>
+		<Card Name="Invigorating Touch" Count="1"/>
+		<Card Name="Inquisitor's Badge" Count="1"/>
+		<Card Name="Vanguard" Count="3"/>
+		<Card Name="Inspiring Armor" Count="1"/>
+		<Card Name="Inquisitor's Strike" Count="2"/>
+	</Figure>
+</FigureBuild>

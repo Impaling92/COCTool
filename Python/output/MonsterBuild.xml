@@ -1,0 +1,3168 @@
+<?xml version="1.0" ?>
+<MonsterBuild>
+	<Monster Name="Acid Fiend" HP=" 18" Draw=" 3" VPWorth=" 2" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Acid Fiend"/>
+		<Card Name="Acid Blast" Count="2"/>
+		<Card Name="Acid Jet" Count="4"/>
+		<Card Name="Acid Pool" Count="1"/>
+		<Card Name="Acid Spray" Count="3"/>
+		<Card Name="Dissolve Armor" Count="2"/>
+		<Card Name="Gusts of War" Count="1"/>
+		<Card Name="Paralyzing Bolt" Count="1"/>
+		<Card Name="Run" Count="2"/>
+		<Card Name="Scuttle" Count="1"/>
+		<Card Name="Telekinesis" Count="3"/>
+	</Monster>
+	<Monster Name="Acid Imp" HP=" 10" Draw=" 1" VPWorth=" 1" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Acid Imps"/>
+		<Card Name="Acid Blast" Count="6"/>
+		<Card Name="Dissolve Armor" Count="1"/>
+		<Card Name="Short Blast" Count="5"/>
+		<Card Name="Brain Burn" Count="1"/>
+		<Card Name="Run" Count="2"/>
+		<Card Name="Scuttle" Count="1"/>
+	</Monster>
+	<Monster Name="Acid Sprite" HP=" 13" Draw=" 1" VPWorth=" 1" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Acid Sprites"/>
+		<Card Name="Acid Blast" Count="3"/>
+		<Card Name="Acid Jet" Count="4"/>
+		<Card Name="Acid Spray" Count="5"/>
+		<Card Name="Paralyzing Bolt" Count="1"/>
+		<Card Name="Run" Count="2"/>
+		<Card Name="Scuttle" Count="1"/>
+		<Card Name="Telekinesis" Count="4"/>
+	</Monster>
+	<Monster Name="Adult Wyvern" HP=" 25" Draw=" 3" VPWorth=" 2" DefaultMove="Fly" bGetAllInfo="True">
+		<InGameName Name=" Adult Wyvern"/>
+		<Card Name="Grounding Plates" Count="3"/>
+		<Card Name="Deadly Spark" Count="2"/>
+		<Card Name="Infected Bite" Count="4"/>
+		<Card Name="Mighty Spark" Count="3"/>
+		<Card Name="Short Spark" Count="1"/>
+		<Card Name="Wild Spark" Count="5"/>
+		<Card Name="Spark Generator" Count="2"/>
+		<Card Name="Vulnerable" Count="1"/>
+		<Card Name="Fly" Count="4"/>
+	</Monster>
+	<Monster Name="Afflicted Guards" HP=" 16" Draw=" 1.5" VPWorth=" 1" DefaultMove="Swarm Of Bats" bGetAllInfo="True">
+		<InGameName Name=" Afflicted Guards"/>
+		<Card Name="Inquisitor's Badge" Count="1"/>
+		<Card Name="Reliable Mail" Count="1"/>
+		<Card Name="Potent Stab" Count="3"/>
+		<Card Name="Penetrating Stab" Count="3"/>
+		<Card Name="Impaling Stab" Count="1"/>
+		<Card Name="Spear Of Darkness" Count="3"/>
+		<Card Name="Missile Block" Count="2"/>
+		<Card Name="Creature Of The Night" Count="1"/>
+		<Card Name="Run" Count="1"/>
+		<Card Name="Scuttle" Count="1"/>
+		<Card Name="Heavy Armor" Count="1"/>
+	</Monster>
+	<Monster Name="Afflicted Townsfolk" HP=" 13" Draw=" 1.5" VPWorth=" 1" DefaultMove="Prowl" bGetAllInfo="True">
+		<InGameName Name=" Afflicted Townsfolk"/>
+		<Card Name="Howl" Count="5"/>
+		<Card Name="Vicious Bite" Count="1"/>
+		<Card Name="Bite" Count="1"/>
+		<Card Name="Panic" Count="1"/>
+	</Monster>
+	<Monster Name="Alabaster Dragon" HP=" 70" Draw=" 4" VPWorth=" 5" DefaultMove="Fly" bGetAllInfo="True">
+		<InGameName Name=" Blizkenripper"/>
+		<Card Name="Toughness" Count="2"/>
+		<Card Name="Blizzard Breath" Count="3"/>
+		<Card Name="Dragon Claw" Count="3"/>
+		<Card Name="Ice Bolts" Count="3"/>
+		<Card Name="Massive Jaws" Count="2"/>
+		<Card Name="Obliterating Hack" Count="2"/>
+		<Card Name="Perfect Block" Count="1"/>
+		<Card Name="Reflecting Block" Count="1"/>
+		<Card Name="Hover" Count="1"/>
+		<Card Name="Immovable" Count="1"/>
+		<Card Name="Fly" Count="2"/>
+		<Card Name="Alabaster Wyrmhide" Count="3"/>
+	</Monster>
+	<Monster Name="Alet Zhav" HP=" 20" Draw=" 2" VPWorth=" 2" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Alet Zhav"/>
+		<Card Name="Cave In" Count="2"/>
+		<Card Name="Deadly Spark" Count="4"/>
+		<Card Name="Devastating Spark" Count="4"/>
+		<Card Name="Mighty Spark" Count="2"/>
+		<Card Name="Mud Pit" Count="1"/>
+		<Card Name="Powerful Bash" Count="3"/>
+		<Card Name="Powerful Spark" Count="2"/>
+		<Card Name="Defensiveness" Count="1"/>
+		<Card Name="Walk" Count="3"/>
+	</Monster>
+	<Monster Name="Alonzo the Sniper" HP=" 24" Draw=" 2" VPWorth=" 2" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Alonzo the Sniper"/>
+		<Card Name="Piercing Missile" Count="8"/>
+		<Card Name="Puncturing Shot" Count="2"/>
+		<Card Name="Tricky Stab" Count="2"/>
+		<Card Name="Dropped Guard" Count="1"/>
+		<Card Name="Escaping Run" Count="2"/>
+		<Card Name="Run" Count="3"/>
+		<Card Name="Jump Back" Count="3"/>
+	</Monster>
+	<Monster Name="Amirault Catt" HP=" 13" Draw=" 2" VPWorth=" 2" DefaultMove="Dash" bGetAllInfo="True">
+		<InGameName Name=" Amirault Catt"/>
+		<Card Name="Acid Blast" Count="2"/>
+		<Card Name="Burning Fingers" Count="2"/>
+		<Card Name="Dissolve Armor" Count="2"/>
+		<Card Name="Fire Spray" Count="2"/>
+		<Card Name="Frost Jolt" Count="1"/>
+		<Card Name="Instant Burn" Count="1"/>
+		<Card Name="Magma Spray" Count="2"/>
+		<Card Name="Pushback Parry" Count="1"/>
+		<Card Name="Kindler" Count="1"/>
+		<Card Name="Dash" Count="2"/>
+	</Monster>
+	<Monster Name="Apprentice Geomancer" HP=" 15" Draw=" 1.5" VPWorth=" 1" DefaultMove="Walk" bGetAllInfo="True">
+		<InGameName Name=" Apprentice Geomancers"/>
+		<Card Name="Acid Pool" Count="2"/>
+		<Card Name="Cave In" Count="3"/>
+		<Card Name="Hot Spot" Count="3"/>
+		<Card Name="Lava Pool" Count="3"/>
+		<Card Name="Paralyzing Bolt" Count="1"/>
+		<Card Name="Hover" Count="3"/>
+		<Card Name="Walk" Count="3"/>
+		<Card Name="Everlasting Ground" Count="5"/>
+		<Card Name="Telekinesis" Count="2"/>
+	</Monster>
+	<Monster Name="Arcane Imp" HP=" 10" Draw=" 1" VPWorth=" 1" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Arcane Imps"/>
+		<Card Name="Blast" Count="9"/>
+		<Card Name="Sorcerous Blast" Count="1"/>
+		<Card Name="Sorcerous Bolt" Count="2"/>
+		<Card Name="Brain Burn" Count="1"/>
+		<Card Name="Run" Count="2"/>
+		<Card Name="Scuttle" Count="1"/>
+	</Monster>
+	<Monster Name="Arcane Sprite" HP=" 14" Draw=" 1" VPWorth=" 1" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Arcane Sprites"/>
+		<Card Name="Dazing Bolt" Count="1"/>
+		<Card Name="Memory Loss" Count="4"/>
+		<Card Name="Mind Drain" Count="3"/>
+		<Card Name="Penetrating Bolt" Count="2"/>
+		<Card Name="Sorcerous Blast" Count="2"/>
+		<Card Name="Sorcerous Bolt" Count="2"/>
+		<Card Name="Run" Count="3"/>
+		<Card Name="Surging Blast" Count="4"/>
+		<Card Name="Surging Bolt" Count="2"/>
+	</Monster>
+	<Monster Name="Armored Dog" HP=" 15" Draw=" 2" VPWorth=" 1" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Scar"/>
+		<Card Name="Mail" Count="2"/>
+		<Card Name="Rusty Armor" Count="1"/>
+		<Card Name="Attack Skill" Count="1"/>
+		<Card Name="Cowardly" Count="1"/>
+		<Card Name="Scamper" Count="2"/>
+		<Card Name="Ill-fitting Armor" Count="1"/>
+		<Card Name="Lunging Thrust" Count="7"/>
+		<Card Name="Nimble Strike" Count="1"/>
+		<Card Name="Penetrating Lunge" Count="4"/>
+		<Card Name="Vicious Thrust" Count="2"/>
+	</Monster>
+	<Monster Name="Armored Dogs" HP=" 15" Draw=" 1" VPWorth=" 1" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Armored Dogs"/>
+		<Card Name="Mail" Count="2"/>
+		<Card Name="Rusty Armor" Count="1"/>
+		<Card Name="Attack Skill" Count="1"/>
+		<Card Name="Cowardly" Count="1"/>
+		<Card Name="Scamper" Count="2"/>
+		<Card Name="Ill-fitting Armor" Count="1"/>
+		<Card Name="Lunging Thrust" Count="7"/>
+		<Card Name="Nimble Strike" Count="1"/>
+		<Card Name="Penetrating Lunge" Count="4"/>
+		<Card Name="Vicious Thrust" Count="2"/>
+	</Monster>
+	<Monster Name="Armored Pig" HP=" 10" Draw=" 2" VPWorth=" 2" DefaultMove="Dash" bGetAllInfo="True">
+		<InGameName Name=" Oink"/>
+		<Card Name="Mail" Count="3"/>
+		<Card Name="Bite" Count="13"/>
+		<Card Name="Run" Count="4"/>
+	</Monster>
+	<Monster Name="Armored Pigs" HP=" 12" Draw=" 1" VPWorth=" 1" DefaultMove="Dash" bGetAllInfo="True">
+		<InGameName Name=" Armored Pig"/>
+		<Card Name="Mail" Count="3"/>
+		<Card Name="Bite" Count="13"/>
+		<Card Name="Run" Count="4"/>
+	</Monster>
+	<Monster Name="Armored Skeleton" HP=" 19" Draw=" 2" VPWorth=" 2" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Armored Skeleton"/>
+		<Card Name="Only Bones" Count="2"/>
+		<Card Name="Solid Mail" Count="3"/>
+		<Card Name="Chop" Count="3"/>
+		<Card Name="Perforating Strike" Count="5"/>
+		<Card Name="Shredding Strike" Count="2"/>
+		<Card Name="Parry" Count="2"/>
+		<Card Name="Rejuvenation" Count="1"/>
+		<Card Name="Obvious Maneuver" Count="1"/>
+		<Card Name="Run" Count="2"/>
+		<Card Name="Strong Chop" Count="5"/>
+	</Monster>
+	<Monster Name="Armored Skeletons" HP=" 19" Draw=" 1.5" VPWorth=" 2" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Armored Skeletons"/>
+		<Card Name="Only Bones" Count="2"/>
+		<Card Name="Solid Mail" Count="3"/>
+		<Card Name="Chop" Count="3"/>
+		<Card Name="Perforating Strike" Count="5"/>
+		<Card Name="Shredding Strike" Count="2"/>
+		<Card Name="Parry" Count="2"/>
+		<Card Name="Rejuvenation" Count="1"/>
+		<Card Name="Obvious Maneuver" Count="1"/>
+		<Card Name="Run" Count="2"/>
+		<Card Name="Strong Chop" Count="5"/>
+	</Monster>
+	<Monster Name="Assassin" HP=" 18" Draw=" 2" VPWorth=" 1" DefaultMove="Scamper" bGetAllInfo="True">
+		<InGameName Name=" Assassin"/>
+		<Card Name="Backstab" Count="3"/>
+		<Card Name="Poison Blowdart" Count="2"/>
+		<Card Name="I'm Here About the Job" Count="3"/>
+		<Card Name="Uncanny Dodge" Count="2"/>
+		<Card Name="Scamper" Count="3"/>
+	</Monster>
+	<Monster Name="Assassins" HP=" 18" Draw=" 2" VPWorth=" 1" DefaultMove="Scamper" bGetAllInfo="True">
+		<InGameName Name=" Assassins"/>
+		<Card Name="Backstab" Count="3"/>
+		<Card Name="Poison Blowdart" Count="2"/>
+		<Card Name="I'm Here About the Job" Count="3"/>
+		<Card Name="Uncanny Dodge" Count="2"/>
+		<Card Name="Scamper" Count="3"/>
+	</Monster>
+	<Monster Name="Baby Rad Spider" HP=" 18" Draw=" 1" VPWorth=" 1" DefaultMove="Scamper" bGetAllInfo="True">
+		<InGameName Name=" Baby Rad Spiders"/>
+		<Card Name="Radioactive Bite" Count="10"/>
+	</Monster>
+	<Monster Name="Baby Wyvern" HP=" 20" Draw=" 0.5" VPWorth=" 1" DefaultMove="Walk" bGetAllInfo="True">
+		<InGameName Name=" Baby Wyverns"/>
+		<Card Name="Crude Plates" Count="1"/>
+		<Card Name="Grounding Plates" Count="2"/>
+		<Card Name="Bite" Count="4"/>
+		<Card Name="Deadly Spark" Count="1"/>
+		<Card Name="Infected Bite" Count="1"/>
+		<Card Name="Short Spark" Count="4"/>
+		<Card Name="Swarming Attack" Count="3"/>
+		<Card Name="Wild Spark" Count="1"/>
+		<Card Name="Vulnerable" Count="3"/>
+		<Card Name="Fly" Count="1"/>
+		<Card Name="Scuttle" Count="2"/>
+	</Monster>
+	<Monster Name="Beech Sapling" HP=" 14" Draw=" 2" VPWorth=" 1" DefaultMove="Walk" bGetAllInfo="True">
+		<InGameName Name=" Beech Sapling"/>
+		<Card Name="Solid Wood" Count="3"/>
+		<Card Name="Clubbing Branch" Count="1"/>
+		<Card Name="Long Thin Branch" Count="4"/>
+		<Card Name="Thin Bludgeoning Branch" Count="4"/>
+		<Card Name="Thin Clubbing Branch" Count="4"/>
+		<Card Name="Combustible" Count="3"/>
+		<Card Name="Walk" Count="2"/>
+	</Monster>
+	<Monster Name="Beech Saplings" HP=" 14" Draw=" 1" VPWorth=" 1" DefaultMove="Walk" bGetAllInfo="True">
+		<InGameName Name=" Beech Saplings"/>
+		<Card Name="Solid Wood" Count="3"/>
+		<Card Name="Clubbing Branch" Count="1"/>
+		<Card Name="Long Thin Branch" Count="4"/>
+		<Card Name="Thin Bludgeoning Branch" Count="4"/>
+		<Card Name="Thin Clubbing Branch" Count="4"/>
+		<Card Name="Combustible" Count="3"/>
+		<Card Name="Walk" Count="2"/>
+	</Monster>
+	<Monster Name="Beech Tree" HP=" 19" Draw=" 1" VPWorth=" 1" DefaultMove="Walk" bGetAllInfo="True">
+		<InGameName Name=" Beech Trees"/>
+		<Card Name="Solid Wood" Count="3"/>
+		<Card Name="Bludgeoning Branch" Count="2"/>
+		<Card Name="Clubbing Branch" Count="3"/>
+		<Card Name="Long Branch" Count="2"/>
+		<Card Name="Long Thin Branch" Count="1"/>
+		<Card Name="Simple Bash" Count="3"/>
+		<Card Name="Thin Bludgeoning Branch" Count="2"/>
+		<Card Name="Combustible" Count="3"/>
+		<Card Name="Walk" Count="2"/>
+	</Monster>
+	<Monster Name="Black Ooze" HP=" 16" Draw=" 3" VPWorth=" 2" DefaultMove="Walk" bGetAllInfo="True">
+		<InGameName Name=" Black Ooze"/>
+		<Card Name="Amorphous Body" Count="3"/>
+		<Card Name="Able Bludgeon" Count="3"/>
+		<Card Name="Bludgeon" Count="3"/>
+		<Card Name="Small Pseudopod Strike" Count="3"/>
+		<Card Name="Walk" Count="3"/>
+	</Monster>
+	<Monster Name="Black Oozes" HP=" 16" Draw=" 1.5" VPWorth=" 1" DefaultMove="Walk" bGetAllInfo="True">
+		<InGameName Name=" Black Oozes"/>
+		<Card Name="Amorphous Body" Count="3"/>
+		<Card Name="Able Bludgeon" Count="3"/>
+		<Card Name="Bludgeon" Count="3"/>
+		<Card Name="Small Pseudopod Strike" Count="3"/>
+		<Card Name="Walk" Count="3"/>
+	</Monster>
+	<Monster Name="Blackhammer" HP=" 25" Draw=" 3" VPWorth=" 2" DefaultMove="Fly" bGetAllInfo="True">
+		<InGameName Name=" Blackhammer"/>
+		<Card Name="Greater Heal" Count="3"/>
+		<Card Name="Powerful Bash" Count="3"/>
+		<Card Name="Purging Strike" Count="3"/>
+		<Card Name="Unnerving Strike" Count="3"/>
+		<Card Name="Parry" Count="1"/>
+		<Card Name="Crusher" Count="1"/>
+		<Card Name="Fly" Count="2"/>
+		<Card Name="All Out Attack" Count="2"/>
+		<Card Name="Bash" Count="2"/>
+		<Card Name="Parrying Strike" Count="1"/>
+		<Card Name="Polearm Slash" Count="2"/>
+	</Monster>
+	<Monster Name="Blinking Wisp" HP=" 18" Draw=" 1" VPWorth=" 1" DefaultMove="Teleport Self" bGetAllInfo="True">
+		<InGameName Name=" Blinking Wisps"/>
+		<Card Name="Deadly Spark" Count="3"/>
+		<Card Name="Devastating Spark" Count="3"/>
+		<Card Name="Force Bolt" Count="2"/>
+		<Card Name="Mighty Spark" Count="7"/>
+		<Card Name="Missile Block" Count="2"/>
+		<Card Name="Reflect Missile" Count="2"/>
+		<Card Name="Defensiveness" Count="2"/>
+		<Card Name="Maze" Count="2"/>
+		<Card Name="Teleport Self" Count="2"/>
+	</Monster>
+	<Monster Name="Blood Disciple" HP=" 15" Draw=" 1" VPWorth=" 1" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Blood Disciples"/>
+		<Card Name="Cut" Count="4"/>
+		<Card Name="Flurry of Steel" Count="1"/>
+		<Card Name="Hemorrhage" Count="4"/>
+		<Card Name="Catch Arrow" Count="2"/>
+		<Card Name="Hit the Deck" Count="2"/>
+		<Card Name="Demonic Revenge" Count="2"/>
+		<Card Name="Dropped Guard" Count="2"/>
+		<Card Name="Run" Count="2"/>
+		<Card Name="Blind Rage" Count="1"/>
+	</Monster>
+	<Monster Name="Blood Priest" HP=" 15" Draw=" 2" VPWorth=" 1" DefaultMove="Walk" bGetAllInfo="True">
+		<InGameName Name=" Blood Priest"/>
+		<Card Name="Healing Blessing" Count="2"/>
+		<Card Name="Martyr Blessing" Count="2"/>
+		<Card Name="Run, Team!" Count="2"/>
+		<Card Name="Twin Heals" Count="5"/>
+		<Card Name="Bad Luck" Count="2"/>
+		<Card Name="Open Wound" Count="5"/>
+		<Card Name="Defensiveness" Count="2"/>
+		<Card Name="Run" Count="2"/>
+	</Monster>
+	<Monster Name="Bluk, Goblin Chieftain" HP=" 20" Draw=" 3" VPWorth=" 2" DefaultMove="Walk" bGetAllInfo="True">
+		<InGameName Name=" Bluk"/>
+		<InGameName Name=" Goblin Chieftain"/>
+		<Card Name="Able Bludgeon" Count="4"/>
+		<Card Name="Meaty Goblin Fist" Count="3"/>
+		<Card Name="Powerful Bludgeon" Count="2"/>
+		<Card Name="Powerful Hack" Count="1"/>
+		<Card Name="Strong Hack" Count="2"/>
+		<Card Name="Clumsy" Count="3"/>
+		<Card Name="Obvious Maneuver" Count="2"/>
+		<Card Name="Bull Rush" Count="1"/>
+		<Card Name="Walk" Count="4"/>
+	</Monster>
+	<Monster Name="Boulder" HP=" 50" Draw=" 3" VPWorth=" 0" DefaultMove="Rumbling Charge" bGetAllInfo="True">
+		<InGameName Name=" Boulder"/>
+		<Card Name="Giant Boulder" Count="1"/>
+		<Card Name="Flatten" Count="1"/>
+		<Card Name="Shuffle" Count="1"/>
+	</Monster>
+	<Monster Name="Brainy Mutant" HP=" 30" Draw=" 3" VPWorth=" 2" DefaultMove="Fly" bGetAllInfo="True">
+		<InGameName Name=" The Captain"/>
+		<Card Name="Adaptable" Count="1"/>
+		<Card Name="Reanimate" Count="2"/>
+		<Card Name="Psychic Beam" Count="3"/>
+		<Card Name="Psychic Blast" Count="3"/>
+		<Card Name="Radioactive Bite" Count="2"/>
+		<Card Name="Radioactive Pulse" Count="1"/>
+		<Card Name="Invisibility" Count="1"/>
+		<Card Name="Phase Shift" Count="2"/>
+	</Monster>
+	<Monster Name="Bronze Golem" HP=" 22" Draw=" 3" VPWorth=" 2" DefaultMove="Walk" bGetAllInfo="True">
+		<InGameName Name=" Bronze Golem"/>
+		<Card Name="Thickened Mail" Count="4"/>
+		<Card Name="Able Bludgeon" Count="2"/>
+		<Card Name="Bludgeon" Count="2"/>
+		<Card Name="Flailing Bronze Fists" Count="4"/>
+		<Card Name="Clumsy" Count="3"/>
+		<Card Name="Walk" Count="4"/>
+	</Monster>
+	<Monster Name="Brother Arun" HP=" 19" Draw=" 2" VPWorth=" 2" DefaultMove="Walk" bGetAllInfo="True">
+		<InGameName Name=" Brother Arun"/>
+		<Card Name="Acid Pool" Count="3"/>
+		<Card Name="Cave In" Count="3"/>
+		<Card Name="Lava Pool" Count="3"/>
+		<Card Name="Paralyzing Bolt" Count="1"/>
+		<Card Name="Rockfall" Count="2"/>
+		<Card Name="Hover" Count="3"/>
+		<Card Name="Walk" Count="3"/>
+		<Card Name="Blooming Ground" Count="5"/>
+		<Card Name="Telekinesis" Count="1"/>
+		<Card Name="Teleport Other" Count="1"/>
+	</Monster>
+	<Monster Name="Burning Fiend" HP=" 18" Draw=" 2" VPWorth=" 2" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Burning Fiend"/>
+		<Card Name="Fire Bolt" Count="4"/>
+		<Card Name="Fire Spray" Count="3"/>
+		<Card Name="Fireball" Count="2"/>
+		<Card Name="Flame Spit" Count="4"/>
+		<Card Name="Glob of Flame" Count="2"/>
+		<Card Name="Sizzling Bolt" Count="3"/>
+		<Card Name="Brain Burn" Count="1"/>
+		<Card Name="Run" Count="3"/>
+	</Monster>
+	<Monster Name="Burning Skeleton" HP=" 19" Draw=" 2" VPWorth=" 1" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Burning Skeletons"/>
+		<Card Name="Only Bones" Count="3"/>
+		<Card Name="Burning Blade" Count="6"/>
+		<Card Name="Fireball" Count="1"/>
+		<Card Name="Perforating Strike" Count="6"/>
+		<Card Name="Reaching Swing" Count="2"/>
+		<Card Name="Vulnerable" Count="1"/>
+		<Card Name="Run" Count="3"/>
+	</Monster>
+	<Monster Name="Captain Teadora" HP=" 40" Draw=" 4" VPWorth=" 2" DefaultMove="Shifting Block" bGetAllInfo="True">
+		<InGameName Name=" Captain Teadora"/>
+		<Card Name="Inquisitor's Badge" Count="2"/>
+		<Card Name="Inspiring Armor" Count="2"/>
+		<Card Name="Obliterating Hack" Count="1"/>
+		<Card Name="Inquisitor's Strike" Count="2"/>
+		<Card Name="Lycanthropic Form" Count="1"/>
+		<Card Name="Creature Of The Night" Count="1"/>
+		<Card Name="Healing Dash" Count="1"/>
+		<Card Name="Vengeance" Count="2"/>
+		<Card Name="Blind Rage" Count="1"/>
+		<Card Name="Investigate" Count="1"/>
+	</Monster>
+	<Monster Name="Carolinia" HP=" 13" Draw=" 2" VPWorth=" 2" DefaultMove="Dash" bGetAllInfo="True">
+		<InGameName Name=" Carolinia"/>
+		<Card Name="Magic in the Air" Count="1"/>
+		<Card Name="Big Zap" Count="4"/>
+		<Card Name="Bludgeon" Count="1"/>
+		<Card Name="Bungled Bolt" Count="1"/>
+		<Card Name="Penetrating Bolt" Count="1"/>
+		<Card Name="Penetrating Zap" Count="2"/>
+		<Card Name="Pushback Parry" Count="2"/>
+		<Card Name="Dimensional Traveller" Count="1"/>
+		<Card Name="Dash" Count="2"/>
+		<Card Name="Elvish Mobility" Count="1"/>
+	</Monster>
+	<Monster Name="Carrion Scuttler" HP=" 24" Draw=" 1" VPWorth=" 1" DefaultMove="Scuttle" bGetAllInfo="True">
+		<InGameName Name=" Carrion Scuttlers"/>
+		<Card Name="Infected Bite" Count="2"/>
+		<Card Name="Paralytic Poison" Count="5"/>
+		<Card Name="Small Pseudopod Strike" Count="2"/>
+		<Card Name="Stunning Blow" Count="2"/>
+		<Card Name="Cowardly" Count="1"/>
+		<Card Name="Scuttle" Count="2"/>
+		<Card Name="Shuffle" Count="1"/>
+	</Monster>
+	<Monster Name="Cave In Traps" HP=" 18" Draw=" 1" VPWorth=" 0" DefaultMove="" bGetAllInfo="True">
+		<InGameName Name=" Cave In Traps"/>
+		<Card Name="Falling Boulders" Count="5"/>
+	</Monster>
+	<Monster Name="Cave-in Trap" HP=" 18" Draw=" 1" VPWorth=" 0" DefaultMove="" bGetAllInfo="True">
+		<InGameName Name=" Cave-in Trap"/>
+		<Card Name="Ancient Statue" Count="1"/>
+		<Card Name="Falling Boulders" Count="3"/>
+	</Monster>
+	<Monster Name="Chef Garcotto" HP=" 30" Draw=" 2" VPWorth=" 2" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Chef Garcotto"/>
+		<Card Name="Toughness" Count="1"/>
+		<Card Name="Chop" Count="4"/>
+		<Card Name="Powerful Hack" Count="1"/>
+		<Card Name="Staggering Chop" Count="2"/>
+		<Card Name="Fumble" Count="1"/>
+		<Card Name="Run" Count="2"/>
+		<Card Name="Lunging Hack" Count="2"/>
+		<Card Name="Massive Chop" Count="2"/>
+		<Card Name="Strong Chop" Count="4"/>
+	</Monster>
+	<Monster Name="Chef Ramses" HP=" 40" Draw=" 2" VPWorth=" 2" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Chef Ramses"/>
+		<Card Name="Cloth Armor" Count="1"/>
+		<Card Name="Add Dark Butter" Count="3"/>
+		<Card Name="Add Evil Salt" Count="3"/>
+		<Card Name="Add Vile Frosting" Count="2"/>
+		<Card Name="Obliterating Chop" Count="2"/>
+		<Card Name="Leap" Count="2"/>
+		<Card Name="Strong Chop" Count="1"/>
+	</Monster>
+	<Monster Name="Chef Ramses (Hard)" HP=" 40" Draw=" 4" VPWorth=" 2" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Chef Ramses"/>
+		<Card Name="Add Dark Butter" Count="3"/>
+		<Card Name="Add Evil Salt" Count="3"/>
+		<Card Name="Add Vile Frosting" Count="1"/>
+		<Card Name="Obliterating Chop" Count="2"/>
+		<Card Name="Hurled Dagger" Count="1"/>
+		<Card Name="Slicer" Count="2"/>
+		<Card Name="Leap" Count="2"/>
+		<Card Name="Sparkling Cloth Armor" Count="1"/>
+	</Monster>
+	<Monster Name="Chupacabra" HP=" 20" Draw=" 2" VPWorth=" 2" DefaultMove="Scamper" bGetAllInfo="True">
+		<InGameName Name=" Chupacabra"/>
+		<Card Name="Enervating Touch" Count="5"/>
+		<Card Name="Infected Bite" Count="3"/>
+		<Card Name="Maze of the Mind" Count="2"/>
+		<Card Name="Scamper" Count="2"/>
+		<Card Name="Dodge" Count="2"/>
+		<Card Name="Flight Aura" Count="2"/>
+	</Monster>
+	<Monster Name="Coatldile" HP=" 25" Draw=" 1" VPWorth=" 1" DefaultMove="Fly" bGetAllInfo="True">
+		<InGameName Name=" Coatldiles"/>
+		<Card Name="Tough Hide" Count="2"/>
+		<Card Name="Bite" Count="7"/>
+		<Card Name="Massive Jaws" Count="2"/>
+		<Card Name="Obvious Maneuver" Count="1"/>
+		<Card Name="Muscle Through" Count="1"/>
+		<Card Name="Walk" Count="2"/>
+		<Card Name="Blind Rage" Count="1"/>
+	</Monster>
+	<Monster Name="Copper Golem" HP=" 27" Draw=" 3" VPWorth=" 2" DefaultMove="Walk" bGetAllInfo="True">
+		<InGameName Name=" Copper Golem"/>
+		<Card Name="Solid Mail" Count="3"/>
+		<Card Name="Mighty Bludgeon" Count="2"/>
+		<Card Name="Powerful Bludgeon" Count="3"/>
+		<Card Name="Shredding Strike" Count="5"/>
+		<Card Name="Strong Bludgeon" Count="1"/>
+		<Card Name="Clumsy" Count="3"/>
+		<Card Name="Walk" Count="4"/>
+	</Monster>
+	<Monster Name="Count Yurik" HP=" 40" Draw=" 4" VPWorth=" 2" DefaultMove="Swarm Of Bats" bGetAllInfo="True">
+		<InGameName Name=" Count Yurik"/>
+		<Card Name="Invigorating Touch" Count="3"/>
+		<Card Name="Sneaky Bloodsuck" Count="2"/>
+		<Card Name="Vampire's Kiss" Count="1"/>
+		<Card Name="Feinting Strike" Count="2"/>
+		<Card Name="Spear Of Darkness" Count="2"/>
+		<Card Name="Parry" Count="2"/>
+		<Card Name="Shield Block" Count="2"/>
+		<Card Name="Rejuvenation" Count="2"/>
+		<Card Name="Talented Healer" Count="1"/>
+		<Card Name="Creature Of The Night" Count="2"/>
+		<Card Name="Swarm Of Bats" Count="2"/>
+		<Card Name="Arrogant Armor" Count="3"/>
+		<Card Name="Nimble Strike" Count="2"/>
+	</Monster>
+	<Monster Name="Countess Jovana" HP=" 34" Draw=" 5" VPWorth=" 2" DefaultMove="Swarm Of Bats" bGetAllInfo="True">
+		<InGameName Name=" Countess Jovana"/>
+		<Card Name="Binding Shadows" Count="2"/>
+		<Card Name="Invigorating Touch" Count="1"/>
+		<Card Name="Psychic Blast" Count="1"/>
+		<Card Name="Spear Of Darkness" Count="2"/>
+		<Card Name="Vampire's Kiss" Count="1"/>
+		<Card Name="Absorbing Block" Count="1"/>
+		<Card Name="Missile Block" Count="1"/>
+		<Card Name="Rejuvenation" Count="1"/>
+		<Card Name="Talented Healer" Count="1"/>
+		<Card Name="Creature Of The Night" Count="1"/>
+		<Card Name="Swarm Of Bats" Count="2"/>
+		<Card Name="Walpurgis Night" Count="5"/>
+		<Card Name="Arrogant Armor" Count="2"/>
+	</Monster>
+	<Monster Name="Creeper" HP=" 15" Draw=" 1" VPWorth=" 1" DefaultMove="Shuffle" bGetAllInfo="True">
+		<InGameName Name=" Creeper"/>
+		<Card Name="Shimmering Aura" Count="2"/>
+		<Card Name="Tough Bark" Count="1"/>
+		<Card Name="Entangling Roots" Count="6"/>
+		<Card Name="Long Thin Branch" Count="5"/>
+		<Card Name="Vegetable Parts" Count="1"/>
+		<Card Name="Walk" Count="3"/>
+	</Monster>
+	<Monster Name="Cunning Mutant" HP=" 25" Draw=" 2" VPWorth=" 1" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Cunning Mutant"/>
+		<Card Name="Genetic Boost" Count="3"/>
+		<Card Name="Radioactive Pulse" Count="2"/>
+		<Card Name="Shotgun Slug" Count="4"/>
+		<Card Name="Shotgun Spray" Count="2"/>
+		<Card Name="Retaliatory Mutation" Count="2"/>
+		<Card Name="Violent Spin" Count="2"/>
+	</Monster>
+	<Monster Name="Curse Idol" HP=" 18" Draw=" 1" VPWorth=" 1" DefaultMove="Shuffle" bGetAllInfo="True">
+		<InGameName Name=" Curse Idol"/>
+		<Card Name="Ancient Statue" Count="1"/>
+		<Card Name="Beam of Hate" Count="5"/>
+		<Card Name="Dastardly Curse" Count="2"/>
+		<Card Name="Unholy Curse" Count="2"/>
+		<Card Name="Barrier of Hate" Count="4"/>
+		<Card Name="Clumsy" Count="1"/>
+		<Card Name="Obvious Maneuver" Count="2"/>
+		<Card Name="Shuffle" Count="2"/>
+	</Monster>
+	<Monster Name="Cyber Boss" HP=" 25" Draw=" 2" VPWorth=" 2" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Cyber Boss"/>
+		<Card Name="Genetic Boost" Count="3"/>
+		<Card Name="Laser Bolt" Count="4"/>
+		<Card Name="Radioactive Pulse" Count="2"/>
+		<Card Name="Scatter Laser" Count="2"/>
+		<Card Name="Retaliatory Mutation" Count="2"/>
+		<Card Name="Violent Spin" Count="2"/>
+	</Monster>
+	<Monster Name="Cyber Gunner" HP=" 20" Draw=" 2" VPWorth=" 1" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Cyber Gunners"/>
+		<Card Name="Adaptable" Count="2"/>
+		<Card Name="Laser Bolt" Count="5"/>
+		<Card Name="Radioactive Pulse" Count="2"/>
+		<Card Name="Scatter Laser" Count="3"/>
+		<Card Name="Violent Spin" Count="2"/>
+	</Monster>
+	<Monster Name="Cyber Mutant" HP=" 30" Draw=" 2" VPWorth=" 2" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Cyber Brute"/>
+		<InGameName Name=" Cyber Mutants"/>
+		<Card Name="Adaptable" Count="1"/>
+		<Card Name="Paralytic Poison" Count="1"/>
+		<Card Name="Powerful Bludgeon" Count="2"/>
+		<Card Name="Radioactive Pulse" Count="2"/>
+		<Card Name="Strong Bludgeon" Count="3"/>
+		<Card Name="Invisibility" Count="1"/>
+		<Card Name="Lunging Bite" Count="3"/>
+	</Monster>
+	<Monster Name="Cyber Priest" HP=" 28" Draw=" 2" VPWorth=" 2" DefaultMove="Dash" bGetAllInfo="True">
+		<InGameName Name=" Marie-France"/>
+		<Card Name="Cushioning Armor" Count="1"/>
+		<Card Name="Mimetic Armor" Count="2"/>
+		<Card Name="Gene Therapy" Count="2"/>
+		<Card Name="Genetic Engineering" Count="2"/>
+		<Card Name="Healing Beacon" Count="2"/>
+		<Card Name="Push the Button" Count="2"/>
+		<Card Name="Destructive Purge" Count="2"/>
+		<Card Name="Laser Strike" Count="2"/>
+		<Card Name="Laser Whip" Count="2"/>
+		<Card Name="Radiation Bomb" Count="2"/>
+		<Card Name="Defender's Block" Count="2"/>
+		<Card Name="Altruism" Count="1"/>
+		<Card Name="Healing Dash" Count="2"/>
+		<Card Name="Warp Run" Count="2"/>
+	</Monster>
+	<Monster Name="Cyber Warrior" HP=" 42" Draw=" 2" VPWorth=" 2" DefaultMove="Walk" bGetAllInfo="True">
+		<InGameName Name=" Molly"/>
+		<Card Name="Cushioning Armor" Count="1"/>
+		<Card Name="Mimetic Armor" Count="1"/>
+		<Card Name="Officer's Harness" Count="1"/>
+		<Card Name="Toughness" Count="2"/>
+		<Card Name="Push the Button" Count="2"/>
+		<Card Name="Flaring Laser" Count="4"/>
+		<Card Name="Laser Cutdown" Count="3"/>
+		<Card Name="Laser Block" Count="3"/>
+		<Card Name="Hover" Count="2"/>
+		<Card Name="Rocket Charge" Count="2"/>
+		<Card Name="Warp Run" Count="1"/>
+		<Card Name="Dancing Cut" Count="2"/>
+		<Card Name="Laser Thrust" Count="2"/>
+	</Monster>
+	<Monster Name="Cyber Wizard" HP=" 28" Draw=" 2" VPWorth=" 2" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Case"/>
+		<Card Name="Mimetic Armor" Count="1"/>
+		<Card Name="Force Field" Count="1"/>
+		<Card Name="Pull the Trigger" Count="2"/>
+		<Card Name="Hypnotic Beacon" Count="2"/>
+		<Card Name="Mega Laser" Count="2"/>
+		<Card Name="Scatter Laser" Count="3"/>
+		<Card Name="Short Perplexing Ray" Count="2"/>
+		<Card Name="Winds of War" Count="2"/>
+		<Card Name="Dimensional Traveller" Count="2"/>
+		<Card Name="Team Walk" Count="2"/>
+		<Card Name="Laser Spray" Count="1"/>
+	</Monster>
+	<Monster Name="Death Elemental" HP=" 25" Draw=" 3" VPWorth=" 2" DefaultMove="Walk" bGetAllInfo="True">
+		<InGameName Name=" Death Elemental"/>
+		<Card Name="Doom" Count="4"/>
+		<Card Name="Roulette" Count="8"/>
+		<Card Name="Negative Energy Being" Count="5"/>
+		<Card Name="Shuffle" Count="2"/>
+	</Monster>
+	<Monster Name="Death Elementals" HP=" 25" Draw=" 1.5" VPWorth=" 2" DefaultMove="Walk" bGetAllInfo="True">
+		<InGameName Name=" Death Elementals"/>
+		<Card Name="Doom" Count="4"/>
+		<Card Name="Roulette" Count="8"/>
+		<Card Name="Negative Energy Being" Count="5"/>
+		<Card Name="Shuffle" Count="2"/>
+	</Monster>
+	<Monster Name="Duke Oggencot" HP=" 28" Draw=" 3" VPWorth=" 2" DefaultMove="Walk" bGetAllInfo="True">
+		<InGameName Name=" King Oggencot"/>
+		<Card Name="Brains!" Count="2"/>
+		<Card Name="Infected Bite" Count="2"/>
+		<Card Name="Mighty Bludgeon" Count="5"/>
+		<Card Name="Powerful Bash" Count="3"/>
+		<Card Name="Clumsy" Count="2"/>
+		<Card Name="Shuffle" Count="3"/>
+		<Card Name="Bash" Count="2"/>
+		<Card Name="Shambling Bash" Count="4"/>
+		<Card Name="Slowed" Count="2"/>
+	</Monster>
+	<Monster Name="Elder Mind" HP=" 15" Draw=" 3" VPWorth=" 3" DefaultMove="Shuffle" bGetAllInfo="True">
+		<InGameName Name=" Elder Mind"/>
+		<Card Name="Super Team Heal" Count="1"/>
+		<Card Name="Team Heal" Count="2"/>
+		<Card Name="Able Bludgeon" Count="1"/>
+		<Card Name="Bludgeon" Count="2"/>
+		<Card Name="Brainhook" Count="5"/>
+		<Card Name="Missile Block" Count="2"/>
+		<Card Name="Reflect Missile" Count="2"/>
+		<Card Name="Reflecting Block" Count="1"/>
+		<Card Name="Shuffle" Count="2"/>
+	</Monster>
+	<Monster Name="Elite Guard" HP=" 20" Draw=" 2" VPWorth=" 2" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Elite Guards"/>
+		<Card Name="Hack" Count="5"/>
+		<Card Name="Penetrating Stab" Count="5"/>
+		<Card Name="Skillful Strike" Count="4"/>
+		<Card Name="Shield Block" Count="5"/>
+		<Card Name="Fumble" Count="1"/>
+		<Card Name="Run" Count="3"/>
+		<Card Name="All Out Attack" Count="1"/>
+	</Monster>
+	<Monster Name="Ethereal Wisp" HP=" 13" Draw=" 1" VPWorth=" 1" DefaultMove="Teleport Self" bGetAllInfo="True">
+		<InGameName Name=" Ethereal Wisps"/>
+		<Card Name="Deadly Spark" Count="2"/>
+		<Card Name="Devastating Spark" Count="3"/>
+		<Card Name="Powerful Spark" Count="2"/>
+		<Card Name="Spark" Count="1"/>
+		<Card Name="Missile Block" Count="2"/>
+		<Card Name="Reflect Missile" Count="1"/>
+		<Card Name="Teleport Self" Count="1"/>
+	</Monster>
+	<Monster Name="Festering Zombie" HP=" 19" Draw=" 1" VPWorth=" 1" DefaultMove="Shuffle" bGetAllInfo="True">
+		<InGameName Name=" Festering Zombie"/>
+		<InGameName Name=""/>
+		<Card Name="Resistant Hide" Count="3"/>
+		<Card Name="Bludgeon" Count="3"/>
+		<Card Name="Brains!" Count="4"/>
+		<Card Name="Infected Bite" Count="4"/>
+		<Card Name="Zombie Mob" Count="7"/>
+		<Card Name="Festering Guts" Count="4"/>
+		<Card Name="Shuffle" Count="3"/>
+	</Monster>
+	<Monster Name="Fire Imp" HP=" 10" Draw=" 1" VPWorth=" 1" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Fire Imps"/>
+		<Card Name="Burning Fingers" Count="2"/>
+		<Card Name="Ember Spray" Count="2"/>
+		<Card Name="Fire Bolt" Count="3"/>
+		<Card Name="Fire Spray" Count="4"/>
+		<Card Name="Flame Spit" Count="1"/>
+		<Card Name="Brain Burn" Count="1"/>
+		<Card Name="Run" Count="2"/>
+		<Card Name="Scuttle" Count="1"/>
+	</Monster>
+	<Monster Name="Fire Sprite" HP=" 15" Draw=" 2" VPWorth=" 1" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Fire Sprite"/>
+		<Card Name="Fire Bolt" Count="4"/>
+		<Card Name="Fire Spray" Count="6"/>
+		<Card Name="Fireball" Count="1"/>
+		<Card Name="Flame Spit" Count="4"/>
+		<Card Name="Sizzling Bolt" Count="3"/>
+		<Card Name="Brain Burn" Count="1"/>
+		<Card Name="Run" Count="3"/>
+	</Monster>
+	<Monster Name="Fire Sprites" HP=" 15" Draw=" 1" VPWorth=" 1" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Fire Sprites"/>
+		<Card Name="Fire Bolt" Count="4"/>
+		<Card Name="Fire Spray" Count="6"/>
+		<Card Name="Fireball" Count="1"/>
+		<Card Name="Flame Spit" Count="4"/>
+		<Card Name="Sizzling Bolt" Count="3"/>
+		<Card Name="Brain Burn" Count="1"/>
+		<Card Name="Run" Count="3"/>
+	</Monster>
+	<Monster Name="Flying Monkey" HP=" 23" Draw=" 2" VPWorth=" 1" DefaultMove="Fly" bGetAllInfo="True">
+		<InGameName Name=" Flying Monkey"/>
+		<Card Name="Monkey Mail" Count="1"/>
+		<Card Name="Shrug it Off" Count="3"/>
+		<Card Name="Acorn Sling" Count="5"/>
+		<Card Name="Acrobatic Flip" Count="2"/>
+		<Card Name="Duck" Count="3"/>
+		<Card Name="Fly" Count="2"/>
+	</Monster>
+	<Monster Name="Flying Monkeys" HP=" 23" Draw=" 1" VPWorth=" 1" DefaultMove="Fly" bGetAllInfo="True">
+		<InGameName Name=" Flying Monkeys"/>
+		<Card Name="Monkey Mail" Count="1"/>
+		<Card Name="Shrug it Off" Count="3"/>
+		<Card Name="Acorn Sling" Count="5"/>
+		<Card Name="Acrobatic Flip" Count="2"/>
+		<Card Name="Duck" Count="3"/>
+		<Card Name="Fly" Count="2"/>
+	</Monster>
+	<Monster Name="Forest Spider" HP=" 15" Draw=" 1" VPWorth=" 1" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Forest Spider"/>
+		<Card Name="Infected Bite" Count="3"/>
+		<Card Name="Vicious Bite" Count="2"/>
+		<Card Name="Vulnerable" Count="1"/>
+		<Card Name="Run" Count="3"/>
+		<Card Name="Jump Back" Count="1"/>
+		<Card Name="Lunging Bite" Count="4"/>
+	</Monster>
+	<Monster Name="Four-Headed Hydra" HP=" 50" Draw=" 2" VPWorth=" 2" DefaultMove="Walk" bGetAllInfo="True">
+		<InGameName Name=" Hydra"/>
+		<Card Name="Shrug it Off" Count="2"/>
+		<Card Name="Fiery Breath" Count="4"/>
+		<Card Name="Four-Headed Bite" Count="6"/>
+		<Card Name="Infected Bite" Count="4"/>
+		<Card Name="Eyes Everywhere" Count="2"/>
+		<Card Name="Clumsy" Count="2"/>
+		<Card Name="Charge" Count="1"/>
+		<Card Name="Walk" Count="3"/>
+	</Monster>
+	<Monster Name="Frost Imp" HP=" 10" Draw=" 1" VPWorth=" 1" DefaultMove="Walk" bGetAllInfo="True">
+		<InGameName Name=" Frost Imps"/>
+		<Card Name="Chilling Rime" Count="6"/>
+		<Card Name="Cold Snap" Count="6"/>
+		<Card Name="Frost Jolt" Count="3"/>
+		<Card Name="Combustible" Count="2"/>
+		<Card Name="Run" Count="2"/>
+		<Card Name="Scuttle" Count="1"/>
+	</Monster>
+	<Monster Name="Frost Sprite" HP=" 15" Draw=" 1" VPWorth=" 1" DefaultMove="Walk" bGetAllInfo="True">
+		<InGameName Name=" Frost Sprites"/>
+		<Card Name="Chilling Rime" Count="4"/>
+		<Card Name="Cold Snap" Count="5"/>
+		<Card Name="Cone of Cold" Count="1"/>
+		<Card Name="Frost Jolt" Count="4"/>
+		<Card Name="Ice Bolts" Count="2"/>
+		<Card Name="Combustible" Count="2"/>
+		<Card Name="Run" Count="2"/>
+		<Card Name="Scuttle" Count="1"/>
+	</Monster>
+	<Monster Name="Fungus Warrior" HP=" 20" Draw=" 1.5" VPWorth=" 1" DefaultMove="Walk" bGetAllInfo="True">
+		<InGameName Name=" Fungus Warrior"/>
+		<InGameName Name=""/>
+		<Card Name="Able Stab" Count="5"/>
+		<Card Name="Impaling Stab" Count="1"/>
+		<Card Name="Noxious Breath" Count="4"/>
+		<Card Name="Spore Cloud" Count="2"/>
+		<Card Name="No Vital Organs" Count="2"/>
+		<Card Name="Squishy" Count="3"/>
+		<Card Name="Walk" Count="3"/>
+	</Monster>
+	<Monster Name="Furious Gnome" HP=" 22" Draw=" 1" VPWorth=" 1" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Gnome Spearmen"/>
+		<Card Name="Pinning Spear Toss" Count="1"/>
+		<Card Name="Potent Stab" Count="3"/>
+		<Card Name="Spear Thrust" Count="2"/>
+		<Card Name="Strong Stab" Count="2"/>
+		<Card Name="Weak Javelin Toss" Count="4"/>
+		<Card Name="Trip" Count="1"/>
+		<Card Name="Walk" Count="2"/>
+		<Card Name="Jump Back" Count="2"/>
+		<Card Name="Reactive Trip" Count="2"/>
+	</Monster>
+	<Monster Name="Gethan Deathzap" HP=" 13" Draw=" 2" VPWorth=" 2" DefaultMove="Dash" bGetAllInfo="True">
+		<InGameName Name=" Gethan Deathzap"/>
+		<Card Name="Deadly Spark" Count="1"/>
+		<Card Name="Devastating Spark" Count="2"/>
+		<Card Name="Powerful Spark" Count="4"/>
+		<Card Name="Short Spark" Count="3"/>
+		<Card Name="Defensiveness" Count="1"/>
+		<Card Name="Dash" Count="2"/>
+	</Monster>
+	<Monster Name="Gethen Deathzap" HP=" 13" Draw=" 2" VPWorth=" 2" DefaultMove="Dash" bGetAllInfo="True">
+		<InGameName Name=" Gethen Deathzap"/>
+		<Card Name="Deadly Spark" Count="1"/>
+		<Card Name="Devastating Spark" Count="2"/>
+		<Card Name="Powerful Spark" Count="4"/>
+		<Card Name="Short Spark" Count="3"/>
+		<Card Name="Reflect Missile" Count="2"/>
+		<Card Name="Spark Inductor" Count="1"/>
+		<Card Name="Defensiveness" Count="1"/>
+		<Card Name="Dash" Count="2"/>
+	</Monster>
+	<Monster Name="Giant Cockroach" HP=" 5" Draw=" 0.5" VPWorth=" 0" DefaultMove="Scuttle" bGetAllInfo="True">
+		<InGameName Name=" Giant Roaches"/>
+		<Card Name="Resistant Hide" Count="1"/>
+		<Card Name="Bite" Count="8"/>
+		<Card Name="Scuttle" Count="2"/>
+	</Monster>
+	<Monster Name="Gnarl" HP=" 14" Draw=" 1" VPWorth=" 1" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Gnarls"/>
+		<Card Name="Rusty Armor" Count="3"/>
+		<Card Name="Bite" Count="5"/>
+		<Card Name="Chop" Count="4"/>
+		<Card Name="Strong Hack" Count="1"/>
+		<Card Name="Cowardly" Count="1"/>
+		<Card Name="Mad Dog" Count="3"/>
+		<Card Name="Run" Count="2"/>
+		<Card Name="Jump Back" Count="2"/>
+	</Monster>
+	<Monster Name="Gnome Berserker" HP=" 26" Draw=" 1" VPWorth=" 1" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Gnome Berserkers"/>
+		<Card Name="Backbiting Strike" Count="3"/>
+		<Card Name="Berzerk Spin" Count="4"/>
+		<Card Name="Obliterating Chop" Count="3"/>
+		<Card Name="Shredding Strike" Count="4"/>
+		<Card Name="Obvious Maneuver" Count="1"/>
+		<Card Name="Ouch!" Count="2"/>
+		<Card Name="Charge" Count="2"/>
+		<Card Name="Run" Count="2"/>
+		<Card Name="Raging Strike" Count="1"/>
+		<Card Name="Strong Chop" Count="2"/>
+	</Monster>
+	<Monster Name="Gnome Inciter" HP=" 19" Draw=" 1" VPWorth=" 2" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Gnome Inciter"/>
+		<Card Name="Energize" Count="4"/>
+		<Card Name="Run, Team!" Count="3"/>
+		<Card Name="Bungled Bolt" Count="2"/>
+		<Card Name="Taunt" Count="2"/>
+		<Card Name="Unholy Curse" Count="3"/>
+		<Card Name="Scuttle" Count="2"/>
+		<Card Name="Unholy Wellspring" Count="3"/>
+	</Monster>
+	<Monster Name="Goblin Berserker" HP=" 25" Draw=" 2" VPWorth=" 2" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Goblin Berserker"/>
+		<Card Name="Chop" Count="1"/>
+		<Card Name="Clumsy Chop" Count="1"/>
+		<Card Name="Powerful Hack" Count="3"/>
+		<Card Name="Unstoppable Chop" Count="1"/>
+		<Card Name="Fumble" Count="1"/>
+		<Card Name="Obvious Maneuver" Count="1"/>
+		<Card Name="Dash" Count="1"/>
+		<Card Name="Run" Count="2"/>
+		<Card Name="Wild Run" Count="2"/>
+		<Card Name="Blind Rage" Count="1"/>
+		<Card Name="Massive Chop" Count="3"/>
+		<Card Name="Raging Strike" Count="3"/>
+		<Card Name="Strong Chop" Count="3"/>
+	</Monster>
+	<Monster Name="Goblin Berserkers" HP=" 25" Draw=" 1" VPWorth=" 1" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Goblin Berserkers"/>
+		<Card Name="Chop" Count="1"/>
+		<Card Name="Clumsy Chop" Count="1"/>
+		<Card Name="Powerful Hack" Count="3"/>
+		<Card Name="Unstoppable Chop" Count="1"/>
+		<Card Name="Fumble" Count="1"/>
+		<Card Name="Obvious Maneuver" Count="1"/>
+		<Card Name="Dash" Count="1"/>
+		<Card Name="Run" Count="2"/>
+		<Card Name="Wild Run" Count="2"/>
+		<Card Name="Blind Rage" Count="1"/>
+		<Card Name="Massive Chop" Count="3"/>
+		<Card Name="Raging Strike" Count="3"/>
+		<Card Name="Strong Chop" Count="3"/>
+	</Monster>
+	<Monster Name="Goblin Grunt" HP=" 9" Draw=" 1" VPWorth=" 1" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Goblin Grunts"/>
+		<Card Name="Able Bludgeon" Count="1"/>
+		<Card Name="Bludgeon" Count="5"/>
+		<Card Name="Clumsy Chop" Count="4"/>
+		<Card Name="Simple Strike" Count="2"/>
+		<Card Name="Missile Block" Count="6"/>
+		<Card Name="Reflect Missile" Count="1"/>
+		<Card Name="Weak Block" Count="6"/>
+		<Card Name="Run" Count="6"/>
+	</Monster>
+	<Monster Name="Goblin Hulk" HP=" 23" Draw=" 3" VPWorth=" 2" DefaultMove="Walk" bGetAllInfo="True">
+		<InGameName Name=" Goblin Hulk"/>
+		<Card Name="Able Bludgeon" Count="4"/>
+		<Card Name="Meaty Goblin Fist" Count="3"/>
+		<Card Name="Powerful Bludgeon" Count="2"/>
+		<Card Name="Powerful Hack" Count="1"/>
+		<Card Name="Strong Hack" Count="2"/>
+		<Card Name="Clumsy" Count="3"/>
+		<Card Name="Obvious Maneuver" Count="2"/>
+		<Card Name="Bull Rush" Count="1"/>
+		<Card Name="Walk" Count="4"/>
+	</Monster>
+	<Monster Name="Goblin Hulks" HP=" 23" Draw=" 1.5" VPWorth=" 2" DefaultMove="Walk" bGetAllInfo="True">
+		<InGameName Name=" Goblin Hulks"/>
+		<Card Name="Able Bludgeon" Count="4"/>
+		<Card Name="Meaty Goblin Fist" Count="3"/>
+		<Card Name="Powerful Bludgeon" Count="2"/>
+		<Card Name="Powerful Hack" Count="1"/>
+		<Card Name="Strong Hack" Count="2"/>
+		<Card Name="Clumsy" Count="3"/>
+		<Card Name="Obvious Maneuver" Count="2"/>
+		<Card Name="Bull Rush" Count="1"/>
+		<Card Name="Walk" Count="4"/>
+	</Monster>
+	<Monster Name="Goblin Shaman" HP=" 15" Draw=" 3" VPWorth=" 2" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Goblin Shaman"/>
+		<Card Name="Energize" Count="3"/>
+		<Card Name="Heal" Count="1"/>
+		<Card Name="Minor Heal" Count="1"/>
+		<Card Name="Righteous Frenzy" Count="2"/>
+		<Card Name="Able Bludgeon" Count="2"/>
+		<Card Name="Bludgeon" Count="3"/>
+		<Card Name="Walk" Count="3"/>
+		<Card Name="Unholy Frenzy" Count="1"/>
+	</Monster>
+	<Monster Name="Goblin Shamans" HP=" 15" Draw=" 1.5" VPWorth=" 2" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Goblin Shamans"/>
+		<Card Name="Energize" Count="3"/>
+		<Card Name="Heal" Count="1"/>
+		<Card Name="Minor Heal" Count="1"/>
+		<Card Name="Righteous Frenzy" Count="2"/>
+		<Card Name="Able Bludgeon" Count="2"/>
+		<Card Name="Bludgeon" Count="3"/>
+		<Card Name="Walk" Count="3"/>
+		<Card Name="Unholy Frenzy" Count="1"/>
+	</Monster>
+	<Monster Name="Goblin Shredder" HP=" 19" Draw=" 1" VPWorth=" 1" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Goblin Shredders"/>
+		<Card Name="Impaling Stab" Count="2"/>
+		<Card Name="Penetrating Stab" Count="2"/>
+		<Card Name="Perforating Strike" Count="2"/>
+		<Card Name="Shredding Strike" Count="3"/>
+		<Card Name="Missile Block" Count="5"/>
+		<Card Name="Reflect Missile" Count="2"/>
+		<Card Name="Quick Reactions" Count="1"/>
+		<Card Name="Run" Count="3"/>
+	</Monster>
+	<Monster Name="Green Jellies" HP=" 20" Draw=" 1" VPWorth=" 1" DefaultMove="Walk" bGetAllInfo="True">
+		<InGameName Name=" Green Jellies"/>
+		<Card Name="Amorphous Body" Count="3"/>
+		<Card Name="Acid Blast" Count="2"/>
+		<Card Name="Blob of Slime" Count="5"/>
+		<Card Name="Mud Pit" Count="1"/>
+		<Card Name="Death Meld" Count="3"/>
+		<Card Name="Vulnerable" Count="2"/>
+		<Card Name="Walk" Count="3"/>
+	</Monster>
+	<Monster Name="Green Jelly" HP=" 20" Draw=" 2" VPWorth=" 2" DefaultMove="Walk" bGetAllInfo="True">
+		<InGameName Name=" Green Jelly"/>
+		<Card Name="Amorphous Body" Count="3"/>
+		<Card Name="Acid Blast" Count="2"/>
+		<Card Name="Blob of Slime" Count="5"/>
+		<Card Name="Mud Pit" Count="1"/>
+		<Card Name="Death Meld" Count="3"/>
+		<Card Name="Vulnerable" Count="2"/>
+		<Card Name="Walk" Count="3"/>
+	</Monster>
+	<Monster Name="Greenfang" HP=" 30" Draw=" 6" VPWorth=" 6" DefaultMove="Fly" bGetAllInfo="True">
+		<InGameName Name=" Greenfang"/>
+		<Card Name="Resistant Hide" Count="6"/>
+		<Card Name="Acid Jet" Count="12"/>
+		<Card Name="Dragon Claw" Count="6"/>
+		<Card Name="Massive Jaws" Count="6"/>
+		<Card Name="Fly" Count="6"/>
+	</Monster>
+	<Monster Name="Greenfang Priest" HP=" 25" Draw=" 2" VPWorth=" 2" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Father Ordos"/>
+		<Card Name="Heal" Count="4"/>
+		<Card Name="Inspiration" Count="7"/>
+		<Card Name="Team Heal" Count="3"/>
+		<Card Name="Bludgeon" Count="5"/>
+		<Card Name="Reaching Swing" Count="3"/>
+		<Card Name="Strong Bash" Count="6"/>
+		<Card Name="Team Shift" Count="2"/>
+	</Monster>
+	<Monster Name="Greenfang Priest 2" HP=" 25" Draw=" 2" VPWorth=" 2" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Father Ordos"/>
+		<Card Name="Greater Heal" Count="4"/>
+		<Card Name="Inspiration" Count="5"/>
+		<Card Name="Team Heal" Count="4"/>
+		<Card Name="Reaching Swing" Count="4"/>
+		<Card Name="Strong Bash" Count="4"/>
+		<Card Name="Team Shift" Count="4"/>
+		<Card Name="Cleansing Burst" Count="5"/>
+	</Monster>
+	<Monster Name="Greenfang Warrior" HP=" 35" Draw=" 2" VPWorth=" 2" DefaultMove="Walk" bGetAllInfo="True">
+		<InGameName Name=" Borgo Stoneheart"/>
+		<Card Name="Hardy Mail" Count="4"/>
+		<Card Name="Reliable Mail" Count="2"/>
+		<Card Name="Chop" Count="6"/>
+		<Card Name="Obliterating Chop" Count="3"/>
+		<Card Name="Strong Hack" Count="5"/>
+		<Card Name="Parry" Count="5"/>
+		<Card Name="Shield Block" Count="5"/>
+	</Monster>
+	<Monster Name="Greenfang Warrior 2" HP=" 35" Draw=" 2" VPWorth=" 2" DefaultMove="Walk" bGetAllInfo="True">
+		<InGameName Name=" Borgo Stoneheart"/>
+		<Card Name="Hardy Mail" Count="2"/>
+		<Card Name="Reliable Mail" Count="2"/>
+		<Card Name="Attack Skill" Count="2"/>
+		<Card Name="Chop" Count="3"/>
+		<Card Name="Obliterating Chop" Count="2"/>
+		<Card Name="Perforating Strike" Count="4"/>
+		<Card Name="Strong Hack" Count="6"/>
+		<Card Name="Parry" Count="3"/>
+		<Card Name="Shield Block" Count="3"/>
+		<Card Name="Charge" Count="2"/>
+		<Card Name="Run" Count="1"/>
+	</Monster>
+	<Monster Name="Greenfang Wizard" HP=" 18" Draw=" 2" VPWorth=" 2" DefaultMove="Dash" bGetAllInfo="True">
+		<InGameName Name=" Idris of the Haunting Horn"/>
+		<Card Name="Arcing Spark" Count="6"/>
+		<Card Name="Fireball" Count="6"/>
+		<Card Name="Force Bolt" Count="4"/>
+		<Card Name="Sorcerous Bolt" Count="10"/>
+		<Card Name="Teleport Other" Count="4"/>
+	</Monster>
+	<Monster Name="Greenfang Wizard 2" HP=" 18" Draw=" 2" VPWorth=" 2" DefaultMove="Dash" bGetAllInfo="True">
+		<InGameName Name=" Idris of the Haunting Horn"/>
+		<Card Name="Boiling Armor" Count="3"/>
+		<Card Name="Force Bolt" Count="3"/>
+		<Card Name="Penetrating Bolt" Count="4"/>
+		<Card Name="Powerful Spark" Count="7"/>
+		<Card Name="Sorcerous Bolt" Count="6"/>
+		<Card Name="Teleport Other" Count="4"/>
+		<Card Name="Teleport Self" Count="3"/>
+	</Monster>
+	<Monster Name="Guard Dog" HP=" 10" Draw=" 1" VPWorth=" 1" DefaultMove="Dash" bGetAllInfo="True">
+		<InGameName Name=" Guard Dogs"/>
+		<Card Name="Cowardly Attack" Count="6"/>
+		<Card Name="Cowardly" Count="1"/>
+		<Card Name="Scamper" Count="2"/>
+		<Card Name="Hard to Pin Down" Count="2"/>
+		<Card Name="Lunging Thrust" Count="3"/>
+		<Card Name="Nimble Strike" Count="2"/>
+		<Card Name="Penetrating Lunge" Count="2"/>
+		<Card Name="Skillful Dodge" Count="2"/>
+		<Card Name="Vicious Thrust" Count="1"/>
+	</Monster>
+	<Monster Name="Guardian of Mist" HP=" 23" Draw=" 1" VPWorth=" 1" DefaultMove="Shuffle" bGetAllInfo="True">
+		<InGameName Name=" Guardians of Mist"/>
+		<Card Name="Able Bludgeon" Count="4"/>
+		<Card Name="Mighty Bludgeon" Count="2"/>
+		<Card Name="Pressing Bash" Count="2"/>
+		<Card Name="Trained Bludgeon" Count="4"/>
+		<Card Name="Block" Count="2"/>
+		<Card Name="Clumsy" Count="2"/>
+		<Card Name="Brutal Charge" Count="1"/>
+		<Card Name="Charge" Count="2"/>
+		<Card Name="Lunging Strike" Count="2"/>
+	</Monster>
+	<Monster Name="Guardian of Motes" HP=" 28" Draw=" 2" VPWorth=" 1" DefaultMove="Shuffle" bGetAllInfo="True">
+		<InGameName Name=" Guardian of Motes"/>
+		<Card Name="Enchanted Mail" Count="2"/>
+		<Card Name="Bishop Big Blast" Count="1"/>
+		<Card Name="Bishop Blast" Count="8"/>
+		<Card Name="Fumble" Count="1"/>
+		<Card Name="Brutal Charge" Count="1"/>
+		<Card Name="Charge" Count="2"/>
+		<Card Name="Shuffle" Count="2"/>
+		<Card Name="Bishop Push" Count="3"/>
+	</Monster>
+	<Monster Name="Guardian of Shadow" HP=" 25" Draw=" 2" VPWorth=" 1" DefaultMove="Shuffle" bGetAllInfo="True">
+		<InGameName Name=" Guardian of Shadow"/>
+		<Card Name="Enchanted Mail" Count="2"/>
+		<Card Name="Rook Big Blast" Count="1"/>
+		<Card Name="Rook Blast" Count="8"/>
+		<Card Name="Dropped Guard" Count="1"/>
+		<Card Name="Brutal Charge" Count="1"/>
+		<Card Name="Charge" Count="2"/>
+		<Card Name="Shuffle" Count="2"/>
+		<Card Name="Rook Push" Count="3"/>
+	</Monster>
+	<Monster Name="Guardians of Motes" HP=" 28" Draw=" 1.5" VPWorth=" 1" DefaultMove="Shuffle" bGetAllInfo="True">
+		<InGameName Name=" Guardians of Motes"/>
+		<Card Name="Enchanted Mail" Count="2"/>
+		<Card Name="Bishop Big Blast" Count="1"/>
+		<Card Name="Bishop Blast" Count="8"/>
+		<Card Name="Fumble" Count="1"/>
+		<Card Name="Brutal Charge" Count="1"/>
+		<Card Name="Charge" Count="2"/>
+		<Card Name="Shuffle" Count="2"/>
+		<Card Name="Bishop Push" Count="3"/>
+	</Monster>
+	<Monster Name="Guardians of Shadow" HP=" 25" Draw=" 1.5" VPWorth=" 1" DefaultMove="Shuffle" bGetAllInfo="True">
+		<InGameName Name=" Guardians of Shadow"/>
+		<Card Name="Enchanted Mail" Count="2"/>
+		<Card Name="Rook Big Blast" Count="1"/>
+		<Card Name="Rook Blast" Count="8"/>
+		<Card Name="Dropped Guard" Count="1"/>
+		<Card Name="Brutal Charge" Count="1"/>
+		<Card Name="Charge" Count="2"/>
+		<Card Name="Shuffle" Count="2"/>
+		<Card Name="Rook Push" Count="3"/>
+	</Monster>
+	<Monster Name="Guillotine Trap" HP=" 20" Draw=" 1" VPWorth=" 0" DefaultMove="" bGetAllInfo="True">
+		<InGameName Name=" Guillotine Trap"/>
+		<Card Name="Ancient Statue" Count="1"/>
+		<Card Name="Blade Bouquet" Count="2"/>
+	</Monster>
+	<Monster Name="Guillotine Traps" HP=" 12" Draw=" 1" VPWorth=" 0" DefaultMove="" bGetAllInfo="True">
+		<InGameName Name=" Guillotine Traps"/>
+		<Card Name="Blade Bouquet" Count="1"/>
+	</Monster>
+	<Monster Name="Guztuk, Goblin King" HP=" 28" Draw=" 2" VPWorth=" 2" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Guztuk"/>
+		<InGameName Name=" Goblin King"/>
+		<Card Name="Chop" Count="1"/>
+		<Card Name="Clumsy Chop" Count="1"/>
+		<Card Name="Powerful Hack" Count="3"/>
+		<Card Name="Unstoppable Chop" Count="1"/>
+		<Card Name="Fumble" Count="1"/>
+		<Card Name="Obvious Maneuver" Count="1"/>
+		<Card Name="Dash" Count="1"/>
+		<Card Name="Run" Count="2"/>
+		<Card Name="Wild Run" Count="2"/>
+		<Card Name="Blind Rage" Count="1"/>
+		<Card Name="Massive Chop" Count="3"/>
+		<Card Name="Raging Strike" Count="3"/>
+		<Card Name="Strong Chop" Count="3"/>
+	</Monster>
+	<Monster Name="Hacked Turret" HP=" 30" Draw=" 3" VPWorth=" 1" DefaultMove="" bGetAllInfo="True">
+		<InGameName Name=" Hacked Turret"/>
+		<Card Name="Bronzantium Plates" Count="2"/>
+		<Card Name="Random Laser Barrage" Count="8"/>
+		<Card Name="Rotate Automatically" Count="6"/>
+	</Monster>
+	<Monster Name="Hardened Mercenary" HP=" 21" Draw=" 2" VPWorth=" 2" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Hardened Mercenary"/>
+		<Card Name="Solid Mail" Count="1"/>
+		<Card Name="Able Bludgeon" Count="3"/>
+		<Card Name="Devastating Blow" Count="1"/>
+		<Card Name="Mighty Bludgeon" Count="1"/>
+		<Card Name="Mighty Hack" Count="1"/>
+		<Card Name="Powerful Hack" Count="1"/>
+		<Card Name="Strong Bludgeon" Count="1"/>
+		<Card Name="Strong Hack" Count="1"/>
+		<Card Name="Block" Count="6"/>
+		<Card Name="Duck" Count="1"/>
+		<Card Name="Jarring Block" Count="2"/>
+		<Card Name="Clumsy" Count="2"/>
+		<Card Name="Dropped Guard" Count="2"/>
+		<Card Name="Run" Count="2"/>
+	</Monster>
+	<Monster Name="Hell Mantis" HP=" 35" Draw=" 3" VPWorth=" 2" DefaultMove="Walk" bGetAllInfo="True">
+		<InGameName Name=" Hell Mantis"/>
+		<Card Name="Barbed Platemail" Count="2"/>
+		<Card Name="Acid Pool" Count="2"/>
+		<Card Name="Massive Jaws" Count="2"/>
+		<Card Name="Staggering Blow" Count="2"/>
+		<Card Name="Vicious Bite" Count="3"/>
+		<Card Name="Clumsy" Count="1"/>
+		<Card Name="Scuttle" Count="2"/>
+		<Card Name="Blind Rage" Count="1"/>
+		<Card Name="Lunging Bite" Count="1"/>
+	</Monster>
+	<Monster Name="Holloborn the Nimble" HP=" 19" Draw=" 2" VPWorth=" 2" DefaultMove="Dash" bGetAllInfo="True">
+		<InGameName Name=" Holloborn the Nimble"/>
+		<Card Name="Skillful Strike" Count="1"/>
+		<Card Name="Tricky Stab" Count="3"/>
+		<Card Name="Quick Reactions" Count="2"/>
+		<Card Name="Dash" Count="2"/>
+		<Card Name="Dancing Cut" Count="2"/>
+		<Card Name="Lunging Strike" Count="2"/>
+		<Card Name="Lunging Thrust" Count="2"/>
+		<Card Name="Nimble Strike" Count="1"/>
+	</Monster>
+	<Monster Name="Human Priest" HP=" 18" Draw=" 2" VPWorth=" 2" DefaultMove="Walk" bGetAllInfo="True">
+		<InGameName Name=" Human Priest"/>
+		<Card Name="Greater Heal" Count="1"/>
+		<Card Name="Heal" Count="5"/>
+		<Card Name="Healing Blessing" Count="2"/>
+		<Card Name="Inspiration" Count="2"/>
+		<Card Name="Minor Heal" Count="3"/>
+		<Card Name="Righteous Frenzy" Count="2"/>
+		<Card Name="Consuming Spear" Count="2"/>
+		<Card Name="Defensiveness" Count="2"/>
+		<Card Name="Walk" Count="3"/>
+	</Monster>
+	<Monster Name="Human Servant" HP=" 5" Draw=" 1" VPWorth=" 0" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Servants"/>
+		<InGameName Name=" Dog Boy"/>
+		<Card Name="Energize" Count="3"/>
+		<Card Name="Raise the Alarm" Count="3"/>
+		<Card Name="Weak Strike" Count="3"/>
+		<Card Name="Fumble" Count="1"/>
+		<Card Name="Trip" Count="1"/>
+		<Card Name="Run" Count="3"/>
+		<Card Name="Team Shift" Count="3"/>
+	</Monster>
+	<Monster Name="Hyper Thalamus" HP=" 20" Draw=" 2" VPWorth=" 1" DefaultMove="Walk" bGetAllInfo="True">
+		<InGameName Name=" Hyper Thalamus"/>
+		<Card Name="Mind Worm" Count="3"/>
+		<Card Name="Sorcerous Blast" Count="3"/>
+		<Card Name="Hover" Count="1"/>
+		<Card Name="Vulnerable" Count="1"/>
+		<Card Name="Teleport Other" Count="3"/>
+		<Card Name="Hurricane" Count="9"/>
+		<Card Name="Reflexive Teleport" Count="1"/>
+	</Monster>
+	<Monster Name="Ice Skeletons" HP=" 35" Draw=" 1.5" VPWorth=" 1" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Ice Skeletons"/>
+		<Card Name="Frozen Solid" Count="3"/>
+		<Card Name="Only Bones" Count="2"/>
+		<Card Name="Unstoppable Chop" Count="3"/>
+		<Card Name="Freezing Blade" Count="4"/>
+		<Card Name="Chop" Count="1"/>
+		<Card Name="Icy Block" Count="2"/>
+		<Card Name="Violent Spin" Count="1"/>
+		<Card Name="Muscle Through" Count="1"/>
+		<Card Name="Run" Count="1"/>
+	</Monster>
+	<Monster Name="Inquisitor" HP=" 32" Draw=" 3" VPWorth=" 3" DefaultMove="Dash" bGetAllInfo="True">
+		<InGameName Name=" Inquisitor"/>
+		<Card Name="Inspiring Armor" Count="2"/>
+		<Card Name="Inquisitor's Badge" Count="1"/>
+		<Card Name="Greater Heal" Count="3"/>
+		<Card Name="Healing Rays" Count="1"/>
+		<Card Name="Disenchant" Count="2"/>
+		<Card Name="Destructive Purge" Count="2"/>
+		<Card Name="Inquisitor's Strike" Count="3"/>
+		<Card Name="Escaping Run" Count="1"/>
+		<Card Name="Daylight" Count="2"/>
+		<Card Name="Boosted Heal" Count="2"/>
+		<Card Name="Vengeance" Count="1"/>
+		<Card Name="Investigate" Count="1"/>
+	</Monster>
+	<Monster Name="Invisible Spider" HP=" 15" Draw=" 2" VPWorth=" 1" DefaultMove="Scamper" bGetAllInfo="True">
+		<InGameName Name=" Invisible Spiders"/>
+		<Card Name="Mutated Chitin" Count="2"/>
+		<Card Name="Entangle" Count="1"/>
+		<Card Name="Infected Bite" Count="3"/>
+		<Card Name="Radioactive Bite" Count="5"/>
+		<Card Name="Acrobatic Flip" Count="1"/>
+		<Card Name="Mass Invisibility" Count="2"/>
+		<Card Name="Run" Count="2"/>
+		<Card Name="Dodge" Count="2"/>
+	</Monster>
+	<Monster Name="Kazhak, Goblin Shaman" HP=" 18" Draw=" 2" VPWorth=" 2" DefaultMove="Walk" bGetAllInfo="True">
+		<InGameName Name=" Kazhak"/>
+		<InGameName Name=" Goblin Shaman"/>
+		<Card Name="Energize" Count="3"/>
+		<Card Name="Greater Heal" Count="1"/>
+		<Card Name="Heal" Count="3"/>
+		<Card Name="Martyr Blessing" Count="3"/>
+		<Card Name="Bludgeon" Count="3"/>
+		<Card Name="Walk" Count="2"/>
+		<Card Name="Unholy Wellspring" Count="3"/>
+	</Monster>
+	<Monster Name="Kobold Avenger" HP=" 11" Draw=" 1" VPWorth=" 1" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Kobold Lungers"/>
+		<Card Name="Mail" Count="2"/>
+		<Card Name="Able Bludgeon" Count="2"/>
+		<Card Name="Bludgeon" Count="5"/>
+		<Card Name="Mob Attack" Count="2"/>
+		<Card Name="Wimpy" Count="1"/>
+		<Card Name="Run" Count="1"/>
+		<Card Name="Lunging Bash" Count="3"/>
+		<Card Name="Shambling Bash" Count="1"/>
+	</Monster>
+	<Monster Name="Kobold Priest" HP=" 6" Draw=" 2" VPWorth=" 2" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Ig-Gabig"/>
+		<Card Name="Healing Blessing" Count="2"/>
+		<Card Name="Inspiration" Count="3"/>
+		<Card Name="Blast" Count="3"/>
+		<Card Name="Simple Strike" Count="1"/>
+		<Card Name="Run" Count="2"/>
+	</Monster>
+	<Monster Name="Kobold Raider" HP=" 6" Draw=" 1" VPWorth=" 1" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Kobold Raiders"/>
+		<Card Name="Weak Strike" Count="12"/>
+		<Card Name="Run" Count="5"/>
+	</Monster>
+	<Monster Name="Kobold Spearman" HP=" 14" Draw=" 1" VPWorth=" 1" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Kobold Spearmen"/>
+		<Card Name="Able Stab" Count="4"/>
+		<Card Name="Mob Attack" Count="3"/>
+		<Card Name="Predictable Stab" Count="4"/>
+		<Card Name="Strong Stab" Count="2"/>
+		<Card Name="Swarming Attack" Count="1"/>
+		<Card Name="Wimpy" Count="2"/>
+		<Card Name="Run" Count="1"/>
+	</Monster>
+	<Monster Name="Kobold Warrior" HP=" 8" Draw=" 0.5" VPWorth=" 1" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Kobold Warriors"/>
+		<Card Name="Able Bludgeon" Count="1"/>
+		<Card Name="Bludgeon" Count="3"/>
+		<Card Name="Clumsy Chop" Count="2"/>
+		<Card Name="Mob Attack" Count="3"/>
+		<Card Name="Simple Strike" Count="1"/>
+		<Card Name="Jarring Block" Count="2"/>
+		<Card Name="Parry" Count="1"/>
+		<Card Name="Weak Block" Count="3"/>
+		<Card Name="Run" Count="2"/>
+	</Monster>
+	<Monster Name="Kobold Warriors" HP=" 8" Draw=" 0.5" VPWorth=" 1" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Kobold Warriors"/>
+		<Card Name="Able Bludgeon" Count="1"/>
+		<Card Name="Bludgeon" Count="3"/>
+		<Card Name="Clumsy Chop" Count="2"/>
+		<Card Name="Mob Attack" Count="3"/>
+		<Card Name="Simple Strike" Count="1"/>
+		<Card Name="Jarring Block" Count="2"/>
+		<Card Name="Parry" Count="1"/>
+		<Card Name="Weak Block" Count="3"/>
+		<Card Name="Run" Count="2"/>
+	</Monster>
+	<Monster Name="Laser Turret" HP=" 30" Draw=" 2" VPWorth=" 1" DefaultMove="" bGetAllInfo="True">
+		<InGameName Name=" Laser Turret"/>
+		<Card Name="Bronzantium Plates" Count="1"/>
+		<Card Name="Laser Barrage" Count="10"/>
+		<Card Name="Immovable" Count="1"/>
+		<Card Name="Clumsy" Count="2"/>
+		<Card Name="Spin Around" Count="3"/>
+	</Monster>
+	<Monster Name="Lava Spitter" HP=" 18" Draw=" 1.5" VPWorth=" 1" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Lava Spitters"/>
+		<Card Name="Fire Spray" Count="1"/>
+		<Card Name="Glob of Flame" Count="1"/>
+		<Card Name="Hot Spot" Count="5"/>
+		<Card Name="Lava Pool" Count="2"/>
+		<Card Name="Sizzling Bolt" Count="1"/>
+		<Card Name="Wall of Fire" Count="5"/>
+		<Card Name="Defensiveness" Count="1"/>
+		<Card Name="Run" Count="3"/>
+	</Monster>
+	<Monster Name="Lich" HP=" 20" Draw=" 4" VPWorth=" 0" DefaultMove="Teleport Self" bGetAllInfo="True">
+		<InGameName Name=" Lich"/>
+		<Card Name="Only Bones" Count="1"/>
+		<Card Name="Psychokinetic Mending" Count="4"/>
+		<Card Name="Afflictor" Count="1"/>
+		<Card Name="ScourgePro 3000" Count="3"/>
+		<Card Name="Traveling Curse" Count="3"/>
+		<Card Name="Vulnerable" Count="1"/>
+		<Card Name="Escaping Run" Count="2"/>
+		<Card Name="Redecorate" Count="3"/>
+	</Monster>
+	<Monster Name="Lightning Idol" HP=" 16" Draw=" 2" VPWorth=" 1" DefaultMove="Immovable" bGetAllInfo="True">
+		<InGameName Name=" Lightning Idol"/>
+		<Card Name="Totem Charge" Count="4"/>
+		<Card Name="Devastating Spark" Count="2"/>
+		<Card Name="Long Spark" Count="2"/>
+		<Card Name="Spark" Count="2"/>
+		<Card Name="Totem Blast" Count="8"/>
+		<Card Name="Defensiveness" Count="1"/>
+	</Monster>
+	<Monster Name="Lightning Imp" HP=" 11" Draw=" 1" VPWorth=" 1" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Lightning Imps"/>
+		<Card Name="Arcing Spark" Count="1"/>
+		<Card Name="Deadly Spark" Count="1"/>
+		<Card Name="Devastating Spark" Count="3"/>
+		<Card Name="Powerful Spark" Count="4"/>
+		<Card Name="Short Spark" Count="3"/>
+		<Card Name="Scuttle" Count="2"/>
+		<Card Name="Dodge" Count="2"/>
+		<Card Name="Jump Back" Count="2"/>
+		<Card Name="Teleport Self" Count="1"/>
+	</Monster>
+	<Monster Name="Lightning Sprite" HP=" 15" Draw=" 1" VPWorth=" 1" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Lightning Sprites"/>
+		<Card Name="Arcing Spark" Count="4"/>
+		<Card Name="Deadly Spark" Count="3"/>
+		<Card Name="Devastating Spark" Count="2"/>
+		<Card Name="Lightning Bolt" Count="1"/>
+		<Card Name="Powerful Spark" Count="2"/>
+		<Card Name="Scuttle" Count="2"/>
+		<Card Name="Dodge" Count="2"/>
+		<Card Name="Jump Back" Count="2"/>
+		<Card Name="Teleport Self" Count="1"/>
+	</Monster>
+	<Monster Name="Lizardman Cleric" HP=" 13" Draw=" 3" VPWorth=" 2" DefaultMove="Walk" bGetAllInfo="True">
+		<InGameName Name=" Lizardman Cleric"/>
+		<Card Name="Bad Luck" Count="3"/>
+		<Card Name="Path of Knives" Count="1"/>
+		<Card Name="Potent Stab" Count="1"/>
+		<Card Name="Strong Stab" Count="3"/>
+		<Card Name="Unholy Curse" Count="3"/>
+		<Card Name="Defensiveness" Count="1"/>
+		<Card Name="Walk" Count="3"/>
+	</Monster>
+	<Monster Name="Lizardman Darter" HP=" 16" Draw=" 3" VPWorth=" 2" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Lizardman Darter"/>
+		<Card Name="Strong Stab" Count="2"/>
+		<Card Name="Tricky Stab" Count="4"/>
+		<Card Name="Run" Count="3"/>
+		<Card Name="Scuttle" Count="2"/>
+		<Card Name="Lunging Strike" Count="3"/>
+	</Monster>
+	<Monster Name="Lizardman Darters" HP=" 16" Draw=" 1" VPWorth=" 1" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Lizardman Darters"/>
+		<Card Name="Strong Stab" Count="2"/>
+		<Card Name="Tricky Stab" Count="4"/>
+		<Card Name="Run" Count="3"/>
+		<Card Name="Scuttle" Count="2"/>
+		<Card Name="Lunging Strike" Count="3"/>
+	</Monster>
+	<Monster Name="Lizardman Guardian" HP=" 10" Draw=" 1" VPWorth=" 1" DefaultMove="Walk" bGetAllInfo="True">
+		<InGameName Name=" Lizardman Guardians"/>
+		<Card Name="Chop" Count="5"/>
+		<Card Name="Simple Strike" Count="3"/>
+		<Card Name="Swarming Attack" Count="4"/>
+		<Card Name="Run" Count="4"/>
+	</Monster>
+	<Monster Name="Lizardman Netter" HP=" 10" Draw=" 1" VPWorth=" 1" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Lizardman Netters"/>
+		<Card Name="Able Stab" Count="3"/>
+		<Card Name="Entangling Net" Count="5"/>
+		<Card Name="Predictable Stab" Count="2"/>
+		<Card Name="Fumble" Count="1"/>
+		<Card Name="Run" Count="3"/>
+	</Monster>
+	<Monster Name="Lizardman Underpriest" HP=" 13" Draw=" 3" VPWorth=" 2" DefaultMove="Walk" bGetAllInfo="True">
+		<InGameName Name=" Lizardman Underpriest"/>
+		<Card Name="Able Stab" Count="3"/>
+		<Card Name="Bad Luck" Count="6"/>
+		<Card Name="Unholy Curse" Count="1"/>
+		<Card Name="Defensiveness" Count="1"/>
+		<Card Name="Walk" Count="3"/>
+	</Monster>
+	<Monster Name="Lizardman Warrior" HP=" 13" Draw=" 2" VPWorth=" 1" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Lizardman Warrior"/>
+		<Card Name="Able Stab" Count="2"/>
+		<Card Name="Poisoned Spear Stab" Count="1"/>
+		<Card Name="Predictable Stab" Count="3"/>
+		<Card Name="Stab" Count="2"/>
+		<Card Name="Strong Stab" Count="1"/>
+		<Card Name="Run" Count="3"/>
+	</Monster>
+	<Monster Name="Lizardman Warriors" HP=" 13" Draw=" 1" VPWorth=" 1" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Lizardman Warriors"/>
+		<Card Name="Able Stab" Count="2"/>
+		<Card Name="Poisoned Spear Stab" Count="1"/>
+		<Card Name="Predictable Stab" Count="3"/>
+		<Card Name="Stab" Count="2"/>
+		<Card Name="Strong Stab" Count="1"/>
+		<Card Name="Run" Count="3"/>
+	</Monster>
+	<Monster Name="Lord Batford" HP=" 15" Draw=" 3" VPWorth=" 2" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Lord Batford"/>
+		<Card Name="Raise the Alarm" Count="4"/>
+		<Card Name="Able Stab" Count="3"/>
+		<Card Name="Hurled Dagger" Count="7"/>
+		<Card Name="Duck" Count="2"/>
+		<Card Name="Ouch!" Count="1"/>
+		<Card Name="Scamper" Count="3"/>
+		<Card Name="Dodge" Count="4"/>
+	</Monster>
+	<Monster Name="Lord Stafford" HP=" 12" Draw=" 3" VPWorth=" 6" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Lord Stafford"/>
+		<Card Name="Cloth Armor" Count="3"/>
+		<Card Name="Leadership" Count="1"/>
+		<Card Name="Simple Bash" Count="3"/>
+		<Card Name="Subtle Parry" Count="3"/>
+		<Card Name="Cowardly" Count="1"/>
+		<Card Name="Team Shift" Count="3"/>
+		<Card Name="Bash" Count="3"/>
+	</Monster>
+	<Monster Name="Lumbrezz the Mad" HP=" 16" Draw=" 2" VPWorth=" 2" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Lumbrezz the Mad"/>
+		<Card Name="Shimmering Aura" Count="2"/>
+		<Card Name="Arcing Spark" Count="3"/>
+		<Card Name="Short Blast" Count="2"/>
+		<Card Name="Sorcerous Blast" Count="1"/>
+		<Card Name="Run" Count="2"/>
+		<Card Name="Walk" Count="1"/>
+		<Card Name="Surging Blast" Count="1"/>
+		<Card Name="Surging Bolt" Count="1"/>
+	</Monster>
+	<Monster Name="Magma Idol" HP=" 18" Draw=" 1" VPWorth=" 1" DefaultMove="Shuffle" bGetAllInfo="True">
+		<InGameName Name=" Magma Idols"/>
+		<Card Name="Fireproof Charm" Count="1"/>
+		<Card Name="Heat Treatment" Count="3"/>
+		<Card Name="Ember Spray" Count="2"/>
+		<Card Name="Flame Jet" Count="2"/>
+		<Card Name="Hot Spot" Count="4"/>
+		<Card Name="Clumsy" Count="1"/>
+		<Card Name="Maze" Count="2"/>
+	</Monster>
+	<Monster Name="Maple Tree" HP=" 20" Draw=" 2" VPWorth=" 1" DefaultMove="Walk" bGetAllInfo="True">
+		<InGameName Name=" Maple Trees"/>
+		<Card Name="Solid Wood" Count="3"/>
+		<Card Name="Able Bludgeon" Count="2"/>
+		<Card Name="Entangling Roots" Count="4"/>
+		<Card Name="Powerful Bludgeon" Count="2"/>
+		<Card Name="Staggering Blow" Count="1"/>
+		<Card Name="Strong Bludgeon" Count="2"/>
+		<Card Name="Tree Limb Smash" Count="1"/>
+		<Card Name="Crusher" Count="1"/>
+		<Card Name="Combustible" Count="3"/>
+		<Card Name="Walk" Count="3"/>
+	</Monster>
+	<Monster Name="Meal" HP=" 30" Draw=" 7" VPWorth=" 1" DefaultMove="Scamper" bGetAllInfo="True">
+		<InGameName Name=" Meal"/>
+	</Monster>
+	<Monster Name="Meals" HP=" 30" Draw=" 1" VPWorth=" 1" DefaultMove="Scamper" bGetAllInfo="True">
+		<InGameName Name=" Meals"/>
+		<Card Name="Food Fight" Count="4"/>
+		<Card Name="Food Fling" Count="1"/>
+		<Card Name="Edible" Count="1"/>
+		<Card Name="Scuttle" Count="2"/>
+	</Monster>
+	<Monster Name="Melvelous" HP=" 26" Draw=" 3" VPWorth=" 2" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Melvelous"/>
+		<Card Name="Shimmering Aura" Count="1"/>
+		<Card Name="Energize" Count="2"/>
+		<Card Name="Arcing Spark" Count="3"/>
+		<Card Name="Powerful Spark" Count="3"/>
+		<Card Name="Stone Spikes" Count="4"/>
+		<Card Name="Unholy Curse" Count="1"/>
+		<Card Name="Hover" Count="2"/>
+		<Card Name="Defensiveness" Count="3"/>
+		<Card Name="Run" Count="1"/>
+		<Card Name="Teleport Other" Count="2"/>
+	</Monster>
+	<Monster Name="Men at Arms" HP=" 10" Draw=" 1" VPWorth=" 1" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Men at Arms"/>
+		<Card Name="Bludgeon" Count="6"/>
+		<Card Name="Penetrating Cut" Count="2"/>
+		<Card Name="Perforating Strike" Count="1"/>
+		<Card Name="Powerful Hack" Count="1"/>
+		<Card Name="Parry" Count="5"/>
+		<Card Name="Obvious Maneuver" Count="1"/>
+		<Card Name="Lunging Hack" Count="2"/>
+		<Card Name="Lunging Thrust" Count="3"/>
+		<Card Name="Penetrating Lunge" Count="1"/>
+	</Monster>
+	<Monster Name="Mercenaries" HP=" 18" Draw=" 1" VPWorth=" 1" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Mercenaries"/>
+		<Card Name="Solid Mail" Count="1"/>
+		<Card Name="Able Stab" Count="2"/>
+		<Card Name="Impaling Stab" Count="3"/>
+		<Card Name="Potent Stab" Count="3"/>
+		<Card Name="Reaching Swing" Count="2"/>
+		<Card Name="Strong Stab" Count="3"/>
+		<Card Name="Block" Count="4"/>
+		<Card Name="Clumsy" Count="2"/>
+		<Card Name="Dropped Guard" Count="3"/>
+		<Card Name="Run" Count="3"/>
+	</Monster>
+	<Monster Name="Mercenary" HP=" 18" Draw=" 2" VPWorth=" 2" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Mercenary"/>
+		<Card Name="Solid Mail" Count="1"/>
+		<Card Name="Able Stab" Count="2"/>
+		<Card Name="Impaling Stab" Count="3"/>
+		<Card Name="Potent Stab" Count="3"/>
+		<Card Name="Reaching Swing" Count="2"/>
+		<Card Name="Strong Stab" Count="3"/>
+		<Card Name="Block" Count="4"/>
+		<Card Name="Clumsy" Count="2"/>
+		<Card Name="Dropped Guard" Count="3"/>
+		<Card Name="Run" Count="3"/>
+	</Monster>
+	<Monster Name="Mind Flenser" HP=" 25" Draw=" 2" VPWorth=" 1" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Mind Flensers"/>
+		<Card Name="Mental Flensing" Count="4"/>
+		<Card Name="Psychic Blast" Count="5"/>
+		<Card Name="Short Perplexing Ray" Count="2"/>
+		<Card Name="Trained Bludgeon" Count="2"/>
+		<Card Name="Subtle Parry" Count="2"/>
+		<Card Name="Brain Burn" Count="1"/>
+		<Card Name="Walk" Count="3"/>
+	</Monster>
+	<Monster Name="Miriam Sancter" HP=" 19" Draw=" 2" VPWorth=" 2" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Miriam Sanctar"/>
+		<Card Name="Heal" Count="1"/>
+		<Card Name="Healing Presence" Count="1"/>
+		<Card Name="Minor Heal" Count="4"/>
+		<Card Name="Able Bash" Count="2"/>
+		<Card Name="Strong Bash" Count="1"/>
+		<Card Name="Run" Count="2"/>
+		<Card Name="Bash" Count="3"/>
+	</Monster>
+	<Monster Name="Monkey Chieftain" HP=" 25" Draw=" 2" VPWorth=" 2" DefaultMove="Scamper" bGetAllInfo="True">
+		<InGameName Name=" Zaius"/>
+		<Card Name="Monkey Mail" Count="1"/>
+		<Card Name="Energize" Count="2"/>
+		<Card Name="Steal" Count="2"/>
+		<Card Name="Violent Overswing" Count="2"/>
+		<Card Name="Acrobatic Flip" Count="2"/>
+		<Card Name="Scamper" Count="2"/>
+		<Card Name="Penetrating Lunge" Count="4"/>
+		<Card Name="Polearm Slash" Count="4"/>
+	</Monster>
+	<Monster Name="Mottled Ogre" HP=" 31" Draw=" 2" VPWorth=" 1" DefaultMove="Walk" bGetAllInfo="True">
+		<InGameName Name=" Mottled Ogres"/>
+		<Card Name="Crushing Sweep" Count="4"/>
+		<Card Name="Shattering Sweep" Count="2"/>
+		<Card Name="Sweeping Smash" Count="7"/>
+		<Card Name="Clumsy" Count="2"/>
+		<Card Name="Obvious Maneuver" Count="2"/>
+		<Card Name="Walk" Count="3"/>
+	</Monster>
+	<Monster Name="MP AI Priest 1" HP=" 25" Draw=" 2" VPWorth=" 2" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Lorzil the Wise"/>
+		<Card Name="Reliable Hide Armor" Count="1"/>
+		<Card Name="Bless" Count="1"/>
+		<Card Name="Heal" Count="4"/>
+		<Card Name="Healing Blessing" Count="2"/>
+		<Card Name="Martyr Blessing" Count="2"/>
+		<Card Name="Shuffle, Team!" Count="1"/>
+		<Card Name="Stab" Count="5"/>
+		<Card Name="Strong Stab" Count="3"/>
+		<Card Name="Tricky Stab" Count="3"/>
+		<Card Name="Block" Count="2"/>
+		<Card Name="Flimsy Block" Count="1"/>
+		<Card Name="Altruism" Count="3"/>
+		<Card Name="Walk" Count="4"/>
+		<Card Name="Boosted Heal" Count="1"/>
+		<Card Name="Horned Plates" Count="1"/>
+		<Card Name="Unholy Frenzy" Count="2"/>
+	</Monster>
+	<Monster Name="MP AI Priest 2" HP=" 21" Draw=" 2" VPWorth=" 2" DefaultMove="Dash" bGetAllInfo="True">
+		<InGameName Name=" Nargil Demon-Sworn"/>
+		<Card Name="Cloth Armor" Count="1"/>
+		<Card Name="Reliable Mail" Count="1"/>
+		<Card Name="Demonic Feedback" Count="1"/>
+		<Card Name="Heal" Count="5"/>
+		<Card Name="Healing Blessing" Count="2"/>
+		<Card Name="Inspiration" Count="2"/>
+		<Card Name="Mass Frenzy" Count="1"/>
+		<Card Name="Minor Heal" Count="1"/>
+		<Card Name="Draining Touch" Count="2"/>
+		<Card Name="Invigorating Touch" Count="2"/>
+		<Card Name="Staggering Blow" Count="1"/>
+		<Card Name="Strong Stab" Count="1"/>
+		<Card Name="Tricky Stab" Count="2"/>
+		<Card Name="Block" Count="2"/>
+		<Card Name="Flimsy Block" Count="1"/>
+		<Card Name="Altruism" Count="2"/>
+		<Card Name="Demonic Revenge" Count="1"/>
+		<Card Name="Dash" Count="1"/>
+		<Card Name="Walk" Count="2"/>
+		<Card Name="Bash" Count="2"/>
+		<Card Name="Boosted Heal" Count="2"/>
+		<Card Name="Jump Back" Count="1"/>
+		<Card Name="Rushing Aura" Count="1"/>
+	</Monster>
+	<Monster Name="MP AI Priest 2000" HP=" 29" Draw=" 2" VPWorth=" 2" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Clerical Unit"/>
+		<Card Name="Inspiring Armor" Count="1"/>
+		<Card Name="Resistant Hide" Count="1"/>
+		<Card Name="Dash, Team!" Count="1"/>
+		<Card Name="Impenetrable Nimbus" Count="3"/>
+		<Card Name="Martyr Blessing" Count="2"/>
+		<Card Name="Mass Frenzy" Count="2"/>
+		<Card Name="Super Team Heal" Count="3"/>
+		<Card Name="Triple Heals" Count="3"/>
+		<Card Name="Obliterating Bludgeon" Count="3"/>
+		<Card Name="Powerful Bash" Count="2"/>
+		<Card Name="Punishing Bludgeon" Count="2"/>
+		<Card Name="Parry" Count="1"/>
+		<Card Name="Pushback Parry" Count="1"/>
+		<Card Name="Altruism" Count="1"/>
+		<Card Name="Crusher" Count="1"/>
+		<Card Name="Mystical Drakehide" Count="1"/>
+	</Monster>
+	<Monster Name="MP AI Priest 3" HP=" 29" Draw=" 2" VPWorth=" 2" DefaultMove="Walk" bGetAllInfo="True">
+		<InGameName Name=" Melbrog"/>
+		<Card Name="Demonic Feedback" Count="1"/>
+		<Card Name="Demonic Power" Count="2"/>
+		<Card Name="Heal" Count="2"/>
+		<Card Name="Inspiration" Count="2"/>
+		<Card Name="Mass Frenzy" Count="2"/>
+		<Card Name="Righteous Frenzy" Count="2"/>
+		<Card Name="Chop" Count="4"/>
+		<Card Name="Clumsy Chop" Count="1"/>
+		<Card Name="Staggering Chop" Count="2"/>
+		<Card Name="Block" Count="2"/>
+		<Card Name="Shield Block" Count="2"/>
+		<Card Name="Altruism" Count="2"/>
+		<Card Name="Obvious Maneuver" Count="1"/>
+		<Card Name="Charge" Count="1"/>
+		<Card Name="Team Run" Count="1"/>
+		<Card Name="Team Shift" Count="1"/>
+		<Card Name="Blind Rage" Count="1"/>
+		<Card Name="Flight Aura" Count="1"/>
+		<Card Name="Strong Chop" Count="1"/>
+		<Card Name="Thick Hide Armor" Count="1"/>
+		<Card Name="Unholy Frenzy" Count="2"/>
+		<Card Name="Unholy Wellspring" Count="2"/>
+	</Monster>
+	<Monster Name="MP AI Priest 3000" HP=" 29" Draw=" 2" VPWorth=" 2" DefaultMove="Dash" bGetAllInfo="True">
+		<InGameName Name=" Marie-France"/>
+		<Card Name="Cushioning Armor" Count="2"/>
+		<Card Name="Leathery Hide" Count="2"/>
+		<Card Name="Gene Therapy" Count="1"/>
+		<Card Name="Genetic Engineering" Count="2"/>
+		<Card Name="Impenetrable Nimbus" Count="2"/>
+		<Card Name="Martyr Blessing" Count="2"/>
+		<Card Name="Reanimate" Count="2"/>
+		<Card Name="Destructive Purge" Count="3"/>
+		<Card Name="Laser Strike" Count="2"/>
+		<Card Name="Laser Whip" Count="2"/>
+		<Card Name="Radiation Bolt" Count="2"/>
+		<Card Name="Radiation Bomb" Count="3"/>
+		<Card Name="Radioactive Goo" Count="2"/>
+		<Card Name="Auto Block" Count="2"/>
+		<Card Name="Laser Block" Count="1"/>
+	</Monster>
+	<Monster Name="MP AI Priest 4" HP=" 21" Draw=" 2" VPWorth=" 2" DefaultMove="Dash" bGetAllInfo="True">
+		<InGameName Name=" Blessed Anrime"/>
+		<Card Name="Crafted Mail" Count="1"/>
+		<Card Name="Holy Armor" Count="2"/>
+		<Card Name="Greater Heal" Count="3"/>
+		<Card Name="Healing Blessing" Count="2"/>
+		<Card Name="Healing Rays" Count="2"/>
+		<Card Name="Impenetrable Nimbus" Count="2"/>
+		<Card Name="Team Heal" Count="4"/>
+		<Card Name="Enervating Touch" Count="1"/>
+		<Card Name="Invigorating Touch" Count="4"/>
+		<Card Name="Touch of Pain" Count="3"/>
+		<Card Name="Absorbing Block" Count="2"/>
+		<Card Name="Altruism" Count="3"/>
+		<Card Name="Contagion" Count="2"/>
+		<Card Name="Dash" Count="2"/>
+		<Card Name="Accelerated Thought" Count="2"/>
+		<Card Name="Hard to Pin Down" Count="1"/>
+	</Monster>
+	<Monster Name="MP AI Warrior 1" HP=" 33" Draw=" 2" VPWorth=" 2" DefaultMove="Walk" bGetAllInfo="True">
+		<InGameName Name=" Mighty Karagrik"/>
+		<Card Name="Mail" Count="1"/>
+		<Card Name="Reliable Hide Armor" Count="2"/>
+		<Card Name="Spiked Mail" Count="1"/>
+		<Card Name="Backbiting Strike" Count="1"/>
+		<Card Name="Chop" Count="7"/>
+		<Card Name="Shredding Strike" Count="2"/>
+		<Card Name="Weak Chop" Count="2"/>
+		<Card Name="Block" Count="1"/>
+		<Card Name="Flimsy Block" Count="1"/>
+		<Card Name="Shield Block" Count="1"/>
+		<Card Name="Quick Reactions" Count="1"/>
+		<Card Name="Slicer" Count="2"/>
+		<Card Name="Obvious Maneuver" Count="1"/>
+		<Card Name="Charge" Count="2"/>
+		<Card Name="Muscle Through" Count="1"/>
+		<Card Name="Sprint" Count="1"/>
+		<Card Name="Dancing Cut" Count="3"/>
+		<Card Name="Strong Chop" Count="4"/>
+		<Card Name="Surging Shield Block" Count="1"/>
+		<Card Name="Thick Hide Armor" Count="1"/>
+	</Monster>
+	<Monster Name="MP AI Warrior 2" HP=" 29" Draw=" 2" VPWorth=" 2" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Lothar Lotharsson"/>
+		<Card Name="Hardy Mail" Count="1"/>
+		<Card Name="Rusty Armor" Count="2"/>
+		<Card Name="Thickened Mail" Count="1"/>
+		<Card Name="Weakened Armor" Count="1"/>
+		<Card Name="Simple Bash" Count="6"/>
+		<Card Name="Violent Overswing" Count="2"/>
+		<Card Name="Jarring Block" Count="2"/>
+		<Card Name="Missile Block" Count="1"/>
+		<Card Name="Parry" Count="1"/>
+		<Card Name="Bruiser" Count="2"/>
+		<Card Name="Demonic Revenge" Count="1"/>
+		<Card Name="Spin Around" Count="1"/>
+		<Card Name="Sprint" Count="1"/>
+		<Card Name="Team Shift" Count="1"/>
+		<Card Name="Walk" Count="1"/>
+		<Card Name="Bash" Count="10"/>
+		<Card Name="Lunging Bash" Count="1"/>
+		<Card Name="Lunging Hack" Count="1"/>
+	</Monster>
+	<Monster Name="MP AI Warrior 2000" HP=" 29" Draw=" 2" VPWorth=" 2" DefaultMove="Dash" bGetAllInfo="True">
+		<InGameName Name=" Fighter Unit"/>
+		<Card Name="Barbed Platemail" Count="2"/>
+		<Card Name="Almighty Hack" Count="3"/>
+		<Card Name="Feinting Strike" Count="2"/>
+		<Card Name="Sundering Strike" Count="2"/>
+		<Card Name="Disorienting Block" Count="2"/>
+		<Card Name="Impenetrable Block" Count="1"/>
+		<Card Name="Perfect Block" Count="2"/>
+		<Card Name="Elven Maneuvers" Count="1"/>
+		<Card Name="Slippery" Count="1"/>
+		<Card Name="Elven Trickery" Count="2"/>
+		<Card Name="Flanking Move" Count="2"/>
+		<Card Name="All Out Attack" Count="1"/>
+		<Card Name="Dancing Cut" Count="2"/>
+		<Card Name="Enchanted Harness" Count="2"/>
+		<Card Name="Nimble Strike" Count="3"/>
+		<Card Name="Quickness Aura" Count="1"/>
+	</Monster>
+	<Monster Name="MP AI Warrior 3" HP=" 33" Draw=" 2" VPWorth=" 2" DefaultMove="Walk" bGetAllInfo="True">
+		<InGameName Name=" Felvin"/>
+		<Card Name="Cloth Armor" Count="1"/>
+		<Card Name="Solid Mail" Count="3"/>
+		<Card Name="Spiked Mail" Count="2"/>
+		<Card Name="Dwarven Battle Cry" Count="1"/>
+		<Card Name="Simple Bash" Count="3"/>
+		<Card Name="Staggering Blow" Count="3"/>
+		<Card Name="Violent Overswing" Count="2"/>
+		<Card Name="War Cry" Count="1"/>
+		<Card Name="Block" Count="2"/>
+		<Card Name="Parry" Count="1"/>
+		<Card Name="Unreliable Block" Count="1"/>
+		<Card Name="Bruiser" Count="2"/>
+		<Card Name="Ouch!" Count="1"/>
+		<Card Name="Vulnerable" Count="1"/>
+		<Card Name="Wimpy" Count="1"/>
+		<Card Name="Walk" Count="1"/>
+		<Card Name="Bash" Count="6"/>
+		<Card Name="Blind Rage" Count="1"/>
+		<Card Name="Rushing Aura" Count="2"/>
+		<Card Name="Thick Hide Armor" Count="1"/>
+	</Monster>
+	<Monster Name="MP AI Warrior 3000" HP=" 29" Draw=" 2" VPWorth=" 2" DefaultMove="Walk" bGetAllInfo="True">
+		<InGameName Name=" Molly"/>
+		<Card Name="Adaptable" Count="1"/>
+		<Card Name="Bronzantium Plates" Count="2"/>
+		<Card Name="Cushioning Armor" Count="2"/>
+		<Card Name="Leathery Hide" Count="1"/>
+		<Card Name="Mimetic Crown" Count="2"/>
+		<Card Name="Force Field" Count="2"/>
+		<Card Name="Flaring Laser" Count="3"/>
+		<Card Name="Laser Strike" Count="2"/>
+		<Card Name="Laser Whip" Count="2"/>
+		<Card Name="Auto Block" Count="2"/>
+		<Card Name="Laser Block" Count="3"/>
+		<Card Name="Pushback Parry" Count="1"/>
+		<Card Name="Retaliatory Mutation" Count="2"/>
+		<Card Name="Rocket Charge" Count="2"/>
+		<Card Name="Warp Run" Count="1"/>
+		<Card Name="Laser Thrust" Count="2"/>
+	</Monster>
+	<Monster Name="MP AI Warrior 4" HP=" 33" Draw=" 2" VPWorth=" 2" DefaultMove="Walk" bGetAllInfo="True">
+		<InGameName Name=" Krelvin"/>
+		<Card Name="Solid Mail" Count="3"/>
+		<Card Name="Spiked Mail" Count="1"/>
+		<Card Name="Dwarven Battle Cry" Count="1"/>
+		<Card Name="Anvil Strike" Count="1"/>
+		<Card Name="Bludgeon" Count="1"/>
+		<Card Name="Devastating Blow" Count="2"/>
+		<Card Name="Simple Bash" Count="2"/>
+		<Card Name="Staggering Blow" Count="2"/>
+		<Card Name="Jarring Block" Count="2"/>
+		<Card Name="Parry" Count="1"/>
+		<Card Name="Obvious Maneuver" Count="1"/>
+		<Card Name="Ouch!" Count="1"/>
+		<Card Name="Vulnerable" Count="2"/>
+		<Card Name="Walk" Count="1"/>
+		<Card Name="All Out Attack" Count="2"/>
+		<Card Name="Bash" Count="2"/>
+		<Card Name="Blind Rage" Count="2"/>
+		<Card Name="Dancing Cut" Count="1"/>
+		<Card Name="Frenzy Aura" Count="1"/>
+		<Card Name="Lunging Hack" Count="2"/>
+		<Card Name="Raging Strike" Count="2"/>
+		<Card Name="Vicious Thrust" Count="3"/>
+	</Monster>
+	<Monster Name="MP AI Warrior 5" HP=" 25" Draw=" 2" VPWorth=" 2" DefaultMove="Dash" bGetAllInfo="True">
+		<InGameName Name=" Sharp Cucelden"/>
+		<Card Name="Enchanted Mail" Count="1"/>
+		<Card Name="Solid Mail" Count="2"/>
+		<Card Name="Impaling Stab" Count="5"/>
+		<Card Name="Potent Stab" Count="4"/>
+		<Card Name="Tricky Stab" Count="3"/>
+		<Card Name="Impaler" Count="3"/>
+		<Card Name="Elvish Mobility" Count="2"/>
+		<Card Name="Dancing Cut" Count="3"/>
+		<Card Name="Flight Aura" Count="1"/>
+		<Card Name="Hard to Pin Down" Count="2"/>
+		<Card Name="Jump Back" Count="3"/>
+		<Card Name="Lunging Thrust" Count="1"/>
+		<Card Name="Thick Hide Armor" Count="2"/>
+		<Card Name="Vicious Thrust" Count="4"/>
+	</Monster>
+	<Monster Name="MP AI Wizard 1" HP=" 17" Draw=" 2" VPWorth=" 2" DefaultMove="Dash" bGetAllInfo="True">
+		<InGameName Name=" Andengal of the Woods"/>
+		<Card Name="Able Bash" Count="2"/>
+		<Card Name="Arcing Spark" Count="1"/>
+		<Card Name="Big Zap" Count="2"/>
+		<Card Name="Boiling Armor" Count="2"/>
+		<Card Name="Deadly Spark" Count="1"/>
+		<Card Name="Devastating Spark" Count="1"/>
+		<Card Name="Dissolve Armor" Count="1"/>
+		<Card Name="Fireball" Count="1"/>
+		<Card Name="Force Bolt" Count="2"/>
+		<Card Name="Gusts of War" Count="1"/>
+		<Card Name="Little Zap" Count="1"/>
+		<Card Name="Penetrating Bolt" Count="3"/>
+		<Card Name="Perplexing Ray" Count="2"/>
+		<Card Name="Powerful Spark" Count="3"/>
+		<Card Name="Zap" Count="2"/>
+		<Card Name="Spark Generator" Count="2"/>
+		<Card Name="Traveling Curse" Count="1"/>
+		<Card Name="Flanking Move" Count="1"/>
+		<Card Name="Quick Run" Count="1"/>
+		<Card Name="Run" Count="1"/>
+		<Card Name="Spin Around" Count="1"/>
+		<Card Name="Sprint" Count="1"/>
+		<Card Name="Bash" Count="1"/>
+		<Card Name="Thick Hide Armor" Count="1"/>
+	</Monster>
+	<Monster Name="MP AI Wizard 2" HP=" 25" Draw=" 2" VPWorth=" 2" DefaultMove="Walk" bGetAllInfo="True">
+		<InGameName Name=" Dumkolaz"/>
+		<Card Name="Rusty Armor" Count="1"/>
+		<Card Name="Toughness" Count="1"/>
+		<Card Name="Shrug it Off" Count="1"/>
+		<Card Name="Acid Blast" Count="1"/>
+		<Card Name="Acid Spray" Count="5"/>
+		<Card Name="Arcane Spray" Count="1"/>
+		<Card Name="Dissolve Armor" Count="3"/>
+		<Card Name="Force Bolt" Count="1"/>
+		<Card Name="Hot Spot" Count="1"/>
+		<Card Name="Gusts of War" Count="1"/>
+		<Card Name="Memory Loss" Count="1"/>
+		<Card Name="Mighty Spark" Count="1"/>
+		<Card Name="Path of Knives" Count="1"/>
+		<Card Name="Simple Bash" Count="1"/>
+		<Card Name="Sorcerous Bolt" Count="2"/>
+		<Card Name="Winds of War" Count="1"/>
+		<Card Name="Block" Count="2"/>
+		<Card Name="Dimensional Traveller" Count="2"/>
+		<Card Name="Run" Count="2"/>
+		<Card Name="Walk" Count="1"/>
+		<Card Name="Maze" Count="1"/>
+		<Card Name="Whirlwind Enemies" Count="2"/>
+		<Card Name="Arcane Feedback" Count="1"/>
+	</Monster>
+	<Monster Name="MP AI Wizard 2000" HP=" 29" Draw=" 2" VPWorth=" 2" DefaultMove="Walk" bGetAllInfo="True">
+		<InGameName Name=" Magic Using Unit"/>
+		<Card Name="Resistant Hide" Count="2"/>
+		<Card Name="Toughness" Count="2"/>
+		<Card Name="Spell Skill" Count="1"/>
+		<Card Name="Arcane Burst" Count="4"/>
+		<Card Name="Fireball" Count="3"/>
+		<Card Name="Firestorm" Count="1"/>
+		<Card Name="Force Cannon" Count="1"/>
+		<Card Name="Instant Burn" Count="2"/>
+		<Card Name="Lava Pool" Count="2"/>
+		<Card Name="Magma Spray" Count="2"/>
+		<Card Name="Punishing Beam" Count="2"/>
+		<Card Name="Firestarter" Count="1"/>
+		<Card Name="Hot Flames" Count="1"/>
+		<Card Name="Swap" Count="1"/>
+		<Card Name="Arcane Aura" Count="1"/>
+		<Card Name="Counterspell" Count="1"/>
+		<Card Name="Teleport Self" Count="1"/>
+	</Monster>
+	<Monster Name="MP AI Wizard 3" HP=" 25" Draw=" 2" VPWorth=" 2" DefaultMove="Walk" bGetAllInfo="True">
+		<InGameName Name=" Melzag"/>
+		<Card Name="Resistant Hide" Count="2"/>
+		<Card Name="Fireball" Count="2"/>
+		<Card Name="Flame Spit" Count="6"/>
+		<Card Name="Gusts of War" Count="2"/>
+		<Card Name="Simple Bash" Count="2"/>
+		<Card Name="Sorcerous Bolt" Count="2"/>
+		<Card Name="Winds of War" Count="2"/>
+		<Card Name="Flimsy Block" Count="2"/>
+		<Card Name="Firestarter" Count="2"/>
+		<Card Name="Defensiveness" Count="1"/>
+		<Card Name="Dropped Guard" Count="1"/>
+		<Card Name="Flanking Move" Count="2"/>
+		<Card Name="Spin Around" Count="2"/>
+		<Card Name="Whirlwind" Count="2"/>
+		<Card Name="Whirlwind Enemies" Count="2"/>
+		<Card Name="Reflexive Teleport" Count="2"/>
+		<Card Name="Teleport Self" Count="2"/>
+	</Monster>
+	<Monster Name="MP AI Wizard 3000" HP=" 29" Draw=" 2" VPWorth=" 2" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Case"/>
+		<Card Name="Adaptable" Count="1"/>
+		<Card Name="Mimetic Armor" Count="1"/>
+		<Card Name="Force Field" Count="1"/>
+		<Card Name="Spell Skill" Count="1"/>
+		<Card Name="Cone of Cold" Count="3"/>
+		<Card Name="Dual Laser Beacon" Count="2"/>
+		<Card Name="Freeze" Count="2"/>
+		<Card Name="Frost Jolt" Count="2"/>
+		<Card Name="Laser Beacon" Count="1"/>
+		<Card Name="Laser Bolt" Count="2"/>
+		<Card Name="Lava Pool" Count="2"/>
+		<Card Name="Mega Laser" Count="2"/>
+		<Card Name="Scatter Laser" Count="1"/>
+		<Card Name="Invisibility" Count="2"/>
+		<Card Name="Rocket Dash" Count="1"/>
+		<Card Name="Warp Run" Count="1"/>
+		<Card Name="Arcane Aura" Count="2"/>
+		<Card Name="Cooling Laser" Count="2"/>
+		<Card Name="Laser Spray" Count="1"/>
+	</Monster>
+	<Monster Name="MP AI Wizard 4" HP=" 17" Draw=" 2" VPWorth=" 2" DefaultMove="Dash" bGetAllInfo="True">
+		<InGameName Name=" Mingolborn Pain-bringer"/>
+		<Card Name="Arcing Spark" Count="2"/>
+		<Card Name="Boiling Armor" Count="2"/>
+		<Card Name="Deadly Spark" Count="4"/>
+		<Card Name="Devastating Spark" Count="4"/>
+		<Card Name="Dissolve Armor" Count="1"/>
+		<Card Name="Force Bolt" Count="2"/>
+		<Card Name="Gusts of War" Count="2"/>
+		<Card Name="Perplexing Ray" Count="3"/>
+		<Card Name="Powerful Spark" Count="3"/>
+		<Card Name="Spark Generator" Count="2"/>
+		<Card Name="Dash" Count="2"/>
+		<Card Name="Elvish Mobility" Count="2"/>
+		<Card Name="Arcane Aura" Count="2"/>
+		<Card Name="Hard to Pin Down" Count="2"/>
+		<Card Name="Reflexive Teleport" Count="2"/>
+		<Card Name="Teleport Self" Count="1"/>
+	</Monster>
+	<Monster Name="MP AI Wizard 5" HP=" 17" Draw=" 2" VPWorth=" 2" DefaultMove="Dash" bGetAllInfo="True">
+		<InGameName Name=" Galeldirer Earth-changer"/>
+		<Card Name="Acid Jet" Count="3"/>
+		<Card Name="Cone of Cold" Count="2"/>
+		<Card Name="Force Blast" Count="2"/>
+		<Card Name="Frost Jolt" Count="3"/>
+		<Card Name="Gusts of War" Count="3"/>
+		<Card Name="Lava Pool" Count="1"/>
+		<Card Name="Rockfall" Count="2"/>
+		<Card Name="Wall of Fire" Count="2"/>
+		<Card Name="Dimensional Traveller" Count="2"/>
+		<Card Name="Hover" Count="2"/>
+		<Card Name="Dash" Count="2"/>
+		<Card Name="Hard to Pin Down" Count="2"/>
+		<Card Name="Reflexive Teleport" Count="2"/>
+		<Card Name="Surging Blast" Count="3"/>
+		<Card Name="Surging Bolt" Count="3"/>
+		<Card Name="Teleport Self" Count="2"/>
+	</Monster>
+	<Monster Name="MP Blackhammer" HP=" 30" Draw=" 2" VPWorth=" 2" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Blackhammer"/>
+		<Card Name="Greater Heal" Count="1"/>
+		<Card Name="Healing Benediction" Count="2"/>
+		<Card Name="Impetuous Heal" Count="1"/>
+		<Card Name="Wings of Faith" Count="2"/>
+		<Card Name="Mental Flensing" Count="1"/>
+		<Card Name="Powerful Bash" Count="2"/>
+		<Card Name="Pressing Bash" Count="3"/>
+		<Card Name="Purging Strike" Count="3"/>
+		<Card Name="Reaching Swing" Count="2"/>
+		<Card Name="Crusher" Count="1"/>
+		<Card Name="Fly" Count="3"/>
+		<Card Name="All Out Attack" Count="1"/>
+		<Card Name="Bash" Count="2"/>
+		<Card Name="Parrying Strike" Count="2"/>
+		<Card Name="Polearm Slash" Count="3"/>
+	</Monster>
+	<Monster Name="MP Blackhammer 2" HP=" 30" Draw=" 2" VPWorth=" 2" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Darkhammer"/>
+		<Card Name="Greater Heal" Count="1"/>
+		<Card Name="Healing Benediction" Count="2"/>
+		<Card Name="Impetuous Heal" Count="1"/>
+		<Card Name="Wings of Faith" Count="2"/>
+		<Card Name="Mental Flensing" Count="1"/>
+		<Card Name="Powerful Bash" Count="2"/>
+		<Card Name="Pressing Bash" Count="3"/>
+		<Card Name="Purging Strike" Count="3"/>
+		<Card Name="Reaching Swing" Count="2"/>
+		<Card Name="Crusher" Count="1"/>
+		<Card Name="Fly" Count="3"/>
+		<Card Name="All Out Attack" Count="1"/>
+		<Card Name="Bash" Count="2"/>
+		<Card Name="Parrying Strike" Count="2"/>
+		<Card Name="Polearm Slash" Count="3"/>
+	</Monster>
+	<Monster Name="MP Dwarf Basher" HP=" 33" Draw=" 2" VPWorth=" 2" DefaultMove="Walk" bGetAllInfo="True">
+		<InGameName Name=" Boppsy"/>
+		<Card Name="Enchanted Mail" Count="2"/>
+		<Card Name="Toughness" Count="1"/>
+		<Card Name="Powerful Bash" Count="4"/>
+		<Card Name="Staggering Blow" Count="3"/>
+		<Card Name="Strong Bash" Count="4"/>
+		<Card Name="Parry" Count="2"/>
+		<Card Name="Perfect Block" Count="2"/>
+		<Card Name="Bruiser" Count="2"/>
+		<Card Name="Charge" Count="2"/>
+		<Card Name="Scuttle" Count="1"/>
+		<Card Name="All Out Attack" Count="2"/>
+		<Card Name="Enchanted Harness" Count="1"/>
+		<Card Name="Shambling Bash" Count="5"/>
+	</Monster>
+	<Monster Name="MP Elf Chopper" HP=" 25" Draw=" 2" VPWorth=" 2" DefaultMove="Dash" bGetAllInfo="True">
+		<InGameName Name=" Cuddlepie"/>
+		<Card Name="Enchanted Mail" Count="2"/>
+		<Card Name="Resistant Hide" Count="1"/>
+		<Card Name="Almighty Hack" Count="1"/>
+		<Card Name="Staggering Chop" Count="4"/>
+		<Card Name="Unstoppable Chop" Count="6"/>
+		<Card Name="Disorienting Block" Count="2"/>
+		<Card Name="Parry" Count="2"/>
+		<Card Name="Perfect Block" Count="2"/>
+		<Card Name="Shield Block" Count="1"/>
+		<Card Name="Slicer" Count="2"/>
+		<Card Name="Muscle Through" Count="1"/>
+		<Card Name="Scamper" Count="2"/>
+		<Card Name="All Out Attack" Count="2"/>
+		<Card Name="Massive Chop" Count="4"/>
+		<Card Name="Parrying Strike" Count="2"/>
+	</Monster>
+	<Monster Name="MP Human Stabber" HP=" 29" Draw=" 2" VPWorth=" 2" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Mr. Jingles"/>
+		<Card Name="Enchanted Mail" Count="2"/>
+		<Card Name="Grounding Plates" Count="1"/>
+		<Card Name="Spiked Mail" Count="2"/>
+		<Card Name="Fiery Stab" Count="4"/>
+		<Card Name="Potent Stab" Count="7"/>
+		<Card Name="Strong Stab" Count="4"/>
+		<Card Name="Tricky Stab" Count="3"/>
+		<Card Name="Block" Count="1"/>
+		<Card Name="Impenetrable Block" Count="1"/>
+		<Card Name="Parry" Count="2"/>
+		<Card Name="Impaler" Count="2"/>
+		<Card Name="Sprint" Count="2"/>
+		<Card Name="Jump Back" Count="2"/>
+		<Card Name="Surging Shield Block" Count="1"/>
+		<Card Name="Vicious Thrust" Count="3"/>
+	</Monster>
+	<Monster Name="MP Riptide" HP=" 27" Draw=" 2" VPWorth=" 2" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Riptide"/>
+		<Card Name="Brains!" Count="2"/>
+		<Card Name="Clumsy Chop" Count="2"/>
+		<Card Name="Controlled Overswing" Count="2"/>
+		<Card Name="Impetuous Slash" Count="1"/>
+		<Card Name="Obliterating Chop" Count="2"/>
+		<Card Name="Startling Strike" Count="2"/>
+		<Card Name="Unnerving Strike" Count="2"/>
+		<Card Name="Parry" Count="3"/>
+		<Card Name="Pushback Parry" Count="2"/>
+		<Card Name="Slicer" Count="1"/>
+		<Card Name="Brutal Charge" Count="2"/>
+		<Card Name="Massive Chop" Count="2"/>
+		<Card Name="Nimble Strike" Count="2"/>
+		<Card Name="Slowed" Count="1"/>
+		<Card Name="Strong Chop" Count="2"/>
+		<Card Name="Vicious Thrust" Count="2"/>
+	</Monster>
+	<Monster Name="MP Riptide 2" HP=" 27" Draw=" 2" VPWorth=" 2" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Hightide"/>
+		<Card Name="Brains!" Count="2"/>
+		<Card Name="Clumsy Chop" Count="2"/>
+		<Card Name="Controlled Overswing" Count="2"/>
+		<Card Name="Impetuous Slash" Count="1"/>
+		<Card Name="Obliterating Chop" Count="2"/>
+		<Card Name="Startling Strike" Count="2"/>
+		<Card Name="Unnerving Strike" Count="2"/>
+		<Card Name="Parry" Count="3"/>
+		<Card Name="Pushback Parry" Count="2"/>
+		<Card Name="Slicer" Count="1"/>
+		<Card Name="Brutal Charge" Count="2"/>
+		<Card Name="Massive Chop" Count="2"/>
+		<Card Name="Nimble Strike" Count="2"/>
+		<Card Name="Slowed" Count="1"/>
+		<Card Name="Strong Chop" Count="2"/>
+		<Card Name="Vicious Thrust" Count="2"/>
+	</Monster>
+	<Monster Name="MP Whorl" HP=" 24" Draw=" 2" VPWorth=" 2" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Whorl"/>
+		<Card Name="Arcing Spark" Count="2"/>
+		<Card Name="Flash of Agony" Count="2"/>
+		<Card Name="Force Cannon" Count="2"/>
+		<Card Name="Impetuous Blast" Count="1"/>
+		<Card Name="Jumpspark" Count="2"/>
+		<Card Name="Long Spark" Count="1"/>
+		<Card Name="Mighty Spark" Count="1"/>
+		<Card Name="Mind Munch" Count="2"/>
+		<Card Name="Powerful Spark" Count="1"/>
+		<Card Name="Punishing Bludgeon" Count="1"/>
+		<Card Name="Punishing Bolt" Count="2"/>
+		<Card Name="Lifesaving Block" Count="2"/>
+		<Card Name="Pushback Parry" Count="2"/>
+		<Card Name="Spark Generator" Count="1"/>
+		<Card Name="Dropped Guard" Count="1"/>
+		<Card Name="Fly" Count="3"/>
+		<Card Name="Polearm Slash" Count="2"/>
+		<Card Name="Surging Bolt" Count="2"/>
+	</Monster>
+	<Monster Name="MP Whorl 2" HP=" 24" Draw=" 2" VPWorth=" 2" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Whirl"/>
+		<Card Name="Arcing Spark" Count="2"/>
+		<Card Name="Flash of Agony" Count="2"/>
+		<Card Name="Force Cannon" Count="2"/>
+		<Card Name="Impetuous Blast" Count="1"/>
+		<Card Name="Jumpspark" Count="2"/>
+		<Card Name="Long Spark" Count="1"/>
+		<Card Name="Mighty Spark" Count="1"/>
+		<Card Name="Mind Munch" Count="2"/>
+		<Card Name="Powerful Spark" Count="1"/>
+		<Card Name="Punishing Bludgeon" Count="1"/>
+		<Card Name="Punishing Bolt" Count="2"/>
+		<Card Name="Lifesaving Block" Count="2"/>
+		<Card Name="Pushback Parry" Count="2"/>
+		<Card Name="Spark Generator" Count="1"/>
+		<Card Name="Dropped Guard" Count="1"/>
+		<Card Name="Fly" Count="3"/>
+		<Card Name="Polearm Slash" Count="2"/>
+		<Card Name="Surging Bolt" Count="2"/>
+	</Monster>
+	<Monster Name="Mummy" HP=" 25" Draw=" 2" VPWorth=" 2" DefaultMove="Shuffle" bGetAllInfo="True">
+		<InGameName Name=" Mummy"/>
+		<Card Name="Only Bones" Count="1"/>
+		<Card Name="Able Bash" Count="2"/>
+		<Card Name="Simple Bash" Count="4"/>
+		<Card Name="Touch of Death" Count="5"/>
+		<Card Name="Absorbing Block" Count="1"/>
+		<Card Name="Combustible" Count="1"/>
+		<Card Name="Shuffle" Count="3"/>
+		<Card Name="Shambling Bash" Count="1"/>
+		<Card Name="Slowed" Count="1"/>
+	</Monster>
+	<Monster Name="Muscular Zombie" HP=" 23" Draw=" 2" VPWorth=" 1" DefaultMove="Walk" bGetAllInfo="True">
+		<InGameName Name=" Muscular Zombie"/>
+		<Card Name="Able Bash" Count="3"/>
+		<Card Name="Brains!" Count="2"/>
+		<Card Name="Infected Bite" Count="2"/>
+		<Card Name="Mighty Bludgeon" Count="2"/>
+		<Card Name="Powerful Bash" Count="4"/>
+		<Card Name="Zombie Mob" Count="4"/>
+		<Card Name="Clumsy" Count="2"/>
+		<Card Name="Shuffle" Count="3"/>
+		<Card Name="Shambling Bash" Count="5"/>
+		<Card Name="Slowed" Count="2"/>
+	</Monster>
+	<Monster Name="Muscular Zombies" HP=" 23" Draw=" 1.5" VPWorth=" 1" DefaultMove="Walk" bGetAllInfo="True">
+		<InGameName Name=" Muscular Zombies"/>
+		<Card Name="Able Bash" Count="3"/>
+		<Card Name="Brains!" Count="2"/>
+		<Card Name="Infected Bite" Count="2"/>
+		<Card Name="Mighty Bludgeon" Count="2"/>
+		<Card Name="Powerful Bash" Count="4"/>
+		<Card Name="Zombie Mob" Count="4"/>
+		<Card Name="Clumsy" Count="2"/>
+		<Card Name="Shuffle" Count="3"/>
+		<Card Name="Shambling Bash" Count="5"/>
+		<Card Name="Slowed" Count="2"/>
+	</Monster>
+	<Monster Name="Mutant Brute" HP=" 25" Draw=" 2" VPWorth=" 1" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Mutant Brute"/>
+		<Card Name="Adaptable" Count="2"/>
+		<Card Name="Paralytic Poison" Count="1"/>
+		<Card Name="Powerful Bludgeon" Count="2"/>
+		<Card Name="Radioactive Pulse" Count="2"/>
+		<Card Name="Strong Bludgeon" Count="3"/>
+		<Card Name="Lunging Bite" Count="3"/>
+	</Monster>
+	<Monster Name="Mutant Egg" HP=" 30" Draw=" 2" VPWorth=" 1" DefaultMove="" bGetAllInfo="True">
+		<InGameName Name=" Bulging Egg"/>
+		<Card Name="Leathery Hide" Count="2"/>
+		<Card Name="Spawn Grub" Count="5"/>
+		<Card Name="Spawn Swarm" Count="5"/>
+		<Card Name="Toxic Pulse" Count="3"/>
+	</Monster>
+	<Monster Name="Mutant Grub" HP=" 10" Draw=" 1" VPWorth=" 1" DefaultMove="Shuffle" bGetAllInfo="True">
+		<InGameName Name=" Writhing Grubs"/>
+		<Card Name="Infected Bite" Count="5"/>
+		<Card Name="Radioactive Bite" Count="5"/>
+		<Card Name="Scuttle" Count="1"/>
+		<Card Name="Shuffle" Count="2"/>
+		<Card Name="Lunging Bite" Count="2"/>
+	</Monster>
+	<Monster Name="Mutant Grub Egg" HP=" 30" Draw=" 1.5" VPWorth=" 1" DefaultMove="" bGetAllInfo="True">
+		<InGameName Name=" Bulging Eggs"/>
+		<Card Name="Leathery Hide" Count="2"/>
+		<Card Name="Spawn Grub" Count="10"/>
+		<Card Name="Toxic Pulse" Count="3"/>
+	</Monster>
+	<Monster Name="Mutant Gunner" HP=" 20" Draw=" 2" VPWorth=" 1" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Mutant Gunner"/>
+		<Card Name="Adaptable" Count="2"/>
+		<Card Name="Radioactive Pulse" Count="2"/>
+		<Card Name="Shotgun Slug" Count="5"/>
+		<Card Name="Shotgun Spray" Count="3"/>
+		<Card Name="Violent Spin" Count="2"/>
+	</Monster>
+	<Monster Name="Mutant Swarm" HP=" 5" Draw=" 1" VPWorth=" 1" DefaultMove="Fly" bGetAllInfo="True">
+		<InGameName Name=" Stinging Swarms"/>
+		<Card Name="Mutated Chitin" Count="2"/>
+		<Card Name="Infected Bite" Count="5"/>
+		<Card Name="Radioactive Bite" Count="5"/>
+		<Card Name="Mass Invisibility" Count="2"/>
+		<Card Name="Fly" Count="2"/>
+	</Monster>
+	<Monster Name="Mutant Swarm Egg" HP=" 20" Draw=" 1.5" VPWorth=" 2" DefaultMove="" bGetAllInfo="True">
+		<InGameName Name=" Buzzing Eggs"/>
+		<Card Name="Leathery Hide" Count="2"/>
+		<Card Name="Spawn Swarm" Count="10"/>
+		<Card Name="Toxic Pulse" Count="3"/>
+	</Monster>
+	<Monster Name="Novice Geomancer" HP=" 14" Draw=" 1.5" VPWorth=" 1" DefaultMove="Walk" bGetAllInfo="True">
+		<InGameName Name=" Novice Geomancers"/>
+		<Card Name="Cave In" Count="2"/>
+		<Card Name="Hot Spot" Count="3"/>
+		<Card Name="Lava Pool" Count="3"/>
+		<Card Name="Paralyzing Bolt" Count="1"/>
+		<Card Name="Sorcerous Blast" Count="2"/>
+		<Card Name="Stone Spikes" Count="3"/>
+		<Card Name="Hover" Count="3"/>
+		<Card Name="Trip" Count="1"/>
+		<Card Name="Walk" Count="3"/>
+		<Card Name="Telekinesis" Count="3"/>
+	</Monster>
+	<Monster Name="Oak Bombardier" HP=" 21" Draw=" 1" VPWorth=" 1" DefaultMove="Walk" bGetAllInfo="True">
+		<InGameName Name=" Oak Slinger"/>
+		<Card Name="Tough Bark" Count="2"/>
+		<Card Name="Acorn Sling" Count="7"/>
+		<Card Name="Entangling Roots" Count="2"/>
+		<Card Name="Long Thin Branch" Count="4"/>
+		<Card Name="Strong Bash" Count="3"/>
+		<Card Name="Combustible" Count="2"/>
+		<Card Name="Violent Spin" Count="1"/>
+		<Card Name="Walk" Count="3"/>
+	</Monster>
+	<Monster Name="Oak Tree King" HP=" 50" Draw=" 4" VPWorth=" 6" DefaultMove="Shuffle" bGetAllInfo="True">
+		<InGameName Name=" Oak King"/>
+		<Card Name="Tough Bark" Count="2"/>
+		<Card Name="Acorn Barrage" Count="4"/>
+		<Card Name="Acorn Bombardment" Count="5"/>
+		<Card Name="Acorn Sling" Count="3"/>
+		<Card Name="Entangling Roots" Count="3"/>
+		<Card Name="Mighty Limb Smash" Count="6"/>
+		<Card Name="Combustible" Count="2"/>
+		<Card Name="Violent Spin" Count="2"/>
+	</Monster>
+	<Monster Name="Ochre Slime" HP=" 24" Draw=" 1" VPWorth=" 1" DefaultMove="Walk" bGetAllInfo="True">
+		<InGameName Name=" Ochre Slimes"/>
+		<Card Name="Amorphous Body" Count="3"/>
+		<Card Name="Blob of Slime" Count="5"/>
+		<Card Name="Powerful Bash" Count="2"/>
+		<Card Name="Pseudopod Strike" Count="2"/>
+		<Card Name="Death Meld" Count="3"/>
+		<Card Name="Vulnerable" Count="2"/>
+		<Card Name="Walk" Count="3"/>
+		<Card Name="Bash" Count="2"/>
+		<Card Name="Shambling Bash" Count="4"/>
+	</Monster>
+	<Monster Name="Ogre Bruiser" HP=" 40" Draw=" 3" VPWorth=" 2" DefaultMove="Walk" bGetAllInfo="True">
+		<InGameName Name=" Ogre Bruiser"/>
+		<Card Name="Crushing Sweep" Count="5"/>
+		<Card Name="Powerful Bludgeon" Count="2"/>
+		<Card Name="Shattering Sweep" Count="3"/>
+		<Card Name="Sweeping Smash" Count="3"/>
+		<Card Name="Mindless Battlerage" Count="1"/>
+		<Card Name="Clumsy" Count="1"/>
+		<Card Name="Obvious Maneuver" Count="1"/>
+		<Card Name="Muscle Through" Count="3"/>
+	</Monster>
+	<Monster Name="Ogre Bruisers" HP=" 40" Draw=" 1" VPWorth=" 2" DefaultMove="Walk" bGetAllInfo="True">
+		<InGameName Name=" Ogre Bruisers"/>
+		<Card Name="Crushing Sweep" Count="5"/>
+		<Card Name="Powerful Bludgeon" Count="2"/>
+		<Card Name="Shattering Sweep" Count="3"/>
+		<Card Name="Sweeping Smash" Count="3"/>
+		<Card Name="Mindless Battlerage" Count="1"/>
+		<Card Name="Clumsy" Count="1"/>
+		<Card Name="Obvious Maneuver" Count="1"/>
+		<Card Name="Muscle Through" Count="3"/>
+	</Monster>
+	<Monster Name="Ogre Magicker" HP=" 25" Draw=" 3" VPWorth=" 2" DefaultMove="Walk" bGetAllInfo="True">
+		<InGameName Name=" Ogre Magicker"/>
+		<Card Name="Bad Luck" Count="3"/>
+		<Card Name="Dastardly Curse" Count="4"/>
+		<Card Name="Path of Knives" Count="2"/>
+		<Card Name="Sorcerous Blast" Count="3"/>
+		<Card Name="Sorcerous Bolt" Count="2"/>
+		<Card Name="Unholy Curse" Count="2"/>
+		<Card Name="Defensiveness" Count="2"/>
+		<Card Name="Walk" Count="2"/>
+	</Monster>
+	<Monster Name="Orc" HP=" 15" Draw=" 1" VPWorth=" 1" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Orc Guard"/>
+		<Card Name="Thickened Mail" Count="1"/>
+		<Card Name="Chop" Count="4"/>
+		<Card Name="Simple Bash" Count="6"/>
+		<Card Name="Strong Hack" Count="2"/>
+		<Card Name="Taunt" Count="3"/>
+		<Card Name="Jarring Block" Count="2"/>
+		<Card Name="Dropped Guard" Count="1"/>
+		<Card Name="Charge" Count="2"/>
+		<Card Name="Blind Rage" Count="1"/>
+	</Monster>
+	<Monster Name="Ornithopter" HP=" 12" Draw=" 1" VPWorth=" 1" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Ornithopter"/>
+		<Card Name="Buzzsaw" Count="7"/>
+		<Card Name="Ember Spray" Count="5"/>
+		<Card Name="Run" Count="3"/>
+	</Monster>
+	<Monster Name="Phylacteries" HP=" 8" Draw=" 1" VPWorth=" 1" DefaultMove="" bGetAllInfo="True">
+		<InGameName Name=" Phylacteries"/>
+		<Card Name="Ancient Statue" Count="1"/>
+	</Monster>
+	<Monster Name="Planar Portals" HP=" 16" Draw=" 0.5" VPWorth=" 1" DefaultMove="" bGetAllInfo="True">
+		<InGameName Name=" Planar Portals"/>
+		<Card Name="Spawn Elemental" Count="6"/>
+		<Card Name="Present Launch" Count="5"/>
+		<Card Name="Toxic Pulse" Count="1"/>
+		<Card Name="Rejuvenation" Count="2"/>
+	</Monster>
+	<Monster Name="Plant Pygmy" HP=" 12" Draw=" 1" VPWorth=" 1" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Plant Pygmies"/>
+		<Card Name="Shimmering Aura" Count="2"/>
+		<Card Name="Hurled Dagger" Count="2"/>
+		<Card Name="Poison Blowdart" Count="6"/>
+		<Card Name="No Vital Organs" Count="1"/>
+		<Card Name="Vegetable Parts" Count="1"/>
+		<Card Name="Run" Count="2"/>
+	</Monster>
+	<Monster Name="Plog Kneechopper" HP=" 25" Draw=" 2" VPWorth=" 2" DefaultMove="Walk" bGetAllInfo="True">
+		<InGameName Name=" Plog Kneechopper"/>
+		<Card Name="Mail" Count="2"/>
+		<Card Name="Shrug it Off" Count="1"/>
+		<Card Name="Chop" Count="3"/>
+		<Card Name="Clumsy Chop" Count="2"/>
+		<Card Name="Staggering Chop" Count="1"/>
+		<Card Name="Weak Chop" Count="2"/>
+		<Card Name="Run" Count="1"/>
+		<Card Name="Walk" Count="2"/>
+		<Card Name="Strong Chop" Count="1"/>
+	</Monster>
+	<Monster Name="Poison Elementals" HP=" 15" Draw=" 1" VPWorth=" 1" DefaultMove="Walk" bGetAllInfo="True">
+		<InGameName Name=" Poison Elementals"/>
+		<Card Name="Paralytic Poison" Count="1"/>
+		<Card Name="Septic Bite" Count="11"/>
+		<Card Name="Toxic Pulse" Count="1"/>
+		<Card Name="Festering Guts" Count="2"/>
+		<Card Name="Squishy" Count="2"/>
+		<Card Name="Scuttle" Count="1"/>
+		<Card Name="Walk" Count="1"/>
+	</Monster>
+	<Monster Name="Pokkin" HP=" 15" Draw=" 2" VPWorth=" 2" DefaultMove="Walk" bGetAllInfo="True">
+		<InGameName Name=" Pokkin"/>
+		<Card Name="Heal" Count="4"/>
+		<Card Name="Healing Presence" Count="3"/>
+		<Card Name="Able Bludgeon" Count="1"/>
+		<Card Name="Strong Bludgeon" Count="2"/>
+		<Card Name="Lifesaving Block" Count="1"/>
+		<Card Name="Walk" Count="2"/>
+	</Monster>
+	<Monster Name="Powerful Mutant" HP=" 30" Draw=" 2" VPWorth=" 2" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Powerful Mutant"/>
+		<Card Name="Adaptable" Count="1"/>
+		<Card Name="Mutated Chitin" Count="2"/>
+		<Card Name="Paralytic Poison" Count="1"/>
+		<Card Name="Powerful Bludgeon" Count="2"/>
+		<Card Name="Radioactive Pulse" Count="2"/>
+		<Card Name="Strong Bludgeon" Count="3"/>
+		<Card Name="Lunging Bite" Count="3"/>
+	</Monster>
+	<Monster Name="Practiced Geomancer" HP=" 19" Draw=" 2" VPWorth=" 1" DefaultMove="Walk" bGetAllInfo="True">
+		<InGameName Name=" Practiced Geomancer"/>
+		<Card Name="Acid Pool" Count="3"/>
+		<Card Name="Cave In" Count="3"/>
+		<Card Name="Lava Pool" Count="3"/>
+		<Card Name="Paralyzing Bolt" Count="1"/>
+		<Card Name="Rockfall" Count="2"/>
+		<Card Name="Hover" Count="3"/>
+		<Card Name="Walk" Count="3"/>
+		<Card Name="Blooming Ground" Count="5"/>
+		<Card Name="Telekinesis" Count="1"/>
+		<Card Name="Teleport Other" Count="1"/>
+	</Monster>
+	<Monster Name="Psi Cat" HP=" 12" Draw=" 1" VPWorth=" 1" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Psi Cats"/>
+		<Card Name="Bite" Count="5"/>
+		<Card Name="Infected Bite" Count="1"/>
+		<Card Name="Psychic Barrage" Count="5"/>
+		<Card Name="Fright" Count="2"/>
+		<Card Name="Run" Count="2"/>
+		<Card Name="Hard to Pin Down" Count="2"/>
+	</Monster>
+	<Monster Name="Rad Spider" HP=" 20" Draw=" 2" VPWorth=" 1" DefaultMove="Scamper" bGetAllInfo="True">
+		<InGameName Name=" Rad Spiders"/>
+		<Card Name="Radioactive Bite" Count="10"/>
+	</Monster>
+	<Monster Name="Reinforced Door" HP=" 10" Draw=" 2" VPWorth=" 0" DefaultMove="Immovable" bGetAllInfo="True">
+		<InGameName Name=" Reinforced Door"/>
+		<Card Name="Solid Wood" Count="1"/>
+	</Monster>
+	<Monster Name="Riptide" HP=" 25" Draw=" 3" VPWorth=" 2" DefaultMove="Fly" bGetAllInfo="True">
+		<InGameName Name=" Riptide"/>
+		<Card Name="Clumsy Chop" Count="2"/>
+		<Card Name="Obliterating Chop" Count="3"/>
+		<Card Name="Startling Strike" Count="3"/>
+		<Card Name="Unnerving Strike" Count="3"/>
+		<Card Name="Unstoppable Chop" Count="2"/>
+		<Card Name="Parry" Count="2"/>
+		<Card Name="Fly" Count="3"/>
+		<Card Name="Massive Chop" Count="2"/>
+		<Card Name="Slowed" Count="2"/>
+		<Card Name="Strong Chop" Count="2"/>
+	</Monster>
+	<Monster Name="Rumbling Mutant" HP=" 35" Draw=" 2" VPWorth=" 1" DefaultMove="Rumbling Charge" bGetAllInfo="True">
+		<InGameName Name=" Rumbling Mutant"/>
+		<Card Name="Bite" Count="4"/>
+		<Card Name="Radioactive Bite" Count="2"/>
+		<Card Name="Radioactive Pulse" Count="2"/>
+		<Card Name="Retaliatory Mutation" Count="2"/>
+		<Card Name="Phase Shift" Count="6"/>
+	</Monster>
+	<Monster Name="Rust Creature" HP=" 27" Draw=" 2" VPWorth=" 1" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Rust Creatures"/>
+		<Card Name="Tough Hide" Count="2"/>
+		<Card Name="Corrosive Touch" Count="6"/>
+		<Card Name="Infected Bite" Count="4"/>
+		<Card Name="Pseudopod Strike" Count="2"/>
+		<Card Name="Vicious Bite" Count="3"/>
+		<Card Name="Obvious Maneuver" Count="1"/>
+		<Card Name="Positioning Move" Count="1"/>
+		<Card Name="Run" Count="2"/>
+	</Monster>
+	<Monster Name="Security Camera" HP=" 15" Draw=" 3" VPWorth=" 1" DefaultMove="" bGetAllInfo="True">
+		<InGameName Name=" Security Camera"/>
+		<Card Name="Immovable" Count="1"/>
+		<Card Name="Reverse Scan" Count="2"/>
+		<Card Name="Scan" Count="10"/>
+	</Monster>
+	<Monster Name="Security Cameras" HP=" 15" Draw=" 2" VPWorth=" 1" DefaultMove="" bGetAllInfo="True">
+		<InGameName Name=" Security Cameras"/>
+		<Card Name="Immovable" Count="1"/>
+		<Card Name="Reverse Scan" Count="2"/>
+		<Card Name="Scan" Count="10"/>
+	</Monster>
+	<Monster Name="Security Robot" HP=" 40" Draw=" 2" VPWorth=" 2" DefaultMove="Walk" bGetAllInfo="True">
+		<InGameName Name=" Security Robot"/>
+		<Card Name="Charge Up" Count="10"/>
+	</Monster>
+	<Monster Name="Shade" HP=" 24" Draw=" 3" VPWorth=" 2" DefaultMove="Fly" bGetAllInfo="True">
+		<InGameName Name=" Shade"/>
+		<Card Name="Unholy Curse" Count="1"/>
+		<Card Name="Wail" Count="1"/>
+		<Card Name="Binding Shadows" Count="3"/>
+		<Card Name="Curse Of Fragility" Count="1"/>
+		<Card Name="Roulette" Count="1"/>
+		<Card Name="Afflictor" Count="1"/>
+		<Card Name="Sorcerous Blast" Count="2"/>
+		<Card Name="Absorbing Block" Count="2"/>
+		<Card Name="Negative Energy Being" Count="4"/>
+		<Card Name="Hover" Count="2"/>
+		<Card Name="Traveling Curse" Count="3"/>
+		<Card Name="Creature Of The Night" Count="1"/>
+		<Card Name="Unholy Energy" Count="2"/>
+	</Monster>
+	<Monster Name="Sharkbear" HP=" 33" Draw=" 2" VPWorth=" 2" DefaultMove="Mighty Charge" bGetAllInfo="True">
+		<InGameName Name=" Sharkbear"/>
+		<Card Name="Toughness" Count="2"/>
+		<Card Name="Barge" Count="1"/>
+		<Card Name="Shredding Strike" Count="3"/>
+		<Card Name="Vicious Bite" Count="5"/>
+		<Card Name="Mindless Battlerage" Count="1"/>
+		<Card Name="Clumsy" Count="1"/>
+		<Card Name="Mighty Charge" Count="4"/>
+		<Card Name="Walk" Count="2"/>
+	</Monster>
+	<Monster Name="Silver Crossbowmen" HP=" 19" Draw=" 1.5" VPWorth=" 1" DefaultMove="Flanking Move" bGetAllInfo="True">
+		<InGameName Name=" Silver Crossbowmen"/>
+		<Card Name="Inquisitor's Badge" Count="1"/>
+		<Card Name="Silver Bolt" Count="5"/>
+		<Card Name="Puncturing Shot" Count="5"/>
+		<Card Name="Lucky Charm" Count="1"/>
+		<Card Name="Uncanny Dodge" Count="1"/>
+		<Card Name="Impaler" Count="1"/>
+		<Card Name="Squeamish" Count="1"/>
+		<Card Name="Escaping Run" Count="1"/>
+		<Card Name="Vengeance" Count="1"/>
+		<Card Name="Investigate" Count="1"/>
+	</Monster>
+	<Monster Name="Skeleton Warrior" HP=" 10" Draw=" 1" VPWorth=" 1" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Skeleton Warriors"/>
+		<Card Name="Only Bones" Count="3"/>
+		<Card Name="Penetrating Cut" Count="3"/>
+		<Card Name="Perforating Strike" Count="2"/>
+		<Card Name="Reaching Swing" Count="2"/>
+		<Card Name="Swarming Attack" Count="6"/>
+		<Card Name="Fumble" Count="2"/>
+		<Card Name="Run" Count="3"/>
+	</Monster>
+	<Monster Name="Slice Beasts" HP=" 8" Draw=" 1" VPWorth=" 0" DefaultMove="Scuttle" bGetAllInfo="True">
+		<InGameName Name=" Slice Beasts"/>
+		<Card Name="Vicious Bite" Count="5"/>
+		<Card Name="Edible" Count="1"/>
+		<Card Name="Lunging Bite" Count="1"/>
+	</Monster>
+	<Monster Name="Slub'Gut" HP=" 15" Draw=" 3" VPWorth=" 2" DefaultMove="Walk" bGetAllInfo="True">
+		<InGameName Name=" Slub Gut"/>
+		<Card Name="Bad Luck" Count="6"/>
+		<Card Name="Predictable Stab" Count="3"/>
+		<Card Name="Unholy Curse" Count="2"/>
+		<Card Name="Walk" Count="3"/>
+	</Monster>
+	<Monster Name="Sparkler" HP=" 10" Draw=" 1" VPWorth=" 1" DefaultMove="Teleport Self" bGetAllInfo="True">
+		<InGameName Name=" Sparklers"/>
+		<Card Name="Deadly Spark" Count="2"/>
+		<Card Name="Devastating Spark" Count="2"/>
+		<Card Name="Powerful Spark" Count="3"/>
+		<Card Name="Missile Block" Count="2"/>
+		<Card Name="Teleport Self" Count="1"/>
+	</Monster>
+	<Monster Name="Spider" HP=" 13" Draw=" 1" VPWorth=" 1" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Spiders"/>
+		<Card Name="Bite" Count="5"/>
+		<Card Name="Entangle" Count="2"/>
+		<Card Name="Infected Bite" Count="3"/>
+		<Card Name="Dropped Guard" Count="1"/>
+		<Card Name="Run" Count="2"/>
+		<Card Name="Dodge" Count="2"/>
+		<Card Name="Jump Back" Count="2"/>
+	</Monster>
+	<Monster Name="Spirits" HP=" 26" Draw=" 1.5" VPWorth=" 1" DefaultMove="Planar Travel" bGetAllInfo="True">
+		<InGameName Name=" Spirits"/>
+		<Card Name="Greater Spell Skill" Count="4"/>
+		<Card Name="Ancient Grudge" Count="4"/>
+		<Card Name="Boo!" Count="4"/>
+		<Card Name="Doom" Count="2"/>
+		<Card Name="Unholy Curse" Count="1"/>
+		<Card Name="Hex Of Dissolution" Count="3"/>
+		<Card Name="Acid Pool" Count="4"/>
+		<Card Name="Absorbing Block" Count="1"/>
+		<Card Name="Ethereality" Count="3"/>
+		<Card Name="Acid Leak" Count="3"/>
+		<Card Name="Creature Of The Night" Count="2"/>
+		<Card Name="Cowardly" Count="3"/>
+		<Card Name="Planar Travel" Count="2"/>
+	</Monster>
+	<Monster Name="Spreading Oak" HP=" 31" Draw=" 2" VPWorth=" 1" DefaultMove="Walk" bGetAllInfo="True">
+		<InGameName Name=" Oak Bombardier"/>
+		<Card Name="Tough Bark" Count="1"/>
+		<Card Name="Acorn Barrage" Count="6"/>
+		<Card Name="Acorn Bombardment" Count="2"/>
+		<Card Name="Acorn Sling" Count="4"/>
+		<Card Name="Entangling Roots" Count="3"/>
+		<Card Name="Mighty Limb Smash" Count="5"/>
+		<Card Name="Combustible" Count="3"/>
+		<Card Name="Violent Spin" Count="2"/>
+	</Monster>
+	<Monster Name="Spreading Oaks" HP=" 31" Draw=" 1" VPWorth=" 1" DefaultMove="Walk" bGetAllInfo="True">
+		<InGameName Name=" Oak Bombardiers"/>
+		<Card Name="Tough Bark" Count="1"/>
+		<Card Name="Acorn Barrage" Count="6"/>
+		<Card Name="Acorn Bombardment" Count="2"/>
+		<Card Name="Acorn Sling" Count="4"/>
+		<Card Name="Entangling Roots" Count="3"/>
+		<Card Name="Mighty Limb Smash" Count="5"/>
+		<Card Name="Combustible" Count="3"/>
+		<Card Name="Violent Spin" Count="2"/>
+	</Monster>
+	<Monster Name="Stench Demon" HP=" 20" Draw=" 2" VPWorth=" 6" DefaultMove="Immovable" bGetAllInfo="True">
+		<InGameName Name=" Morvin The Malodorous"/>
+		<Card Name="Choking Bolt" Count="3"/>
+		<Card Name="Horned Headbutt" Count="2"/>
+		<Card Name="Noxious Breath" Count="4"/>
+		<Card Name="Poisoned Pseudopod" Count="3"/>
+		<Card Name="Spear of Darkness" Count="3"/>
+		<Card Name="Stink Bomb" Count="2"/>
+		<Card Name="Arrogant Armor" Count="2"/>
+		<Card Name="Slowed" Count="1"/>
+	</Monster>
+	<Monster Name="Stench Demon 2" HP=" 30" Draw=" 2" VPWorth=" 6" DefaultMove="Walk" bGetAllInfo="True">
+		<InGameName Name=" Morvin The Malodorous"/>
+		<Card Name="Choking Bolt" Count="3"/>
+		<Card Name="Horned Headbutt" Count="3"/>
+		<Card Name="Noxious Breath" Count="4"/>
+		<Card Name="Poisoned Pseudopod" Count="3"/>
+		<Card Name="Stink Bomb" Count="2"/>
+		<Card Name="Immovable" Count="1"/>
+		<Card Name="Arrogant Armor" Count="2"/>
+	</Monster>
+	<Monster Name="Storge" HP=" 16" Draw=" 0.5" VPWorth=" 1" DefaultMove="Fly" bGetAllInfo="True">
+		<InGameName Name=" Storges"/>
+		<Card Name="Resistant Hide" Count="2"/>
+		<Card Name="Enervating Touch" Count="2"/>
+		<Card Name="Draining Touch" Count="1"/>
+		<Card Name="Invigorating Touch" Count="4"/>
+		<Card Name="Sneaky Bloodsuck" Count="3"/>
+		<Card Name="Vicious Bite" Count="2"/>
+		<Card Name="Fly" Count="3"/>
+		<Card Name="Hard to Pin Down" Count="1"/>
+	</Monster>
+	<Monster Name="Stout Maple Tree" HP=" 20" Draw=" 2" VPWorth=" 1" DefaultMove="Walk" bGetAllInfo="True">
+		<InGameName Name=" Maple Tree"/>
+		<Card Name="Solid Wood" Count="3"/>
+		<Card Name="Able Bludgeon" Count="2"/>
+		<Card Name="Entangling Roots" Count="4"/>
+		<Card Name="Powerful Bludgeon" Count="2"/>
+		<Card Name="Staggering Blow" Count="1"/>
+		<Card Name="Strong Bludgeon" Count="2"/>
+		<Card Name="Tree Limb Smash" Count="1"/>
+		<Card Name="Crusher" Count="1"/>
+		<Card Name="Combustible" Count="3"/>
+		<Card Name="Walk" Count="3"/>
+	</Monster>
+	<Monster Name="Strench the Pungent" HP=" 15" Draw=" 3" VPWorth=" 2" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Strench the Pungent"/>
+		<Card Name="Tough Hide" Count="2"/>
+		<Card Name="Arcing Spark" Count="1"/>
+		<Card Name="Blast" Count="3"/>
+		<Card Name="Sorcerous Blast" Count="3"/>
+		<Card Name="Sorcerous Bolt" Count="7"/>
+		<Card Name="Brain Burn" Count="1"/>
+		<Card Name="Run" Count="2"/>
+		<Card Name="Scuttle" Count="1"/>
+	</Monster>
+	<Monster Name="Sword Guard" HP=" 19" Draw=" 1.5" VPWorth=" 1" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Guards"/>
+		<Card Name="Hack" Count="6"/>
+		<Card Name="Strong Stab" Count="6"/>
+		<Card Name="Block" Count="5"/>
+		<Card Name="Fumble" Count="1"/>
+		<Card Name="Run" Count="3"/>
+		<Card Name="All Out Attack" Count="1"/>
+		<Card Name="Parrying Strike" Count="2"/>
+	</Monster>
+	<Monster Name="Tall Beech Tree" HP=" 21" Draw=" 2" VPWorth=" 2" DefaultMove="Walk" bGetAllInfo="True">
+		<InGameName Name=" Tall Beech Tree"/>
+		<Card Name="Solid Wood" Count="3"/>
+		<Card Name="Bludgeoning Branch" Count="3"/>
+		<Card Name="Clubbing Branch" Count="3"/>
+		<Card Name="Long Branch" Count="4"/>
+		<Card Name="Simple Bash" Count="3"/>
+		<Card Name="Crusher" Count="1"/>
+		<Card Name="Combustible" Count="2"/>
+		<Card Name="Walk" Count="2"/>
+	</Monster>
+	<Monster Name="Tall Beech Trees" HP=" 21" Draw=" 1.5" VPWorth=" 2" DefaultMove="Walk" bGetAllInfo="True">
+		<InGameName Name=" Tall Beech Trees"/>
+		<Card Name="Solid Wood" Count="3"/>
+		<Card Name="Bludgeoning Branch" Count="3"/>
+		<Card Name="Clubbing Branch" Count="3"/>
+		<Card Name="Long Branch" Count="4"/>
+		<Card Name="Simple Bash" Count="3"/>
+		<Card Name="Crusher" Count="1"/>
+		<Card Name="Combustible" Count="2"/>
+		<Card Name="Walk" Count="2"/>
+	</Monster>
+	<Monster Name="Tall Kobold" HP=" 14" Draw=" 3" VPWorth=" 2" DefaultMove="Walk" bGetAllInfo="True">
+		<InGameName Name=" Kobold Hero"/>
+		<Card Name="Weak Strike" Count="5"/>
+		<Card Name="Weak Block" Count="10"/>
+	</Monster>
+	<Monster Name="Tan Mold" HP=" 26" Draw=" 3" VPWorth=" 2" DefaultMove="Walk" bGetAllInfo="True">
+		<InGameName Name=" Tan Mold"/>
+		<Card Name="Amorphous Body" Count="3"/>
+		<Card Name="Blob of Slime" Count="3"/>
+		<Card Name="Infected Bite" Count="4"/>
+		<Card Name="Poisoned Pseudopod" Count="5"/>
+		<Card Name="Pseudopod Strike" Count="2"/>
+		<Card Name="Death Meld" Count="3"/>
+		<Card Name="Walk" Count="3"/>
+		<Card Name="Slowed" Count="2"/>
+	</Monster>
+	<Monster Name="The Bones of Zu-Tenh" HP=" 10" Draw=" 2" VPWorth=" 2" DefaultMove="Planar Travel" bGetAllInfo="True">
+		<InGameName Name=" The Bones of Zu-Tenh"/>
+		<Card Name="Arcing Spark" Count="4"/>
+		<Card Name="Sorcerous Bolt" Count="4"/>
+		<Card Name="Zap" Count="4"/>
+		<Card Name="Trip" Count="4"/>
+	</Monster>
+	<Monster Name="Thought Muncher" HP=" 22" Draw=" 1.5" VPWorth=" 1" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Thought Munchers"/>
+		<Card Name="Force Bolt" Count="2"/>
+		<Card Name="Memory Loss" Count="2"/>
+		<Card Name="Mind Munch" Count="5"/>
+		<Card Name="Perplexing Ray" Count="2"/>
+		<Card Name="Short Perplexing Ray" Count="1"/>
+		<Card Name="Sorcerous Bolt" Count="3"/>
+		<Card Name="Mind Leak" Count="1"/>
+		<Card Name="Walk" Count="3"/>
+	</Monster>
+	<Monster Name="Tin Golem" HP=" 15" Draw=" 1" VPWorth=" 1" DefaultMove="Walk" bGetAllInfo="True">
+		<InGameName Name=" Tin Golems"/>
+		<Card Name="Mail" Count="4"/>
+		<Card Name="Able Bludgeon" Count="2"/>
+		<Card Name="Bludgeon" Count="3"/>
+		<Card Name="Simple Strike" Count="4"/>
+		<Card Name="Clumsy" Count="2"/>
+		<Card Name="Walk" Count="4"/>
+	</Monster>
+	<Monster Name="Tombstones" HP=" 14" Draw=" 1" VPWorth=" 0" DefaultMove="Shuffle" bGetAllInfo="True">
+		<InGameName Name=" Tombstones"/>
+		<Card Name="Mighty Bludgeon" Count="3"/>
+		<Card Name="Staggering Blow" Count="2"/>
+		<Card Name="Shuffle" Count="2"/>
+	</Monster>
+	<Monster Name="Towering Maple Tree" HP=" 24" Draw=" 2" VPWorth=" 1" DefaultMove="Walk" bGetAllInfo="True">
+		<InGameName Name=" Gnarled Maple Trees"/>
+		<Card Name="Solid Wood" Count="2"/>
+		<Card Name="Bludgeon" Count="3"/>
+		<Card Name="Entangling Roots" Count="4"/>
+		<Card Name="Strong Bludgeon" Count="3"/>
+		<Card Name="Sweeping Smash" Count="2"/>
+		<Card Name="Tree Limb Smash" Count="3"/>
+		<Card Name="Crusher" Count="1"/>
+		<Card Name="Combustible" Count="2"/>
+		<Card Name="Walk" Count="3"/>
+		<Card Name="Slowed" Count="1"/>
+	</Monster>
+	<Monster Name="Trapling" HP=" 11" Draw=" 1" VPWorth=" 1" DefaultMove="Shuffle" bGetAllInfo="True">
+		<InGameName Name=" Traplings"/>
+		<Card Name="Solid Wood" Count="1"/>
+		<Card Name="Acid Spray" Count="4"/>
+		<Card Name="Fire Spray" Count="4"/>
+		<Card Name="Infected Bite" Count="4"/>
+		<Card Name="Shuffle" Count="2"/>
+	</Monster>
+	<Monster Name="Trog Gouger" HP=" 15" Draw=" 1.5" VPWorth=" 1" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Trog Gougers"/>
+		<Card Name="Crude Plates" Count="4"/>
+		<Card Name="Predictable Stab" Count="3"/>
+		<Card Name="Spear Thrust" Count="3"/>
+		<Card Name="Strong Stab" Count="6"/>
+		<Card Name="Dropped Guard" Count="1"/>
+		<Card Name="Run" Count="1"/>
+	</Monster>
+	<Monster Name="Trog Scuttler" HP=" 7" Draw=" 1" VPWorth=" 1" DefaultMove="Scuttle" bGetAllInfo="True">
+		<InGameName Name=" Trog Scuttlers"/>
+		<Card Name="Tough Hide" Count="2"/>
+		<Card Name="Predictable Stab" Count="2"/>
+		<Card Name="Spear Thrust" Count="6"/>
+		<Card Name="Stab" Count="5"/>
+		<Card Name="Run" Count="2"/>
+		<Card Name="Scuttle" Count="3"/>
+	</Monster>
+	<Monster Name="Trog Spearman" HP=" 10" Draw=" 1" VPWorth=" 1" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Trog Spearman"/>
+		<Card Name="Tough Hide" Count="2"/>
+		<Card Name="Predictable Stab" Count="3"/>
+		<Card Name="Spear Thrust" Count="3"/>
+		<Card Name="Stab" Count="3"/>
+		<Card Name="Strong Stab" Count="3"/>
+		<Card Name="Dropped Guard" Count="1"/>
+		<Card Name="Run" Count="3"/>
+	</Monster>
+	<Monster Name="Trog Wizard" HP=" 6" Draw=" 1" VPWorth=" 1" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Trog Wizard"/>
+		<Card Name="Tough Hide" Count="2"/>
+		<Card Name="Blast" Count="5"/>
+		<Card Name="Bungled Bolt" Count="2"/>
+		<Card Name="Short Blast" Count="4"/>
+		<Card Name="Sorcerous Bolt" Count="1"/>
+		<Card Name="Run" Count="3"/>
+		<Card Name="Scuttle" Count="3"/>
+	</Monster>
+	<Monster Name="Troll King" HP=" 50" Draw=" 3" VPWorth=" 3" DefaultMove="Scuttle" bGetAllInfo="True">
+		<InGameName Name=" Grendel"/>
+		<InGameName Name=" Troll King"/>
+		<Card Name="Toughness" Count="1"/>
+		<Card Name="Pathfinding" Count="2"/>
+		<Card Name="Shrug it Off" Count="2"/>
+		<Card Name="Almighty Bludgeon" Count="2"/>
+		<Card Name="Mighty Bludgeon" Count="4"/>
+		<Card Name="Obliterating Bludgeon" Count="2"/>
+		<Card Name="Powerful Bludgeon" Count="2"/>
+		<Card Name="Pushback Parry" Count="1"/>
+		<Card Name="Troll Regeneration" Count="4"/>
+		<Card Name="Combustible" Count="1"/>
+		<Card Name="Run" Count="1"/>
+		<Card Name="Scamper" Count="1"/>
+		<Card Name="Scuttle" Count="2"/>
+		<Card Name="Thick Hide Armor" Count="1"/>
+	</Monster>
+	<Monster Name="Troll Warrior" HP=" 40" Draw=" 2" VPWorth=" 2" DefaultMove="Walk" bGetAllInfo="True">
+		<InGameName Name=" Troll Warrior"/>
+		<Card Name="Bite" Count="2"/>
+		<Card Name="Mighty Bludgeon" Count="3"/>
+		<Card Name="Obliterating Bludgeon" Count="1"/>
+		<Card Name="Staggering Blow" Count="4"/>
+		<Card Name="Troll Regeneration" Count="4"/>
+		<Card Name="Combustible" Count="1"/>
+		<Card Name="Charge" Count="3"/>
+		<Card Name="Run" Count="2"/>
+		<Card Name="Blind Rage" Count="1"/>
+		<Card Name="Thick Hide Armor" Count="2"/>
+	</Monster>
+	<Monster Name="Tsastii" HP=" 30" Draw=" 2" VPWorth=" 2" DefaultMove="Walk" bGetAllInfo="True">
+		<InGameName Name=" Tsastii"/>
+		<Card Name="Scabrous Skin" Count="2"/>
+		<Card Name="Massive Jaws" Count="1"/>
+		<Card Name="Sticky Spittle" Count="3"/>
+		<Card Name="Tongue Grab" Count="6"/>
+		<Card Name="Tongue Lash" Count="4"/>
+		<Card Name="Tongue Storm" Count="4"/>
+		<Card Name="Reflect Missile" Count="2"/>
+		<Card Name="Run" Count="2"/>
+	</Monster>
+	<Monster Name="Tvericus" HP=" 38" Draw=" 2" VPWorth=" 2" DefaultMove="Walk" bGetAllInfo="True">
+		<InGameName Name=" Tvericus"/>
+		<Card Name="Only Bones" Count="4"/>
+		<Card Name="Anvil Strike" Count="1"/>
+		<Card Name="Mighty Bludgeon" Count="4"/>
+		<Card Name="Powerful Bludgeon" Count="4"/>
+		<Card Name="Strong Bludgeon" Count="1"/>
+		<Card Name="Trained Bludgeon" Count="2"/>
+		<Card Name="Violent Overswing" Count="3"/>
+		<Card Name="Clumsy" Count="3"/>
+		<Card Name="Large Weapon" Count="1"/>
+		<Card Name="Run" Count="2"/>
+	</Monster>
+	<Monster Name="Umber Bulk" HP=" 32" Draw=" 2" VPWorth=" 1" DefaultMove="Walk" bGetAllInfo="True">
+		<InGameName Name=" Umber Bulks"/>
+		<Card Name="Reliable Hide Armor" Count="1"/>
+		<Card Name="Resistant Hide" Count="1"/>
+		<Card Name="Path of Knives" Count="2"/>
+		<Card Name="Powerful Hack" Count="2"/>
+		<Card Name="Shredding Strike" Count="2"/>
+		<Card Name="Simple Strike" Count="2"/>
+		<Card Name="Strong Hack" Count="2"/>
+		<Card Name="Maze of the Mind" Count="5"/>
+		<Card Name="Clumsy" Count="2"/>
+		<Card Name="Run" Count="2"/>
+	</Monster>
+	<Monster Name="Undead Priests" HP=" 30" Draw=" 2.5" VPWorth=" 2" DefaultMove="Walk" bGetAllInfo="True">
+		<InGameName Name=" Undead Priests"/>
+		<Card Name="Mass Frenzy" Count="2"/>
+		<Card Name="Impenetrable Nimbus" Count="2"/>
+		<Card Name="Demonic Power" Count="1"/>
+		<Card Name="Mighty Bludgeon" Count="2"/>
+		<Card Name="Infected Bite" Count="2"/>
+		<Card Name="Brains!" Count="1"/>
+		<Card Name="Punishing Strike" Count="1"/>
+		<Card Name="Invigorating Touch" Count="2"/>
+		<Card Name="Too Horrible" Count="3"/>
+		<Card Name="Blight" Count="4"/>
+		<Card Name="Traveling Curse" Count="1"/>
+		<Card Name="Creature Of The Night" Count="1"/>
+		<Card Name="Walk" Count="2"/>
+	</Monster>
+	<Monster Name="Vigilantes" HP=" 28" Draw=" 1.5" VPWorth=" 1" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Vigilantes"/>
+		<Card Name="Inquisitor's Badge" Count="1"/>
+		<Card Name="Inquisitor's Strike" Count="5"/>
+		<Card Name="Mighty Hack" Count="2"/>
+		<Card Name="Purging Strike" Count="2"/>
+		<Card Name="Powerful Hack" Count="1"/>
+		<Card Name="Lucky Charm" Count="2"/>
+		<Card Name="Fright" Count="1"/>
+		<Card Name="Vengeance" Count="1"/>
+		<Card Name="Warding Lance" Count="2"/>
+		<Card Name="Investigate" Count="1"/>
+	</Monster>
+	<Monster Name="Vingus Stoneblessed" HP=" 23" Draw=" 2" VPWorth=" 2" DefaultMove="Walk" bGetAllInfo="True">
+		<InGameName Name=" Vingus Stoneblessed"/>
+		<Card Name="Mail" Count="2"/>
+		<Card Name="Heal" Count="1"/>
+		<Card Name="Minor Heal" Count="5"/>
+		<Card Name="Strong Bash" Count="3"/>
+		<Card Name="Walk" Count="3"/>
+		<Card Name="Bash" Count="1"/>
+		<Card Name="Heavy Armor" Count="1"/>
+	</Monster>
+	<Monster Name="War Dog" HP=" 20" Draw=" 2" VPWorth=" 2" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" War Dog"/>
+		<Card Name="Cowardly Attack" Count="2"/>
+		<Card Name="Clumsy" Count="1"/>
+		<Card Name="Cowardly" Count="1"/>
+		<Card Name="Scamper" Count="2"/>
+		<Card Name="All Out Attack" Count="1"/>
+		<Card Name="Jump Back" Count="2"/>
+		<Card Name="Nimble Strike" Count="4"/>
+		<Card Name="Penetrating Lunge" Count="6"/>
+		<Card Name="Skillful Dodge" Count="3"/>
+		<Card Name="Vicious Thrust" Count="3"/>
+	</Monster>
+	<Monster Name="War Monkey" HP=" 20" Draw=" 1" VPWorth=" 1" DefaultMove="Scamper" bGetAllInfo="True">
+		<InGameName Name=" War Monkeys"/>
+		<Card Name="Monkey Mail" Count="2"/>
+		<Card Name="Cowardly Attack" Count="3"/>
+		<Card Name="Monkey Punch" Count="6"/>
+		<Card Name="Pickpocket" Count="4"/>
+		<Card Name="Acrobatic Flip" Count="2"/>
+		<Card Name="Simian Reflexes" Count="2"/>
+		<Card Name="Scamper" Count="2"/>
+	</Monster>
+	<Monster Name="Warden Gorald" HP=" 20" Draw=" 2" VPWorth=" 2" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Warden Gorald"/>
+		<Card Name="Bludgeon" Count="6"/>
+		<Card Name="Penetrating Cut" Count="2"/>
+		<Card Name="Perforating Strike" Count="1"/>
+		<Card Name="Powerful Hack" Count="1"/>
+		<Card Name="Parry" Count="5"/>
+		<Card Name="Obvious Maneuver" Count="1"/>
+		<Card Name="Lunging Hack" Count="2"/>
+		<Card Name="Lunging Thrust" Count="3"/>
+		<Card Name="Penetrating Lunge" Count="1"/>
+	</Monster>
+	<Monster Name="Werecake" HP=" 60" Draw=" 4" VPWorth=" 6" DefaultMove="Scuttle" bGetAllInfo="True">
+		<InGameName Name=" Werecake"/>
+		<Card Name="Cut the Cake" Count="2"/>
+		<Card Name="Frosting Cannon" Count="3"/>
+		<Card Name="Sorcerous Blast" Count="3"/>
+		<Card Name="Icy Block" Count="1"/>
+		<Card Name="Shuffle" Count="1"/>
+		<Card Name="Made of Cake" Count="1"/>
+	</Monster>
+	<Monster Name="Werewolf" HP=" 42" Draw=" 5" VPWorth=" 2" DefaultMove="Mighty Charge" bGetAllInfo="True">
+		<InGameName Name=" Werewolf"/>
+		<Card Name="Leathery Hide" Count="1"/>
+		<Card Name="Monstrous Hide" Count="2"/>
+		<Card Name="Massive Jaws" Count="4"/>
+		<Card Name="Unnerving Strike" Count="1"/>
+		<Card Name="War Cry" Count="2"/>
+		<Card Name="Forward Thinking" Count="2"/>
+		<Card Name="Mad Dog" Count="2"/>
+		<Card Name="Muscle Through" Count="2"/>
+		<Card Name="All Out Attack" Count="2"/>
+		<Card Name="Prowl" Count="2"/>
+		<Card Name="Vicious Thrust" Count="2"/>
+	</Monster>
+	<Monster Name="Whorl" HP=" 25" Draw=" 3" VPWorth=" 2" DefaultMove="Fly" bGetAllInfo="True">
+		<InGameName Name=" Whorl"/>
+		<Card Name="Long Spark" Count="1"/>
+		<Card Name="Mighty Spark" Count="3"/>
+		<Card Name="Powerful Spark" Count="2"/>
+		<Card Name="Punishing Beam" Count="4"/>
+		<Card Name="Punishing Bludgeon" Count="3"/>
+		<Card Name="Parry" Count="2"/>
+		<Card Name="Spark Generator" Count="1"/>
+		<Card Name="Dropped Guard" Count="1"/>
+		<Card Name="Fly" Count="3"/>
+		<Card Name="Polearm Slash" Count="2"/>
+		<Card Name="Surging Bolt" Count="2"/>
+	</Monster>
+	<Monster Name="Wild Gnome" HP=" 28" Draw=" 1" VPWorth=" 1" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Wild Gnome"/>
+		<InGameName Name=""/>
+		<Card Name="Cowardly Attack" Count="4"/>
+		<Card Name="Perforating Strike" Count="2"/>
+		<Card Name="Violent Overswing" Count="1"/>
+		<Card Name="Trip" Count="1"/>
+		<Card Name="Run" Count="1"/>
+		<Card Name="Lunging Strike" Count="2"/>
+		<Card Name="Nimble Strike" Count="2"/>
+		<Card Name="Reflexive Teleport" Count="3"/>
+		<Card Name="Vicious Thrust" Count="3"/>
+	</Monster>
+	<Monster Name="Wyvern" HP=" 20" Draw=" 1.5" VPWorth=" 1" DefaultMove="Fly" bGetAllInfo="True">
+		<InGameName Name=" Wyverns"/>
+		<Card Name="Scaly Armor" Count="1"/>
+		<Card Name="Backfiring Breath" Count="2"/>
+		<Card Name="Sparking Breath" Count="9"/>
+		<Card Name="Venomous Barbed Tail" Count="4"/>
+		<Card Name="Evasion" Count="2"/>
+		<Card Name="Supercharged Breath" Count="4"/>
+		<Card Name="Fly" Count="2"/>
+	</Monster>
+	<Monster Name="Xbow Guard" HP=" 15" Draw=" 1" VPWorth=" 1" DefaultMove="Run" bGetAllInfo="True">
+		<InGameName Name=" Marksmen"/>
+		<Card Name="Piercing Missile" Count="8"/>
+		<Card Name="Puncturing Shot" Count="2"/>
+		<Card Name="Tricky Stab" Count="2"/>
+		<Card Name="Dropped Guard" Count="1"/>
+		<Card Name="Escaping Run" Count="2"/>
+		<Card Name="Run" Count="3"/>
+		<Card Name="Jump Back" Count="3"/>
+	</Monster>
+	<Monster Name="Yellow Dragon" HP=" 60" Draw=" 5" VPWorth=" 6" DefaultMove="Walk" bGetAllInfo="True">
+		<InGameName Name=" Xanthicius"/>
+		<Card Name="Shimmering Aura" Count="2"/>
+		<Card Name="Tough Hide" Count="2"/>
+		<Card Name="Bite" Count="4"/>
+		<Card Name="Corrosive Breath" Count="3"/>
+		<Card Name="Dragon Claw" Count="3"/>
+		<Card Name="Massive Jaws" Count="3"/>
+		<Card Name="Mighty Bludgeon" Count="1"/>
+		<Card Name="Rockfall" Count="2"/>
+		<Card Name="Venomous Barbed Tail" Count="3"/>
+		<Card Name="Trip" Count="1"/>
+		<Card Name="Fly" Count="2"/>
+	</Monster>
+	<Monster Name="Yellow Pudding" HP=" 18" Draw=" 1.5" VPWorth=" 1" DefaultMove="Walk" bGetAllInfo="True">
+		<InGameName Name=" Yellow Puddings"/>
+		<Card Name="Amorphous Body" Count="4"/>
+		<Card Name="Dissolve Armor" Count="3"/>
+		<Card Name="Pseudopod Strike" Count="4"/>
+		<Card Name="Small Pseudopod Strike" Count="3"/>
+		<Card Name="Staggering Blow" Count="1"/>
+		<Card Name="Strong Bludgeon" Count="3"/>
+		<Card Name="Death Meld" Count="4"/>
+		<Card Name="Vulnerable" Count="1"/>
+		<Card Name="Walk" Count="4"/>
+	</Monster>
+	<Monster Name="Young Maple Tree" HP=" 16" Draw=" 1" VPWorth=" 1" DefaultMove="Walk" bGetAllInfo="True">
+		<InGameName Name=" Young Maple Trees"/>
+		<Card Name="Solid Wood" Count="3"/>
+		<Card Name="Able Bludgeon" Count="4"/>
+		<Card Name="Bludgeon" Count="6"/>
+		<Card Name="Entangling Roots" Count="4"/>
+		<Card Name="Powerful Bludgeon" Count="1"/>
+		<Card Name="Staggering Blow" Count="2"/>
+		<Card Name="Strong Bludgeon" Count="2"/>
+		<Card Name="Combustible" Count="3"/>
+		<Card Name="Walk" Count="3"/>
+	</Monster>
+	<Monster Name="Young Wyvern" HP=" 30" Draw=" 1" VPWorth=" 1" DefaultMove="Fly" bGetAllInfo="True">
+		<InGameName Name=" Young Wyverns"/>
+		<Card Name="Grounding Plates" Count="3"/>
+		<Card Name="Bite" Count="1"/>
+		<Card Name="Deadly Spark" Count="3"/>
+		<Card Name="Infected Bite" Count="4"/>
+		<Card Name="Mighty Spark" Count="2"/>
+		<Card Name="Wild Spark" Count="5"/>
+		<Card Name="Spark Generator" Count="2"/>
+		<Card Name="Vulnerable" Count="2"/>
+		<Card Name="Fly" Count="2"/>
+		<Card Name="Scuttle" Count="2"/>
+	</Monster>
+	<Monster Name="Zombie" HP=" 13" Draw=" 0.5" VPWorth=" 1" DefaultMove="Shuffle" bGetAllInfo="True">
+		<InGameName Name=" Zombies"/>
+		<InGameName Name=" More Zombies"/>
+		<InGameName Name=" Zombie Mob"/>
+		<Card Name="Able Bludgeon" Count="1"/>
+		<Card Name="Bludgeon" Count="1"/>
+		<Card Name="Brains!" Count="4"/>
+		<Card Name="Infected Bite" Count="4"/>
+		<Card Name="Zombie Mob" Count="7"/>
+		<Card Name="Shuffle" Count="3"/>
+	</Monster>
+</MonsterBuild>
